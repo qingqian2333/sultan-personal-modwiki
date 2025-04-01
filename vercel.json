@@ -1,14 +1,14 @@
 {
     "builds": [
     {
-      "src": "index.cjs",
+      "src": "home.html",
       "use": "@vercel/node"
     }
   ],
     "rewrites": [
         {
          "source": "/(.*)",
-         "destination": "/index.html"
+         "destination": "/home.html"
         }
     ]
 }
