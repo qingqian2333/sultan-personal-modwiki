@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 14:35:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 14:35:27 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[card]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 14:48:19 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 14:48:16 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[card]]></title><description><![CDATA[ 
  <br><br><br>
 <br>"over":结局id 开启结局   
 <br>"event_on":event_id 开启 event  
@@ -23,15 +23,15 @@ id<br>
 
 <br>
 name<br>
-卡牌的名字，显示位置如图 <img alt="20250401153550.png" src="lib\media\20250401153550.png">  
+卡牌的名字，显示位置如图 <img alt="12.png" src="lib\media\12.png">  
 
 <br>
 title<br>
-卡牌副标题，显示位置如图 <img alt="20250401153716.png" src="lib\media\20250401153716.png">  
+卡牌副标题，显示位置如图 <img alt="14.png" src="lib\media\14.png">  
 
 <br>
 text<br>
-卡牌介绍，显示位置如图 <img alt="20250401154720.png" src="lib\media\20250401154720.png">  
+卡牌介绍，显示位置如图 <img alt="15.png" src="lib\media\15.png">  
 
 <br>
 pops<br>
@@ -44,7 +44,7 @@ card_favour<br>
 <br>
 type<br>
 卡牌分类，目前只有角色 char 、物品 item 和苏丹卡 sultan 三个大类，体现在如图位置
-<img alt="20250401155624.png" src="lib\media\20250401155624.png"><br>
+<img alt="16.png" src="lib\media\16.png"><br>
 不推荐新创建分类，因为会导致卡牌无法打开详情页，但如果你要的就是这个效果……除了无法打开详情页，它的运行一切正常
 
 <br>
@@ -61,7 +61,7 @@ resource
 
 <br>
 tag<br>
-卡牌携带的 tag，显示在如图位置 <img alt="20250401170240.png" src="lib\media\20250401170240.png">  
+卡牌携带的 tag，显示在如图位置 <img alt="18.png" src="lib\media\18.png">  
 
 <br>
 card_vanishing<br>
@@ -89,7 +89,444 @@ post_rite
 <br>action 结果（玩家不可见）
 
 
-]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><pubDate>Tue, 01 Apr 2025 14:08:13 GMT</pubDate><enclosure url="lib\media\20250401153550.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250401153550.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
+]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><pubDate>Tue, 01 Apr 2025 14:47:43 GMT</pubDate><enclosure url="lib\media\12.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\12.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>
+id<br>
+本 rite 事件 id，需唯一，官方格式为 50xxxxx
+
+<br>
+name
+本 rite 的名字，显示位置如图<br>
+<img alt="7.png" src="lib\media\7.png">
+
+<br>
+text<br>
+本 rite 描述，显示位置如图<br>
+<img alt="8.png" src="lib\media\8.png">
+
+<br>
+tips<br>
+本 rite 的提示语，显示位置如图<br>
+<img alt="9.png" src="lib\media\9.png"><br>
+格式为"some words",“next line words”
+
+<br>
+mapping_id<br>
+使用非默认事件背景显示的对应文件
+
+<br>
+once_new<br>
+是否新出现，0 为否显示 <img alt="4.png" src="lib\media\4.png">，1 为是仅显示前面的图标
+
+<br>
+round_number<br>
+本 rite 开启后的持续回合<br>
+为 0 时，点击 <img alt="11.png" src="lib\media\11.png"> 后直接结算<br>
+设置大于等于 1 时则 <img alt="10.png" src="lib\media\10.png"> 倒计时结束后结算  
+
+<br>
+waiting_round<br>
+本 rite 被触发后在地图上显示的回合数，0 常驻显示
+
+<br>
+waiting_round_end_action<br>
+本 rite 被触发后未手动操作运行，等待回合走到 0 后进行的操作
+
+<br>
+method_settlement<br>
+官方备注：没用
+
+<br>
+auto_begin<br>
+是否不进行操作也会自动开始
+
+<br>
+auto_result<br>
+是否自动显示结果
+
+<br>
+location<br>
+本 rite 在地图上的地址
+
+<br>
+icon<br>
+本 rite 采用的 <img alt="6.png" src="lib\media\6.png"> 图标资源路径  
+
+<br>
+tag_tips<br>
+本 rite 内参与判断的属性，此项玩家不可见
+
+<br>
+tag_tips_up<br>
+显示给玩家的本 rite 判断属性
+
+<br>
+tips_text<br>
+判断属性的文字提示
+
+<br>
+open_conditions<br>
+本 rite 的开启条件，未达成时 rite 右下角的√不可点击触发
+
+<br>
+random_text<br>
+骰子的文字提示，此项玩家不可见
+
+<br>
+random_text_up<br>
+显示给玩家的骰子提示
+
+<br>
+settlement_prior<br>
+优先判断的内容，自上而下判定，满足任意 condition 条件后结束判断<br>
+会覆盖settlement，仍然可以触发settlement_extre
+
+<br>
+settlement  
+
+<br>正常内容显示处，自上而下判定，满足任意 condition 条件后结束判断  
+<br>condition<br>
+判断条件
+<br>result_title<br>
+满足条件后显示的结果标题
+<br>result_text<br>
+满足条件后显示的结果文本
+<br>result<br>
+显示给玩家的结果
+<br>action<br>
+不显示给玩家的结果
+
+
+<br>
+settlement_extre<br>
+额外判定，自上而下判定，所有满足条件的都会按顺序显示结果
+
+<br>
+cards_slot
+
+<br>卡槽，必须有一个
+<br>s1<br>
+每个 rite 独立，由 1 开始编号
+<br>condition<br>
+可放入的卡的条件
+<br>open_adsorb<br>
+是否自动吸入，1 为是
+<br>is_key<br>
+是否被锁住（被锁住不可再调整状态，如取出 rite，安装装备）
+<br>is_empty<br>
+是否可以为空，1 为是
+<br>is_enemy<br>
+是否被判定为敌方单位
+<br>text<br>
+鼠标悬停在卡槽上看见的提示
+<br>pops  
+
+<br>可不写，放入卡槽中出现的语言气泡  
+<br>condition<br>
+气泡出现条件
+<br>action  
+
+<br>气泡出现内容，此处直接写入会按顺序显示  
+<br>choose<br>
+选取一个内容显示
+
+
+
+
+
+
+]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><pubDate>Tue, 01 Apr 2025 14:47:21 GMT</pubDate><enclosure url="lib\media\7.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\7.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
+ <br>
+<br>你对手牌区进行更改后点击手牌区右上角的 x 和手牌区右下角的√的改动结果：
+<br><br>
+<br>当前版本拉满命运商店需要花 504 点命运点（并未统计测试版）  
+<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="5.png" src="lib\media\5.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
+<br>珠宝商人热娜设计的产品共 12 件全是饰品
+<br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
+（意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
+]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 14:46:52 GMT</pubDate><enclosure url="lib\media\5.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\5.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
+ <br><br>存档文件夹中的 auto_save. json，仅在一局游戏中存在此存档，如果当前没有正在进行中的游戏，文件夹内没有该文件  <br><br>退出时手动点击保存游戏<br>
+每日抽取苏丹卡且触发完当天的 event 后，此时生成新 round 文件<br>
+<img alt="2.png" src="lib\media\2.png"><br>
+调整手牌位置和改变仪式状态（包括点开和关闭，但仅开关不会写入内容）<br>
+进入下一天点击后生成新 round 文件<br>
+<img alt="3.png" src="lib\media\3.png"><br>
+疯狂到底再抽一张苏丹卡，在卡进入牌池之后保存（也就是说抽到不满意，你可以急流勇退退出游戏 x）<br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
+<br>
+configId<br>
+config 的 id，目前新手教程是 0，正常开局是 1  
+
+<br>
+configVersion<br>
+config 文件的版本  
+
+<br>
+name<br>
+主角姓名  
+
+<br>
+difficulty<br>
+难度等级（新手教程 0，梅姬 1，哈桑，女术士）  
+
+<br>
+round<br>
+回合数量（从 0 开始计数，round 0 为游戏开始，未抽取苏丹卡时）
+
+<br>
+saveTime<br>
+自动存档保存时间
+
+<br>
+card_uid_index<br>
+卡的 uid 索引，数字为场上存在总共卡的数量-1
+
+<br>
+rite_uid_index<br>
+仪式的 uid 索引，数字为场上存在总共仪式的数量-1
+
+<br>
+sudan_box_show<br>
+当前回合是否已抽取苏丹卡
+
+<br>
+after_round_auto_sort<br>
+看名字是 rite 自动填充上一次内容，但是多个回合都是 false？
+
+<br>
+sudan_card_init_life<br>
+苏丹卡默认销毁天数  
+
+<br>
+sudan_redraw_count<br>
+苏丹卡可重抽次数 
+
+<br>
+sudan_redraw_times_per_round<br>
+每 n 回合可以重抽苏丹卡  
+
+<br>
+sudan_redraw_times<br>
+不是，怎么还有 redraw???  
+
+<br>
+sudan_redraw_times_recovery_round  
+
+<br>
+wizard_first_show<br>
+是否已经见过女术士
+
+<br>
+success<br>
+是否达成胜利？
+
+<br>
+over_reason<br>
+本回合/存档结束理由
+
+<br>
+ithink_card<br>
+头上有俺寻思的卡  
+
+<br>
+card   
+
+<br>所有预加载卡的卡池
+
+<br>uid<br>
+系统默认分配  
+<br>id<br>
+卡的 id  
+<br>count<br>
+卡数量   
+<br>life<br>
+存活时长
+<br>rareup<br>
+品质升级情况（默认为 0）  
+<br>tag  卡携带的 tag  
+
+<br>equip_slots  装备槽  
+
+<br>weapon 武器  
+<br>Cloth 衣服  
+<br>Accessory 首饰  
+
+
+
+
+<br>equips<br>
+卡的装备情况，数组，其中可以嵌套卡的结构，未试验最多可嵌套几层  
+<br>Bag<br>
+手牌区（从上至下分别是 0 到 3）
+<img alt="1.png" src="lib\media\1.png">  
+<br>Bagpos<br>
+在手牌区中的顺位（0不显示在手牌区，从1开始数字越大显示越靠右）  
+<br>Custom_name  
+<br>Custom_text  
+
+
+
+
+<br>
+rites  
+
+<br>
+当前场上事件 
+
+<br>
+uid<br>
+系统自动生成
+
+<br>
+id<br>
+rite 的 id
+
+<br>
+new_born<br>
+默认显示为是，点开后显示否
+
+<br>
+is_show<br>
+是显示仪式文字 <img alt="4.png" src="lib\media\4.png"> 否仅显示图标 
+
+<br>
+start<br>
+是否已经开始仪式
+
+<br>
+start_round<br>
+rite 开始的回合数
+
+<br>
+start_life  
+
+<br>
+life<br>
+rite存在时长
+
+<br>
+cards<br>
+仪式中的卡牌，显示顺序不固定，怀疑是美工手动放的框，显示顺序为框的新建顺序，与位置无关，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致
+
+<br>
+custom_name
+
+
+
+
+
+<br>
+pins
+
+<br>
+sudan_pool_cards<br>
+苏丹卡卡池总览
+
+<br>
+sudan_pool<br>
+卡池，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致，似乎已被下一项替代（此处在 test 0.5 版及以前被使用，3 月 28 日更新的新存档格式中为空，原本相似的内容存在 sudan_card_pool 项中）  
+
+<br>
+sudan_card_pool
+卡池，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致
+
+<br>
+sudan_pool_pos  
+
+<br>
+sudan_pool_init_count<br>
+初始化苏丹卡总数
+
+<br>
+sudan_card_show_times  
+
+<br>
+sudan_remove_count<br>
+折断苏丹卡的次数
+
+<br>
+counter<br>
+计数器，仅限单局内
+
+<br>
+global_counter_cacher<br>
+全局计数器
+
+<br>
+random_cache  
+
+<br>
+only_cards<br>
+有唯一属性的卡
+
+<br>
+only_rites<br>
+有唯一属性的仪式
+
+<br>
+event_status<br>
+已触发成功的 event 是否可以重复触发（is_replay 显示为 0 和成功后关闭 event 都显示为 false）
+
+<br>
+delay_ops<br>
+怀疑是延迟触发的弹窗记录，待测试
+
+<br>
+end_rites<br>
+已结束的仪式
+
+<br>
+gen_cards<br>
+当前场上所有的卡的计数
+
+<br>
+gen_tags<br>
+当前所有的 tag 计数
+
+<br>
+timing_rounds<br>
+event 在第 n 回合检验条件（冒号后的数字即检验条件是否符合的回合，不满足条件仍然不能触发）
+
+<br>
+notes
+
+<br>type 分类（10001 是人物，10002 是物品和未定义分类东西，1 和 3 是仪式（还没确认分类方法，似乎 1 是新仪式，3 是触发过的仪式））
+<br>id 具有唯一性，识别是什么
+<br>uid 系统自动分配
+<br>count 数量，仪式显示为 0
+
+
+<br>
+once_new_rites_is_show<br>
+曾经触发过且需要被重复触发的 rite，保存他们的<a data-tooltip-position="top" aria-label="^878bec" data-href="#^878bec" href="about:blank#^878bec" class="internal-link" target="_self" rel="noopener nofollow">图标显示信息</a>
+
+<br>
+cached_event  
+
+<br>
+BagIndex<br>
+当前显示的手牌区
+
+<br>
+last_round_rite_data  
+
+<br>之前天的仪式内放置数据
+<br>格式："rite_id":{"s1":{"id": "card_id","count": num},……"sn":{}}
+
+
+<br>
+rite_auto_result  
+
+<br>
+disable_auto_gen_sudan_card  
+
+<br>
+custom_rite_name  
+
+<br>
+end_open  
+
+]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><pubDate>Tue, 01 Apr 2025 14:46:50 GMT</pubDate><enclosure url="lib\media\2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
  <br><br><br>
 <br>
 计数器，填入数字或数组 "round_begin_ba":number "round_begin_ba":[number,number]<br>
@@ -249,154 +686,7 @@ settlement
 
 
 
-]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><pubDate>Tue, 01 Apr 2025 14:13:31 GMT</pubDate></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
- <br><br><br>
-<br>
-id<br>
-本 rite 事件 id，需唯一，官方格式为 50xxxxx
-
-<br>
-name
-本 rite 的名字，显示位置如图<br>
-<img alt="20250330164111.png" src="lib\media\20250330164111.png">
-
-<br>
-text<br>
-本 rite 描述，显示位置如图<br>
-<img alt="20250330164129.png" src="lib\media\20250330164129.png">
-
-<br>
-tips<br>
-本 rite 的提示语，显示位置如图<br>
-<img alt="20250330164152.png" src="lib\media\20250330164152.png"><br>
-格式为"some words",“next line words”
-
-<br>
-mapping_id<br>
-使用非默认事件背景显示的对应文件
-
-<br>
-once_new<br>
-是否新出现，0 为否显示 <img alt="20250325204818.png" src="lib\media\20250325204818.png">，1 为是仅显示前面的图标
-
-<br>
-round_number<br>
-本 rite 开启后的持续回合<br>
-为 0 时，点击 <img alt="20250330200410.png" src="lib\media\20250330200410.png"> 后直接结算<br>
-设置大于等于 1 时则 <img alt="20250330200043.png" src="lib\media\20250330200043.png"> 倒计时结束后结算  
-
-<br>
-waiting_round<br>
-本 rite 被触发后在地图上显示的回合数，0 常驻显示
-
-<br>
-waiting_round_end_action<br>
-本 rite 被触发后未手动操作运行，等待回合走到 0 后进行的操作
-
-<br>
-method_settlement<br>
-官方备注：没用
-
-<br>
-auto_begin<br>
-是否不进行操作也会自动开始
-
-<br>
-auto_result<br>
-是否自动显示结果
-
-<br>
-location<br>
-本 rite 在地图上的地址
-
-<br>
-icon<br>
-本 rite 采用的 <img alt="20250330160956.png" src="lib\media\20250330160956.png"> 图标资源路径  
-
-<br>
-tag_tips<br>
-本 rite 内参与判断的属性，此项玩家不可见
-
-<br>
-tag_tips_up<br>
-显示给玩家的本 rite 判断属性
-
-<br>
-tips_text<br>
-判断属性的文字提示
-
-<br>
-open_conditions<br>
-本 rite 的开启条件，未达成时 rite 右下角的√不可点击触发
-
-<br>
-random_text<br>
-骰子的文字提示，此项玩家不可见
-
-<br>
-random_text_up<br>
-显示给玩家的骰子提示
-
-<br>
-settlement_prior<br>
-优先判断的内容，自上而下判定，满足任意 condition 条件后结束判断<br>
-会覆盖settlement，仍然可以触发settlement_extre
-
-<br>
-settlement  
-
-<br>正常内容显示处，自上而下判定，满足任意 condition 条件后结束判断  
-<br>condition<br>
-判断条件
-<br>result_title<br>
-满足条件后显示的结果标题
-<br>result_text<br>
-满足条件后显示的结果文本
-<br>result<br>
-显示给玩家的结果
-<br>action<br>
-不显示给玩家的结果
-
-
-<br>
-settlement_extre<br>
-额外判定，自上而下判定，所有满足条件的都会按顺序显示结果
-
-<br>
-cards_slot
-
-<br>卡槽，必须有一个
-<br>s1<br>
-每个 rite 独立，由 1 开始编号
-<br>condition<br>
-可放入的卡的条件
-<br>open_adsorb<br>
-是否自动吸入，1 为是
-<br>is_key<br>
-是否被锁住（被锁住不可再调整状态，如取出 rite，安装装备）
-<br>is_empty<br>
-是否可以为空，1 为是
-<br>is_enemy<br>
-是否被判定为敌方单位
-<br>text<br>
-鼠标悬停在卡槽上看见的提示
-<br>pops  
-
-<br>可不写，放入卡槽中出现的语言气泡  
-<br>condition<br>
-气泡出现条件
-<br>action  
-
-<br>气泡出现内容，此处直接写入会按顺序显示  
-<br>choose<br>
-选取一个内容显示
-
-
-
-
-
-
-]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><pubDate>Tue, 01 Apr 2025 14:18:39 GMT</pubDate><enclosure url="lib\media\20250330164111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250330164111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
+]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><pubDate>Tue, 01 Apr 2025 14:13:31 GMT</pubDate></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
  <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
 <br>
 saveTime<br>
@@ -493,288 +783,7 @@ showedPrompt<br>
 choosedOption<br>
 （整个游戏）已选过的选项
 
-]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><pubDate>Tue, 01 Apr 2025 14:25:36 GMT</pubDate></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
- <br><br>存档文件夹中的 auto_save. json，仅在一局游戏中存在此存档，如果当前没有正在进行中的游戏，文件夹内没有该文件  <br><br>退出时手动点击保存游戏<br>
-每日抽取苏丹卡且触发完当天的 event 后，此时生成新 round 文件<br>
-<img alt="20250325200107.png" src="lib\media\20250325200107.png"><br>
-调整手牌位置和改变仪式状态（包括点开和关闭，但仅开关不会写入内容）<br>
-进入下一天点击后生成新 round 文件<br>
-<img alt="20250325200124.png" src="lib\media\20250325200124.png"><br>
-疯狂到底再抽一张苏丹卡，在卡进入牌池之后保存（也就是说抽到不满意，你可以急流勇退退出游戏 x）<br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
-<br>
-configId<br>
-config 的 id，目前新手教程是 0，正常开局是 1  
-
-<br>
-configVersion<br>
-config 文件的版本  
-
-<br>
-name<br>
-主角姓名  
-
-<br>
-difficulty<br>
-难度等级（新手教程 0，梅姬 1，哈桑，女术士）  
-
-<br>
-round<br>
-回合数量（从 0 开始计数，round 0 为游戏开始，未抽取苏丹卡时）
-
-<br>
-saveTime<br>
-自动存档保存时间
-
-<br>
-card_uid_index<br>
-卡的 uid 索引，数字为场上存在总共卡的数量-1
-
-<br>
-rite_uid_index<br>
-仪式的 uid 索引，数字为场上存在总共仪式的数量-1
-
-<br>
-sudan_box_show<br>
-当前回合是否已抽取苏丹卡
-
-<br>
-after_round_auto_sort<br>
-看名字是 rite 自动填充上一次内容，但是多个回合都是 false？
-
-<br>
-sudan_card_init_life<br>
-苏丹卡默认销毁天数  
-
-<br>
-sudan_redraw_count<br>
-苏丹卡可重抽次数 
-
-<br>
-sudan_redraw_times_per_round<br>
-每 n 回合可以重抽苏丹卡  
-
-<br>
-sudan_redraw_times<br>
-不是，怎么还有 redraw???  
-
-<br>
-sudan_redraw_times_recovery_round  
-
-<br>
-wizard_first_show<br>
-是否已经见过女术士
-
-<br>
-success<br>
-是否达成胜利？
-
-<br>
-over_reason<br>
-本回合/存档结束理由
-
-<br>
-ithink_card<br>
-头上有俺寻思的卡  
-
-<br>
-card   
-
-<br>所有预加载卡的卡池
-
-<br>uid<br>
-系统默认分配  
-<br>id<br>
-卡的 id  
-<br>count<br>
-卡数量   
-<br>life<br>
-存活时长
-<br>rareup<br>
-品质升级情况（默认为 0）  
-<br>tag  卡携带的 tag  
-
-<br>equip_slots  装备槽  
-
-<br>weapon 武器  
-<br>Cloth 衣服  
-<br>Accessory 首饰  
-
-
-
-
-<br>equips<br>
-卡的装备情况，数组，其中可以嵌套卡的结构，未试验最多可嵌套几层  
-<br>Bag<br>
-手牌区（从上至下分别是 0 到 3）
-<img alt="20250325130251.png" src="lib\media\20250325130251.png">  
-<br>Bagpos<br>
-在手牌区中的顺位（0不显示在手牌区，从1开始数字越大显示越靠右）  
-<br>Custom_name  
-<br>Custom_text  
-
-
-
-
-<br>
-rites  
-
-<br>
-当前场上事件 
-
-<br>
-uid<br>
-系统自动生成
-
-<br>
-id<br>
-rite 的 id
-
-<br>
-new_born<br>
-默认显示为是，点开后显示否
-
-<br>
-is_show<br>
-是显示仪式文字 <img alt="20250325204818.png" src="lib\media\20250325204818.png"> 否仅显示图标 
-
-<br>
-start<br>
-是否已经开始仪式
-
-<br>
-start_round<br>
-rite 开始的回合数
-
-<br>
-start_life  
-
-<br>
-life<br>
-rite存在时长
-
-<br>
-cards<br>
-仪式中的卡牌，显示顺序不固定，怀疑是美工手动放的框，显示顺序为框的新建顺序，与位置无关，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致
-
-<br>
-custom_name
-
-
-
-
-
-<br>
-pins
-
-<br>
-sudan_pool_cards<br>
-苏丹卡卡池总览
-
-<br>
-sudan_pool<br>
-卡池，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致，似乎已被下一项替代（此处在 test 0.5 版及以前被使用，3 月 28 日更新的新存档格式中为空，原本相似的内容存在 sudan_card_pool 项中）  
-
-<br>
-sudan_card_pool
-卡池，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致
-
-<br>
-sudan_pool_pos  
-
-<br>
-sudan_pool_init_count<br>
-初始化苏丹卡总数
-
-<br>
-sudan_card_show_times  
-
-<br>
-sudan_remove_count<br>
-折断苏丹卡的次数
-
-<br>
-counter<br>
-计数器，仅限单局内
-
-<br>
-global_counter_cacher<br>
-全局计数器
-
-<br>
-random_cache  
-
-<br>
-only_cards<br>
-有唯一属性的卡
-
-<br>
-only_rites<br>
-有唯一属性的仪式
-
-<br>
-event_status<br>
-已触发成功的 event 是否可以重复触发（is_replay 显示为 0 和成功后关闭 event 都显示为 false）
-
-<br>
-delay_ops<br>
-怀疑是延迟触发的弹窗记录，待测试
-
-<br>
-end_rites<br>
-已结束的仪式
-
-<br>
-gen_cards<br>
-当前场上所有的卡的计数
-
-<br>
-gen_tags<br>
-当前所有的 tag 计数
-
-<br>
-timing_rounds<br>
-event 在第 n 回合检验条件（冒号后的数字即检验条件是否符合的回合，不满足条件仍然不能触发）
-
-<br>
-notes
-
-<br>type 分类（10001 是人物，10002 是物品和未定义分类东西，1 和 3 是仪式（还没确认分类方法，似乎 1 是新仪式，3 是触发过的仪式））
-<br>id 具有唯一性，识别是什么
-<br>uid 系统自动分配
-<br>count 数量，仪式显示为 0
-
-
-<br>
-once_new_rites_is_show<br>
-曾经触发过且需要被重复触发的 rite，保存他们的<a data-tooltip-position="top" aria-label="^878bec" data-href="#^878bec" href="about:blank#^878bec" class="internal-link" target="_self" rel="noopener nofollow">图标显示信息</a>
-
-<br>
-cached_event  
-
-<br>
-BagIndex<br>
-当前显示的手牌区
-
-<br>
-last_round_rite_data  
-
-<br>之前天的仪式内放置数据
-<br>格式："rite_id":{"s1":{"id": "card_id","count": num},……"sn":{}}
-
-
-<br>
-rite_auto_result  
-
-<br>
-disable_auto_gen_sudan_card  
-
-<br>
-custom_rite_name  
-
-<br>
-end_open  
-
-]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><pubDate>Tue, 01 Apr 2025 14:05:50 GMT</pubDate><enclosure url="lib\media\20250325200107.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250325200107.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><pubDate>Tue, 01 Apr 2025 14:25:36 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
  <br>
 ## 声明<br>你好这里是王清芊，在各平台同名<br>
 本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
@@ -810,16 +819,7 @@ end_open
 <br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
 <br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
 <br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
-<br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Tue, 01 Apr 2025 13:59:32 GMT</pubDate></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
- <br>
-<br>你对手牌区进行更改后点击手牌区右上角的 x 和手牌区右下角的√的改动结果：
-<br><br>
-<br>当前版本拉满命运商店需要花 504 点命运点（并未统计测试版）  
-<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="20250328183132.png" src="lib\media\20250328183132.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
-<br>珠宝商人热娜设计的产品共 12 件全是饰品
-<br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
-（意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
-]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 12:26:11 GMT</pubDate><enclosure url="lib\media\20250328183132.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250328183132.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
+<br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Tue, 01 Apr 2025 13:59:32 GMT</pubDate></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
  <br>
 <br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
 个人推荐用代码编辑器改，因为方便找对应括号
