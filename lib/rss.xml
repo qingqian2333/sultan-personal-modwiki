@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 12:23:10 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 12:23:08 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[card]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 12:29:27 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 12:29:24 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[card]]></title><description><![CDATA[ 
  <br><br><br>
 <br>"over":结局id   
 <br>"event_on":event_id  
@@ -23,15 +23,15 @@ id<br>
 
 <br>
 name<br>
-卡牌的名字，显示位置如图 <img alt="Pasted image 20250401153550.png" src="lib\media\pasted-image-20250401153550.png">  
+卡牌的名字，显示位置如图 <img alt="20250401153550.png" src="lib\media\20250401153550.png">  
 
 <br>
 title<br>
-卡牌副标题，显示位置如图 <img alt="Pasted image 20250401153716.png" src="lib\media\pasted-image-20250401153716.png">  
+卡牌副标题，显示位置如图 <img alt="20250401153716.png" src="lib\media\20250401153716.png">  
 
 <br>
 text<br>
-卡牌介绍，显示位置如图 <img alt="Pasted image 20250401154720.png" src="lib\media\pasted-image-20250401154720.png">  
+卡牌介绍，显示位置如图 <img alt="20250401154720.png" src="lib\media\20250401154720.png">  
 
 <br>
 pops<br>
@@ -44,7 +44,7 @@ card_favour<br>
 <br>
 type<br>
 卡牌分类，目前只有角色 char 、物品 item 和苏丹卡 sultan 三个大类，体现在如图位置
-<img alt="Pasted image 20250401155624.png" src="lib\media\pasted-image-20250401155624.png"><br>
+<img alt="20250401155624.png" src="lib\media\20250401155624.png"><br>
 不推荐新创建分类，因为会导致卡牌无法打开详情页，但如果你要的就是这个效果……除了无法打开详情页，它的运行一切正常
 
 <br>
@@ -61,7 +61,7 @@ resource
 
 <br>
 tag<br>
-卡牌携带的 tag，显示在如图位置 <img alt="Pasted image 20250401170240.png" src="lib\media\pasted-image-20250401170240.png">  
+卡牌携带的 tag，显示在如图位置 <img alt="20250401170240.png" src="lib\media\20250401170240.png">  
 
 <br>
 card_vanishing<br>
@@ -89,93 +89,7 @@ post_rite
 <br>action 结果（玩家不可见）
 
 
-]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><pubDate>Tue, 01 Apr 2025 09:32:59 GMT</pubDate><enclosure url="lib\media\pasted-image-20250401153550.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250401153550.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
- <br><br><br>默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试  <br>
-<br>
-id<br>
-本 event 事件 id，需唯一，官方格式为 53xxxxx
-
-
-<br>
-text<br>
-描述，玩家不可见
-
-<br>
-is_replay<br>
-本次 event 被开启后是否可以重复触发
-
-<br>
-auto_start
-似乎已废弃，保持 false 即可
-
-<br>
-start_trigger<br>
-是否启动就立即开始校验条件
-
-<br>
-on
-
-<br>启动的时机
-<br>常见有以下几个，未试过叠加使用
-<br>round_begin_ba<br>
-计数器，填入数字或数组<br>
-单个数字：在填入的数字后的回合开始时触发（注意：如果倒计时结束后 condition 条件不满足，会在下一回合继续检验）<br>
-数组：格式为[n, n]，系统自动随机填入的数字范围内数字，在随机数后的回合开始触发，同样遵循 condition 
-<br>
-
-
-<br>
-condition<br>
-触发条件，满足即触发
-
-<br>
-settlement
-
-<br>触发效果	
-<br>tips_resource<br>
-官方注释说，提示资源配置为空，就不弹提示框，但是这整个苏游就没有不为空的。推荐不进行改动
-<br>tips_text<br>
-和上一条管相同内容，应该是原
-<br>action<br>
-触发后效果，一般无显示  
-
-<br>prompt  
-
-<br>弹窗显示的文本  
-<br>id<br>
-格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ prompt_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
-<br>text<br>
-弹窗显示的文字
-<br>icon<br>
-显示在右侧的图片，可以删除此段
-
-
-<br>option
-
-<br>选项弹窗
-<br>id<br>
-格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ option_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
-<br>text<br>
-弹窗显示的文字
-<br>icon<br>
-显示在右侧的图片，可以删除此段	
-<br>items
-
-<br>text
-选项显示的文字
-<br>tag
-通常为 op1，op2 ……一直编号下去
-
-
-
-
-<br>case: op1<br>
-数字可更换，和上面的 item 对应，括号内写选后的结果
-
-
-
-
-]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><pubDate>Tue, 01 Apr 2025 06:31:07 GMT</pubDate></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
+]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><pubDate>Tue, 01 Apr 2025 12:27:09 GMT</pubDate><enclosure url="lib\media\20250401153550.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250401153550.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
  <br><br><br>
 <br>
 id<br>
@@ -184,17 +98,17 @@ id<br>
 <br>
 name
 本 rite 的名字，显示位置如图<br>
-<img alt="Pasted image 20250330164111.png" src="lib\media\pasted-image-20250330164111.png">
+<img alt="20250330164111.png" src="lib\media\20250330164111.png">
 
 <br>
 text<br>
 本 rite 描述，显示位置如图<br>
-<img alt="Pasted image 20250330164129.png" src="lib\media\pasted-image-20250330164129.png">
+<img alt="20250330164129.png" src="lib\media\20250330164129.png">
 
 <br>
 tips<br>
 本 rite 的提示语，显示位置如图<br>
-<img alt="Pasted image 20250330164152.png" src="lib\media\pasted-image-20250330164152.png"><br>
+<img alt="20250330164152.png" src="lib\media\20250330164152.png"><br>
 格式为"some words",“next line words”
 
 <br>
@@ -203,13 +117,13 @@ mapping_id<br>
 
 <br>
 once_new<br>
-是否新出现，0 为否显示 <img alt="Pasted image 20250325204818.png" src="lib\media\pasted-image-20250325204818.png">，1 为是仅显示前面的图标
+是否新出现，0 为否显示 <img alt="20250325204818.png" src="lib\media\20250325204818.png">，1 为是仅显示前面的图标
 
 <br>
 round_number<br>
 本 rite 开启后的持续回合<br>
-为 0 时，点击 <img alt="Pasted image 20250330200410.png" src="lib\media\pasted-image-20250330200410.png"> 后直接结算<br>
-设置大于等于 1 时则 <img alt="Pasted image 20250330200043.png" src="lib\media\pasted-image-20250330200043.png"> 倒计时结束后结算  
+为 0 时，点击 <img alt="20250330200410.png" src="lib\media\20250330200410.png"> 后直接结算<br>
+设置大于等于 1 时则 <img alt="20250330200043.png" src="lib\media\20250330200043.png"> 倒计时结束后结算  
 
 <br>
 waiting_round<br>
@@ -236,7 +150,7 @@ location<br>
 
 <br>
 icon<br>
-本 rite 采用的 <img alt="Pasted image 20250330160956.png" src="lib\media\pasted-image-20250330160956.png"> 图标
+本 rite 采用的 <img alt="20250330160956.png" src="lib\media\20250330160956.png"> 图标
 
 <br>
 tag_tips<br>
@@ -321,133 +235,22 @@ cards_slot
 
 
 
-]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><pubDate>Tue, 01 Apr 2025 07:14:04 GMT</pubDate><enclosure url="lib\media\pasted-image-20250330164111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250330164111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
+]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><pubDate>Tue, 01 Apr 2025 12:26:37 GMT</pubDate><enclosure url="lib\media\20250330164111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250330164111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
  <br>
 <br>你对手牌区进行更改后点击手牌区右上角的 x 和手牌区右下角的√的改动结果：
 <br><br>
 <br>当前版本拉满命运商店需要花 504 点命运点（并未统计测试版）  
-<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="Pasted image 20250328183132.png" src="lib\media\pasted-image-20250328183132.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
+<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="20250328183132.png" src="lib\media\20250328183132.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
 <br>珠宝商人热娜设计的产品共 12 件全是饰品
 <br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
 （意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
-]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 07:26:29 GMT</pubDate><enclosure url="lib\media\pasted-image-20250328183132.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250328183132.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
- <br>
-<br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
-个人推荐用代码编辑器改，因为方便找对应括号
-<br>除非是末尾句，每句最末请添加 ,，英文的，半角的
-<br>true 是 true，不是 ture
-<br>有装备槽的装备可以拆卸，如果需要增加，写上增加的 tag 名  
-<br>手牌中添加：  
-
-<br>存档 "tag":["own:1"]  
-<br>仪式：人物 tag 添加追随者，物品 tag 添加已拥有
-
-
-<br>
-]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><pubDate>Tue, 01 Apr 2025 07:46:33 GMT</pubDate></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
- <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
-<br>
-saveTime<br>
-保存时间
-
-<br>
-finishTutorial
-是否完成
-
-<br>
-inGame<br>
-是否在游戏中
-
-<br>
-totalRound<br>
-总共打过的天数（游戏时间）
-
-<br>
-totalPoint<br>
-拥有的命运点（不算被使用的部分）  
-
-<br>
-usedPoint<br>
-被使用的命运点  
-
-<br>
-upgradeState<br>
-升级状态  
-
-<br>
-questState<br>
-成就状态  
-
-<br>
-upgrade
-命运商店升级项  
-
-<br>
-quest<br>
-完成的成就  
-
-<br>
-counter<br>
-本地永久计数器  
-
-<br>
-hasEnterSudanBox<br>
-是否已经打开过苏丹的盒子（指右上角苏丹盒子的红点）
-
-<br>
-hasEnterQuest<br>
-是否已经点开成就卷轴（也是红点）
-
-<br>
-backToPrevRound<br>
-总归可以返回回合开始的次数 
-
-<br>
-roundRollback
-
-<br>
-overRecord  
-
-<br>Id 死亡结局的 id，可在 over 中观看
-<br>Char_cards 存储格式和自动存档内的 card 一致
-<br>After_storys 后日谈状态
-<br>Time 保存时间
-
-
-<br>
-gameStatistics
-
-<br>0/1 0 是新手教程，1 是正常开局
-
-<br>startTimes 开始的次数
-<br>overTimes 结束的次数
-
-
-
-
-<br>
-doneRite<br>
-（整个游戏）已完成的 rite
-
-<br>
-doneEvent<br>
-（整个游戏）已完成的 event
-
-<br>
-showedPrompt<br>
-（整个游戏）已展示过的文字提示（包含 event 的文字弹窗和角色的语言气泡）  
-
-<br>
-choosedOption<br>
-（整个游戏）已选过的选项
-
-]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><pubDate>Tue, 01 Apr 2025 07:21:05 GMT</pubDate></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
+]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 12:26:11 GMT</pubDate><enclosure url="lib\media\20250328183132.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250328183132.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
  <br><br>存档文件夹中的 auto_save. json，仅在一局游戏中存在此存档，如果当前没有正在进行中的游戏，文件夹内没有该文件  <br><br>退出时手动点击保存游戏<br>
 每日抽取苏丹卡且触发完当天的 event 后，此时生成新 round 文件<br>
-<img alt="Pasted image 20250325200107.png" src="lib\media\pasted-image-20250325200107.png"><br>
+<img alt="20250325200107.png" src="lib\media\20250325200107.png"><br>
 调整手牌位置和改变仪式状态（包括点开和关闭，但仅开关不会写入内容）<br>
 进入下一天点击后生成新 round 文件<br>
-<img alt="Pasted image 20250325200124.png" src="lib\media\pasted-image-20250325200124.png"><br>
+<img alt="20250325200124.png" src="lib\media\20250325200124.png"><br>
 疯狂到底再抽一张苏丹卡，在卡进入牌池之后保存（也就是说抽到不满意，你可以急流勇退退出游戏 x）<br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
 <br>
 configId<br>
@@ -555,7 +358,7 @@ card
 卡的装备情况，数组，其中可以嵌套卡的结构，未试验最多可嵌套几层  
 <br>Bag<br>
 手牌区（从上至下分别是 0 到 3）
-<img alt="Pasted image 20250325130251.png" src="lib\media\pasted-image-20250325130251.png">  
+<img alt="20250325130251.png" src="lib\media\20250325130251.png">  
 <br>Bagpos<br>
 在手牌区中的顺位（0不显示在手牌区，从1开始数字越大显示越靠右）  
 <br>Custom_name  
@@ -584,7 +387,7 @@ new_born<br>
 
 <br>
 is_show<br>
-是显示仪式文字 <img alt="Pasted image 20250325204818.png" src="lib\media\pasted-image-20250325204818.png"> 否仅显示图标 
+是显示仪式文字 <img alt="20250325204818.png" src="lib\media\20250325204818.png"> 否仅显示图标 
 
 <br>
 start<br>
@@ -723,7 +526,204 @@ custom_rite_name
 <br>
 end_open  
 
-]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><pubDate>Fri, 28 Mar 2025 11:28:12 GMT</pubDate><enclosure url="lib\media\pasted-image-20250325200107.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20250325200107.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
+]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><pubDate>Tue, 01 Apr 2025 12:26:06 GMT</pubDate><enclosure url="lib\media\20250325200107.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250325200107.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
+ <br><br><br>默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试  <br>
+<br>
+id<br>
+本 event 事件 id，需唯一，官方格式为 53xxxxx
+
+
+<br>
+text<br>
+描述，玩家不可见
+
+<br>
+is_replay<br>
+本次 event 被开启后是否可以重复触发
+
+<br>
+auto_start
+似乎已废弃，保持 false 即可
+
+<br>
+start_trigger<br>
+是否启动就立即开始校验条件
+
+<br>
+on
+
+<br>启动的时机
+<br>常见有以下几个，未试过叠加使用
+<br>round_begin_ba<br>
+计数器，填入数字或数组<br>
+单个数字：在填入的数字后的回合开始时触发（注意：如果倒计时结束后 condition 条件不满足，会在下一回合继续检验）<br>
+数组：格式为[n, n]，系统自动随机填入的数字范围内数字，在随机数后的回合开始触发，同样遵循 condition 
+<br>
+
+
+<br>
+condition<br>
+触发条件，满足即触发
+
+<br>
+settlement
+
+<br>触发效果	
+<br>tips_resource<br>
+官方注释说，提示资源配置为空，就不弹提示框，但是这整个苏游就没有不为空的。推荐不进行改动
+<br>tips_text<br>
+和上一条管相同内容，应该是原
+<br>action<br>
+触发后效果，一般无显示  
+
+<br>prompt  
+
+<br>弹窗显示的文本  
+<br>id<br>
+格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ prompt_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
+<br>text<br>
+弹窗显示的文字
+<br>icon<br>
+显示在右侧的图片，可以删除此段
+
+
+<br>option
+
+<br>选项弹窗
+<br>id<br>
+格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ option_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
+<br>text<br>
+弹窗显示的文字
+<br>icon<br>
+显示在右侧的图片，可以删除此段	
+<br>items
+
+<br>text
+选项显示的文字
+<br>tag
+通常为 op1，op2 ……一直编号下去
+
+
+
+
+<br>case: op1<br>
+数字可更换，和上面的 item 对应，括号内写选后的结果
+
+
+
+
+]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><pubDate>Tue, 01 Apr 2025 06:31:07 GMT</pubDate></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
+ <br>
+<br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
+个人推荐用代码编辑器改，因为方便找对应括号
+<br>除非是末尾句，每句最末请添加 ,，英文的，半角的
+<br>true 是 true，不是 ture
+<br>有装备槽的装备可以拆卸，如果需要增加，写上增加的 tag 名  
+<br>手牌中添加：  
+
+<br>存档 "tag":["own:1"]  
+<br>仪式：人物 tag 添加追随者，物品 tag 添加已拥有
+
+
+<br>
+]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><pubDate>Tue, 01 Apr 2025 07:46:33 GMT</pubDate></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
+ <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
+<br>
+saveTime<br>
+保存时间
+
+<br>
+finishTutorial
+是否完成
+
+<br>
+inGame<br>
+是否在游戏中
+
+<br>
+totalRound<br>
+总共打过的天数（游戏时间）
+
+<br>
+totalPoint<br>
+拥有的命运点（不算被使用的部分）  
+
+<br>
+usedPoint<br>
+被使用的命运点  
+
+<br>
+upgradeState<br>
+升级状态  
+
+<br>
+questState<br>
+成就状态  
+
+<br>
+upgrade
+命运商店升级项  
+
+<br>
+quest<br>
+完成的成就  
+
+<br>
+counter<br>
+本地永久计数器  
+
+<br>
+hasEnterSudanBox<br>
+是否已经打开过苏丹的盒子（指右上角苏丹盒子的红点）
+
+<br>
+hasEnterQuest<br>
+是否已经点开成就卷轴（也是红点）
+
+<br>
+backToPrevRound<br>
+总归可以返回回合开始的次数 
+
+<br>
+roundRollback
+
+<br>
+overRecord  
+
+<br>Id 死亡结局的 id，可在 over 中观看
+<br>Char_cards 存储格式和自动存档内的 card 一致
+<br>After_storys 后日谈状态
+<br>Time 保存时间
+
+
+<br>
+gameStatistics
+
+<br>0/1 0 是新手教程，1 是正常开局
+
+<br>startTimes 开始的次数
+<br>overTimes 结束的次数
+
+
+
+
+<br>
+doneRite<br>
+（整个游戏）已完成的 rite
+
+<br>
+doneEvent<br>
+（整个游戏）已完成的 event
+
+<br>
+showedPrompt<br>
+（整个游戏）已展示过的文字提示（包含 event 的文字弹窗和角色的语言气泡）  
+
+<br>
+choosedOption<br>
+（整个游戏）已选过的选项
+
+]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><pubDate>Tue, 01 Apr 2025 07:21:05 GMT</pubDate></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
  <br><br><br>    "2000353": {
         "id": 2000353,
         "name": "恩萨",
