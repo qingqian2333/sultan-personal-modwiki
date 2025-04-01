@@ -5,14 +5,14 @@
   },
   "builds": [
     {
-      "src": "index.cjs",
+      "src": "/苏游/事件整理/index.html",
       "use": "@vercel/node"
     }
   ],
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/苏游/事件整理/主页.html"
+      "destination": "/苏游/事件整理/index.html"
     }
   ]
 }
