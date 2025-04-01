@@ -5,7 +5,7 @@
   },
   "builds": [
     {
-      "src": "/苏游/事件整理/主页.html",
+      "src": "index.cjs",
       "use": "@vercel/node"
     }
   ],
