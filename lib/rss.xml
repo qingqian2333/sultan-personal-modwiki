@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 13:57:50 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 13:57:48 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[card]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Apr 2025 14:35:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Apr 2025 14:35:27 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[card]]></title><description><![CDATA[ 
  <br><br><br>
 <br>"over":结局id 开启结局   
 <br>"event_on":event_id 开启 event  
@@ -65,7 +65,7 @@ tag<br>
 
 <br>
 card_vanishing<br>
-卡牌自毁的时间，最长是
+卡牌自毁的时间，最长是 7 天
 
 <br>
 vanish<br>
@@ -89,7 +89,7 @@ post_rite
 <br>action 结果（玩家不可见）
 
 
-]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><pubDate>Tue, 01 Apr 2025 12:46:51 GMT</pubDate><enclosure url="lib\media\20250401153550.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250401153550.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
+]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><pubDate>Tue, 01 Apr 2025 14:08:13 GMT</pubDate><enclosure url="lib\media\20250401153550.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250401153550.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
  <br><br><br>
 <br>
 计数器，填入数字或数组 "round_begin_ba":number "round_begin_ba":[number,number]<br>
@@ -184,7 +184,11 @@ is_replay<br>
 
 <br>
 auto_start<br>
-似乎已废弃，保持 false 即可
+似乎已废弃，保持 false 即可，删除此行不影响运行
+
+<br>
+auto_start_init<br>
+只见过:[1]的情况，意思是开局就加载本 event
 
 <br>
 start_trigger<br>
@@ -205,7 +209,7 @@ settlement
 <br>tips_resource<br>
 官方注释说，提示资源配置为空，就不弹提示框，但是这整个苏游就没有不为空的。推荐不进行改动
 <br>tips_text<br>
-和上一条管相同内容，应该是原
+和上一条管格式一致，也一直为空。推荐不进行改动
 <br>action<br>
 触发后效果，一般无显示  
 
@@ -217,7 +221,7 @@ settlement
 <br>text<br>
 弹窗显示的文字
 <br>icon<br>
-显示在右侧的图片，可以删除此段
+显示在右侧的图片路径，可以删除此段
 
 
 <br>option
@@ -228,7 +232,7 @@ settlement
 <br>text<br>
 弹窗显示的文字
 <br>icon<br>
-显示在右侧的图片，可以删除此段	
+显示在右侧的图片路径 ，可以删除此段	
 <br>items
 
 <br>text
@@ -245,43 +249,7 @@ settlement
 
 
 
-]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><pubDate>Tue, 01 Apr 2025 13:45:29 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
- <br>
-## 声明<br>你好这里是王清芊，在各平台同名<br>
-本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
-<br>
-包含大量个人理解，制作者的属性是 all 主（即主角嬷），如果创到你请自行点 x ，不接受对制作者 xp 的批评和人身攻击
-
-<br>
-对游戏版本的更新有滞后
-
-<br>
-每天会有一次更新
-
-<br>
-对游戏内容全剧透，不推荐想要找攻略的玩家查看
-
-<br>
-计划包含所有 card 内容、tag 内容、rite 链接、event 链接，其中 card 和 tag 贴了源码是因为它们在一个文件翻找麻烦，因此 rite 和 event 在本页是看不到文本内容只能看到链接的选项的，也不推荐人看本页了解游戏，请去游玩游戏本体
-
-<br>
-由于游戏文本量很大而我学校有熄灯所以目前 card 还没翻完啊啊啊啊啊啊，意思是整理的非常非常慢，急需的话先自己翻一下游戏源码吧！  
-
-<br>
-计划整理顺序：card、tag、rite 和 event，按数字顺序往下
-
-<br>
-制作者很懒没写 css 做任何美化，看不惯的话你忍一下
-
-<br><br>
-<br><a data-href="⭐️需要知道的基础" href="tips\⭐️需要知道的基础.html" class="internal-link" target="_self" rel="noopener nofollow">⭐️需要知道的基础</a>
-<br><a data-href="card" href="tips\card.html" class="internal-link" target="_self" rel="noopener nofollow">card</a>
-<br><a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a>
-<br><a data-href="event" href="tips\event.html" class="internal-link" target="_self" rel="noopener nofollow">event</a>
-<br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
-<br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
-<br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
-<br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Tue, 01 Apr 2025 13:57:03 GMT</pubDate></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
+]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><pubDate>Tue, 01 Apr 2025 14:13:31 GMT</pubDate></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
  <br><br><br>
 <br>
 id<br>
@@ -326,7 +294,8 @@ waiting_round_end_action<br>
 本 rite 被触发后未手动操作运行，等待回合走到 0 后进行的操作
 
 <br>
-method_settlement  
+method_settlement<br>
+官方备注：没用
 
 <br>
 auto_begin<br>
@@ -342,7 +311,7 @@ location<br>
 
 <br>
 icon<br>
-本 rite 采用的 <img alt="20250330160956.png" src="lib\media\20250330160956.png"> 图标
+本 rite 采用的 <img alt="20250330160956.png" src="lib\media\20250330160956.png"> 图标资源路径  
 
 <br>
 tag_tips<br>
@@ -386,7 +355,7 @@ settlement
 <br>result<br>
 显示给玩家的结果
 <br>action<br>
-不显示给玩家的结果（无需重复 result 内容）
+不显示给玩家的结果
 
 
 <br>
@@ -409,7 +378,7 @@ cards_slot
 是否可以为空，1 为是
 <br>is_enemy<br>
 是否被判定为敌方单位
-<br>Text<br>
+<br>text<br>
 鼠标悬停在卡槽上看见的提示
 <br>pops  
 
@@ -427,16 +396,104 @@ cards_slot
 
 
 
-]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><pubDate>Tue, 01 Apr 2025 12:26:37 GMT</pubDate><enclosure url="lib\media\20250330164111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250330164111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
- <br>
-<br>你对手牌区进行更改后点击手牌区右上角的 x 和手牌区右下角的√的改动结果：
-<br><br>
-<br>当前版本拉满命运商店需要花 504 点命运点（并未统计测试版）  
-<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="20250328183132.png" src="lib\media\20250328183132.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
-<br>珠宝商人热娜设计的产品共 12 件全是饰品
-<br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
-（意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
-]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 12:26:11 GMT</pubDate><enclosure url="lib\media\20250328183132.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250328183132.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
+]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><pubDate>Tue, 01 Apr 2025 14:18:39 GMT</pubDate><enclosure url="lib\media\20250330164111.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250330164111.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
+ <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
+<br>
+saveTime<br>
+保存时间
+
+<br>
+finishTutorial
+是否完成
+
+<br>
+inGame<br>
+是否在游戏中
+
+<br>
+totalRound<br>
+总共打过的天数（游戏时间）
+
+<br>
+totalPoint<br>
+拥有的命运点（不算被使用的部分）  
+
+<br>
+usedPoint<br>
+被使用的命运点  
+
+<br>
+upgradeState<br>
+升级状态  
+
+<br>
+questState<br>
+成就状态  
+
+<br>
+upgrade
+命运商店升级项  
+
+<br>
+quest<br>
+完成的成就  
+
+<br>
+counter<br>
+本地永久计数器  
+
+<br>
+hasEnterSudanBox<br>
+是否已经打开过苏丹的盒子（指右上角苏丹盒子的红点）
+
+<br>
+hasEnterQuest<br>
+是否已经点开成就卷轴（也是红点）
+
+<br>
+backToPrevRound<br>
+总归可以返回回合开始的次数 
+
+<br>
+roundRollback
+
+<br>
+overRecord  
+
+<br>Id 死亡结局的 id，可在 over 中观看
+<br>Char_cards 存储格式和自动存档内的 card 一致
+<br>After_storys 后日谈状态
+<br>Time 保存时间
+
+
+<br>
+gameStatistics
+
+<br>0/1 0 是新手教程，1 是正常开局
+
+<br>startTimes 开始的次数
+<br>overTimes 结束的次数
+
+
+
+
+<br>
+doneRite<br>
+（整个游戏）已完成的 rite
+
+<br>
+doneEvent<br>
+（整个游戏）已完成的 event
+
+<br>
+showedPrompt<br>
+（整个游戏）已展示过的文字提示（包含 event 的文字弹窗和角色的语言气泡）  
+
+<br>
+choosedOption<br>
+（整个游戏）已选过的选项
+
+]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><pubDate>Tue, 01 Apr 2025 14:25:36 GMT</pubDate></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
  <br><br>存档文件夹中的 auto_save. json，仅在一局游戏中存在此存档，如果当前没有正在进行中的游戏，文件夹内没有该文件  <br><br>退出时手动点击保存游戏<br>
 每日抽取苏丹卡且触发完当天的 event 后，此时生成新 round 文件<br>
 <img alt="20250325200107.png" src="lib\media\20250325200107.png"><br>
@@ -474,8 +531,7 @@ card_uid_index<br>
 
 <br>
 rite_uid_index<br>
-仪式的 uid 索引，==数字为场上存在总共仪式的数量-1
-==
+仪式的 uid 索引，数字为场上存在总共仪式的数量-1
 
 <br>
 sudan_box_show<br>
@@ -661,7 +717,7 @@ event_status<br>
 
 <br>
 delay_ops<br>
-怀疑是延迟触发的弹窗，待测试
+怀疑是延迟触发的弹窗记录，待测试
 
 <br>
 end_rites<br>
@@ -682,7 +738,7 @@ event 在第 n 回合检验条件（冒号后的数字即检验条件是否符�
 <br>
 notes
 
-<br>type 分类（10001 是人物，10002 是物品，1 和 3 是仪式（还没确认分类方法，似乎 1 是新仪式，3 是触发过的仪式））
+<br>type 分类（10001 是人物，10002 是物品和未定义分类东西，1 和 3 是仪式（还没确认分类方法，似乎 1 是新仪式，3 是触发过的仪式））
 <br>id 具有唯一性，识别是什么
 <br>uid 系统自动分配
 <br>count 数量，仪式显示为 0
@@ -718,7 +774,52 @@ custom_rite_name
 <br>
 end_open  
 
-]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><pubDate>Tue, 01 Apr 2025 12:26:06 GMT</pubDate><enclosure url="lib\media\20250325200107.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250325200107.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
+]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><pubDate>Tue, 01 Apr 2025 14:05:50 GMT</pubDate><enclosure url="lib\media\20250325200107.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250325200107.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+ <br>
+## 声明<br>你好这里是王清芊，在各平台同名<br>
+本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
+<br>
+包含大量个人理解，制作者的属性是 all 主（即主角嬷），如果创到你请自行点 x ，不接受对制作者 xp 的批评和人身攻击
+
+<br>
+对游戏版本的更新有滞后
+
+<br>
+每天会有一次更新
+
+<br>
+对游戏内容全剧透，不推荐想要找攻略的玩家查看
+
+<br>
+计划包含所有 card 内容、tag 内容、rite 链接、event 链接，其中 card 和 tag 贴了源码是因为它们在一个文件翻找麻烦，因此 rite 和 event 在本页是看不到文本内容只能看到链接的选项的，也不推荐人看本页了解游戏，请去游玩游戏本体
+
+<br>
+由于游戏文本量很大而我学校有熄灯所以目前 card 还没翻完啊啊啊啊啊啊，意思是整理的非常非常慢，急需的话先自己翻一下游戏源码吧！  
+
+<br>
+计划整理顺序：card、tag、rite 和 event，按数字顺序往下
+
+<br>
+制作者很懒没写 css 做任何美化，看不惯的话你忍一下
+
+<br><br>
+<br><a data-href="⭐️需要知道的基础" href="tips\⭐️需要知道的基础.html" class="internal-link" target="_self" rel="noopener nofollow">⭐️需要知道的基础</a>
+<br><a data-href="card" href="tips\card.html" class="internal-link" target="_self" rel="noopener nofollow">card</a>
+<br><a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a>
+<br><a data-href="event" href="tips\event.html" class="internal-link" target="_self" rel="noopener nofollow">event</a>
+<br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
+<br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
+<br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
+<br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Tue, 01 Apr 2025 13:59:32 GMT</pubDate></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
+ <br>
+<br>你对手牌区进行更改后点击手牌区右上角的 x 和手牌区右下角的√的改动结果：
+<br><br>
+<br>当前版本拉满命运商店需要花 504 点命运点（并未统计测试版）  
+<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="20250328183132.png" src="lib\media\20250328183132.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
+<br>珠宝商人热娜设计的产品共 12 件全是饰品
+<br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
+（意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
+]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 12:26:11 GMT</pubDate><enclosure url="lib\media\20250328183132.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\20250328183132.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
  <br>
 <br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
 个人推荐用代码编辑器改，因为方便找对应括号
@@ -732,104 +833,7 @@ end_open
 
 
 <br>
-]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><pubDate>Tue, 01 Apr 2025 07:46:33 GMT</pubDate></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
- <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
-<br>
-saveTime<br>
-保存时间
-
-<br>
-finishTutorial
-是否完成
-
-<br>
-inGame<br>
-是否在游戏中
-
-<br>
-totalRound<br>
-总共打过的天数（游戏时间）
-
-<br>
-totalPoint<br>
-拥有的命运点（不算被使用的部分）  
-
-<br>
-usedPoint<br>
-被使用的命运点  
-
-<br>
-upgradeState<br>
-升级状态  
-
-<br>
-questState<br>
-成就状态  
-
-<br>
-upgrade
-命运商店升级项  
-
-<br>
-quest<br>
-完成的成就  
-
-<br>
-counter<br>
-本地永久计数器  
-
-<br>
-hasEnterSudanBox<br>
-是否已经打开过苏丹的盒子（指右上角苏丹盒子的红点）
-
-<br>
-hasEnterQuest<br>
-是否已经点开成就卷轴（也是红点）
-
-<br>
-backToPrevRound<br>
-总归可以返回回合开始的次数 
-
-<br>
-roundRollback
-
-<br>
-overRecord  
-
-<br>Id 死亡结局的 id，可在 over 中观看
-<br>Char_cards 存储格式和自动存档内的 card 一致
-<br>After_storys 后日谈状态
-<br>Time 保存时间
-
-
-<br>
-gameStatistics
-
-<br>0/1 0 是新手教程，1 是正常开局
-
-<br>startTimes 开始的次数
-<br>overTimes 结束的次数
-
-
-
-
-<br>
-doneRite<br>
-（整个游戏）已完成的 rite
-
-<br>
-doneEvent<br>
-（整个游戏）已完成的 event
-
-<br>
-showedPrompt<br>
-（整个游戏）已展示过的文字提示（包含 event 的文字弹窗和角色的语言气泡）  
-
-<br>
-choosedOption<br>
-（整个游戏）已选过的选项
-
-]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><pubDate>Tue, 01 Apr 2025 07:21:05 GMT</pubDate></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
+]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><pubDate>Tue, 01 Apr 2025 07:46:33 GMT</pubDate></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
  <br><br><br>    "2000353": {
         "id": 2000353,
         "name": "恩萨",
