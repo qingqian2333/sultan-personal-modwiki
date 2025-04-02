@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1743570678679,
+  "lastExport": 1743605827661,
   "pluginVersion": "1.8.03",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title h2-underline",
   "useCustomHeadContent": false,
@@ -188,8 +188,8 @@
     "cards/人物/已启用/人类/2000339 娴熟的骑手.md",
     "cards/人物/已启用/人类/2000338 紧张的骑手.md",
     "cards/人物/已启用/人类/2000341 冷淡的骑手.md",
-    "cards/人物/已启用/人类/2000347 盖斯.md",
     "cards/人物/已启用/人类/2000346 哲瓦德.md",
+    "cards/人物/已启用/人类/2000347 盖斯.md",
     "cards/人物/已启用/人类/2000190 被俘虏的异教徒.md",
     "cards/人物/已启用/人类/2000195 拉伊德.md",
     "cards/人物/已启用/人类/2000196 杰莫尔.md",
@@ -238,10 +238,10 @@
     "cards/物品/未启用/2000448 决斗之前的妆扮.md",
     "cards/物品/未启用/2000447 令人开心的妆扮.md",
     "cards/物品/未启用/2000449 不引人注意的妆扮.md",
-    "cards/物品/未启用/2000451 被保佑的妆扮.md",
     "cards/物品/未启用/2000450 出远门的妆扮.md",
-    "cards/物品/未启用/2000452 受欢迎的妆扮.md",
+    "cards/物品/未启用/2000451 被保佑的妆扮.md",
     "cards/物品/未启用/2000453 智者的妆扮.md",
+    "cards/物品/未启用/2000452 受欢迎的妆扮.md",
     "cards/物品/未启用/2000455 时髦的妆扮.md",
     "cards/物品/未启用/2000454 健康的妆扮.md",
     "cards/物品/未启用/2000175 治理家业.md",
@@ -294,8 +294,8 @@
     "cards/物品/已启用/读物/诗歌/2000467 有趣的情诗.md",
     "cards/物品/已启用/读物/诗歌/2000470 不灭的情诗.md",
     "cards/物品/已启用/读物/诗歌/2000472 伟大的爱情.md",
-    "cards/物品/已启用/读物/诗歌/2000474 不凡的史诗.md",
     "cards/物品/已启用/读物/诗歌/2000473 有趣的史诗.md",
+    "cards/物品/已启用/读物/诗歌/2000474 不凡的史诗.md",
     "cards/物品/已启用/读物/诗歌/2000476 伟大的史诗.md",
     "cards/物品/已启用/读物/诗歌/2000478 历史洪流.md",
     "cards/物品/已启用/读物/诗歌/2000481 挑战歌.md",
@@ -365,8 +365,8 @@
     "cards/物品/已启用/家宅/2000324 租赁协议.md",
     "cards/物品/已启用/家宅/2000178 临时帐篷.md",
     "cards/物品/已启用/家宅/2000179 华丽的居所.md",
-    "cards/物品/已启用/家宅/2000180 稍加整修的居所.md",
     "cards/物品/已启用/家宅/2000181 全面整修的居所.md",
+    "cards/物品/已启用/家宅/2000180 稍加整修的居所.md",
     "cards/物品/已启用/家宅/2000182 扩建的居所.md",
     "cards/物品/已启用/家宅/2000183 奇观.md",
     "cards/物品/已启用/军队/2000605 受雇的冒险者部队.md",
@@ -391,8 +391,8 @@
     "cards/物品/已启用/可装备/服装/2000272 盗贼斗篷.md",
     "cards/物品/已启用/可装备/服装/2000273 隐身衣.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000381 水晶镜片.md",
-    "cards/物品/已启用/可装备/玛希尔的研发产品/2000387 机关马.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000386 火焰喷射器.md",
+    "cards/物品/已启用/可装备/玛希尔的研发产品/2000387 机关马.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000390 手摇式电锯剑.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000392 不稳定的火箭筒.md",
     "cards/物品/已启用/可装备/饰品/特殊效果/2000521 魅力护符.md",
@@ -400,8 +400,8 @@
     "cards/物品/已启用/可装备/饰品/特殊效果/2000519 幸运护符.md",
     "cards/物品/已启用/可装备/饰品/特殊效果/2000319 暗影罗盘.md",
     "cards/物品/已启用/可装备/饰品/特殊效果/2000318 风之护符.md",
-    "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000438 机关戒指.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000436 号角耳环.md",
+    "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000438 机关戒指.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000437 庄重唇钉.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000435 编织头环.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000439 带刺戒指.md",
@@ -499,8 +499,8 @@
     "cards/物品/已启用/其他/2000282 守卫的承诺.md",
     "cards/物品/已启用/其他/2000283 后宫密道.md",
     "cards/物品/已启用/其他/2000280 亡国的珍宝.md",
-    "cards/物品/已启用/其他/2000285 修改的证明.md",
     "cards/物品/已启用/其他/2000287 哑铃铛.md",
+    "cards/物品/已启用/其他/2000285 修改的证明.md",
     "cards/物品/已启用/其他/2000289 萨达尔尼的信物.md",
     "cards/物品/已启用/其他/2000290 凶兽的头颅.md",
     "cards/物品/已启用/其他/2000293 赛里曼的伪造死讯.md",
@@ -609,6 +609,7 @@
     "cards/物品/已启用/状态/2000194 疾病.md",
     "cards/物品/已启用/状态/2000163 诅咒.md",
     "cards/物品/已启用/状态/2000098 受伤.md",
+    "picture/Pasted image 20250402223952.png",
     "picture/2000350.png",
     "picture/18.png",
     "picture/17.png",
@@ -1025,25 +1026,7 @@
     "tips/本地存档（保存永久属性）.md",
     "tips/自动存档.md",
     "Home.md",
-    "lib/media/2000508.png",
-    "lib/media/2000507.png",
-    "lib/media/2000506.png",
-    "lib/media/2000505.png",
-    "lib/media/2000504.png",
-    "lib/media/2000503.png",
-    "lib/media/2000511.png",
-    "lib/media/2000510.png",
-    "lib/media/2000509.png",
-    "lib/media/2000350.png",
-    "lib/media/12.png",
-    "lib/media/14.png",
-    "lib/media/15.png",
-    "lib/media/16.png",
-    "lib/media/18.png",
-    "lib/media/2.png",
-    "lib/media/3.png",
-    "lib/media/1.png",
-    "lib/media/4.png",
+    "lib/media/2000013.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -1076,6 +1059,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css",
     "lib/media/2000335.png",
     "lib/media/2000554.png",
@@ -1115,6 +1099,15 @@
     "lib/media/2000617.png",
     "lib/media/2000613.png",
     "lib/media/2000609.png",
+    "lib/media/2000508.png",
+    "lib/media/2000507.png",
+    "lib/media/2000506.png",
+    "lib/media/2000505.png",
+    "lib/media/2000504.png",
+    "lib/media/2000503.png",
+    "lib/media/2000511.png",
+    "lib/media/2000510.png",
+    "lib/media/2000509.png",
     "lib/media/2000578.png",
     "lib/media/2000569.png",
     "lib/media/2000342.png",
@@ -1132,6 +1125,7 @@
     "lib/media/2000006.png",
     "lib/media/2000460.png",
     "lib/media/2000459.png",
+    "lib/media/2000350.png",
     "lib/media/2000349.png",
     "lib/media/2000176.png",
     "lib/media/2000291.png",
@@ -1139,8 +1133,8 @@
     "lib/media/2000312.png",
     "lib/media/2000325.png",
     "lib/media/2000173.png",
-    "lib/media/2000347.png",
     "lib/media/2000346.png",
+    "lib/media/2000347.png",
     "lib/media/2000022.png",
     "lib/media/2000195.png",
     "lib/media/2000196.png",
@@ -1175,7 +1169,6 @@
     "lib/media/2000021.png",
     "lib/media/2000019.png",
     "lib/media/2000014.png",
-    "lib/media/2000013.png",
     "lib/media/2000012.png",
     "lib/media/2000011.png",
     "lib/media/2000010.png",
@@ -1212,8 +1205,8 @@
     "lib/media/2000467.png",
     "lib/media/2000470.png",
     "lib/media/2000472.png",
-    "lib/media/2000474.png",
     "lib/media/2000473.png",
+    "lib/media/2000474.png",
     "lib/media/2000476.png",
     "lib/media/2000478.png",
     "lib/media/2000481.png",
@@ -1288,8 +1281,8 @@
     "lib/media/2000272.png",
     "lib/media/2000273.png",
     "lib/media/2000381.png",
-    "lib/media/2000387.png",
     "lib/media/2000386.png",
+    "lib/media/2000387.png",
     "lib/media/2000390.png",
     "lib/media/2000392.png",
     "lib/media/2000521.png",
@@ -1297,8 +1290,8 @@
     "lib/media/2000519.png",
     "lib/media/2000319.png",
     "lib/media/2000318.png",
-    "lib/media/2000438.png",
     "lib/media/2000436.png",
+    "lib/media/2000438.png",
     "lib/media/2000437.png",
     "lib/media/2000435.png",
     "lib/media/2000439.png",
@@ -1449,13 +1442,22 @@
     "lib/media/2000326.png",
     "lib/media/2000163.png",
     "lib/media/2000098.png",
+    "lib/media/12.png",
+    "lib/media/14.png",
+    "lib/media/15.png",
+    "lib/media/16.png",
+    "lib/media/18.png",
     "lib/media/7.png",
     "lib/media/8.png",
     "lib/media/9.png",
+    "lib/media/4.png",
     "lib/media/11.png",
     "lib/media/10.png",
     "lib/media/6.png",
-    "lib/media/5.png"
+    "lib/media/5.png",
+    "lib/media/2.png",
+    "lib/media/3.png",
+    "lib/media/1.png"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -1490,6 +1492,7 @@
     "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
@@ -3134,8 +3137,8 @@
       ]
     },
     "cards/人物/已启用/人类/2000013 流浪剑客.md": {
-      "modifiedTime": 1743508630842,
-      "sourceSize": 1048,
+      "modifiedTime": 1743605827661,
+      "sourceSize": 1074,
       "exportedPath": "cards/人物/已启用/人类/2000013-流浪剑客.html",
       "dependencies": [
         "lib/media/2000013.png"
@@ -8490,8 +8493,8 @@
       "dependencies": []
     },
     "Home.md": {
-      "modifiedTime": 1743518127414,
-      "sourceSize": 1751,
+      "modifiedTime": 1743605827661,
+      "sourceSize": 2050,
       "exportedPath": "home.html",
       "dependencies": []
     },
@@ -9138,7 +9141,7 @@
       "dependencies": []
     },
     "lib/media/2000013.png": {
-      "modifiedTime": 1743508630842,
+      "modifiedTime": 1743605827661,
       "sourceSize": 383550,
       "exportedPath": "lib/media/2000013.png",
       "dependencies": []
@@ -10782,205 +10785,205 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/media/2308ab1944a6bfa5c5b8.svg": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 278,
       "exportedPath": "lib/media/2308ab1944a6bfa5c5b8.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1743570678679,
-      "sourceSize": 419294,
+      "modifiedTime": 1743605827661,
+      "sourceSize": 419734,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 50167,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/scripts/easy-notice.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 2716,
       "exportedPath": "lib/scripts/easy-notice.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 36457,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/scripts/img-zoom.js": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 4157,
       "exportedPath": "lib/scripts/img-zoom.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 161749,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 64602,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 41426,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1743515868191,
-      "sourceSize": 4767,
+      "modifiedTime": 1743605827661,
+      "sourceSize": 1937,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1743570678679,
+      "modifiedTime": 1743605827661,
       "sourceSize": 23492,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -10998,8 +11001,8 @@
       ]
     },
     "tips/event.md": {
-      "modifiedTime": 1743570678679,
-      "sourceSize": 4709,
+      "modifiedTime": 1743605827661,
+      "sourceSize": 5318,
       "exportedPath": "tips/event.html",
       "dependencies": []
     },
@@ -11026,8 +11029,8 @@
       ]
     },
     "tips/⭐️需要知道的基础.md": {
-      "modifiedTime": 1743510188088,
-      "sourceSize": 557,
+      "modifiedTime": 1743605827661,
+      "sourceSize": 753,
       "exportedPath": "tips/⭐️需要知道的基础.html",
       "dependencies": []
     },
@@ -11262,6 +11265,12 @@
       "modifiedTime": 1743570678679,
       "sourceSize": 327312,
       "exportedPath": "lib/media/2000350.png",
+      "dependencies": []
+    },
+    "picture/Pasted image 20250402223952.png": {
+      "modifiedTime": 1743605827661,
+      "sourceSize": 202125,
+      "exportedPath": "picture/pasted-image-20250402223952.png",
       "dependencies": []
     }
   }

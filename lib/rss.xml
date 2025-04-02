@@ -1,4 +1,256 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 02 Apr 2025 05:11:22 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 02 Apr 2025 05:11:18 GMT</pubDate><copyright><![CDATA[王清芊]]></copyright><ttl>60</ttl><dc:creator>王清芊</dc:creator><item><title><![CDATA[2000508 税吏]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 02 Apr 2025 14:57:09 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 02 Apr 2025 14:57:07 GMT</pubDate><copyright><![CDATA[王清芊]]></copyright><ttl>60</ttl><dc:creator>王清芊</dc:creator><item><title><![CDATA[2000013 流浪剑客]]></title><description><![CDATA[ 
+ <br><img alt="2000013.png" src="lib\media\2000013.png"><br><br><br>"2000013": {
+        "id": 2000013,
+        "name": "流浪剑客",
+        "title": "流浪剑客",
+        "text": "作为黑街公认的最厉害的佣兵和剑客，他拒绝告诉任何人自己的姓名。能认出他的除了那把金色的佩剑之外，还有他那副总是喝着酒、拥着女人，直到花光最后一枚金币的浪荡做派。",
+        "pops": [],
+        "card_favour": "",
+        "type": "char",
+        "tips": "",
+        "rare": 4,
+        "resource": "cards/2000013",
+        "tag": {
+            "体魄": 5,
+            "魅力": 4,
+            "智慧": 3,
+            "男性": 1,
+            "战斗": 5,
+            "隐匿": 3,
+            "生存": 3,
+            "社交": 1,
+            "纯色材质": 1
+        },
+        "card_vanishing": 0,
+        "vanish": {},
+        "equips": [
+            "武器",
+            "服装",
+            "饰品"
+        ],
+        "is_only": 1
+    },
+
+]]></description><link>cards\人物\已启用\人类\2000013-流浪剑客.html</link><guid isPermaLink="false">cards/人物/已启用/人类/2000013 流浪剑客.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 13:23:59 GMT</pubDate><enclosure url="lib\media\2000013.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000013.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>
+计数器，填入数字或数组 "round_begin_ba":number "round_begin_ba":[number,number]<br>
+单个数字：在填入的数字后的回合开始时触发（注意：如果倒计时结束后 condition 条件不满足，会在下一回合继续检验）<br>
+数组：格式为[n, n]，系统自动随机填入的数字范围内数字，在随机数后的回合开始触发，同样遵循 condition
+
+<br>
+"rite_end": rite_id 也可以填数组，格式为[rite_id, rite_id,……]任意填入 rite 关闭后触发 
+
+<br>
+"rite_end":1 任意 rite 结束后触发 
+
+<br>
+"rite_start": rite_id 也可以填数组，格式为[rite_id, rite_id,……]任意填入 rite 开始运行后触发
+
+<br>
+"card_clean":card_id 也可以填数组，格式为[card_id, card_id,……]任意填入 card 被移除后触发  
+
+<br>
+"card_clean":1 任意卡被移除触发 
+
+<br>
+"open_rite":1 打开任意 rite 触发（来自旧新手引导，未测试，可能已废弃）
+
+<br>
+"open_rite_end":rite_id 打开指定 rite 后 （未测试）
+
+<br>
+"close_prompt":1 关闭任意弹窗文本后触发（来自旧新手引导，未测试，可能已废弃）  
+
+<br>
+"open_card_info":1 打开任意卡牌详情页触发（来自旧新手引导，未测试，可能已废弃）
+
+<br>
+"open_card_info_end":1 任意卡牌详情页打开完毕后
+
+<br>
+"show_wizard_option":1 在抽卡界面开启时 
+
+<br>
+"sudan_redraw_start":1 玩家选择换牌选项
+
+<br>
+"close_wizard":1 关闭女术士的抽卡界面时
+
+<br>
+"rite_can_start":1 任意仪式可以开始时
+
+<br>
+"rite_cancel":rite_id 官方备注为“运行出发时”，看不懂，待测试 
+
+<br>
+"back_to_prev_round_end":1 返回上回合结束后
+
+<br>
+"game_end":number 正数对应 over 内的结局，-1是任意结束，-2是失败，-3是任意胜利，-4是小胜，-5是大胜 
+
+<br>
+"card_born":card_id 指定卡牌生成后
+
+<br>
+"counter":counterid 指定计数器变更后（也可能是增加后，待测试）
+
+<br>
+"close_begin_guide":"begin_guide_type" 指定引导结束后（玩家改动似乎用不上）
+
+<br>
+"rite_can_fill":1 任意仪式可以自动填充（玩家改动似乎用不上）
+
+<br>
+"rite_can_stop":1 任意仪式可以撤回（玩家改动似乎用不上）
+
+<br><br>
+<br>为空，由 <a data-tooltip-position="top" aria-label="^26f6ce" data-href="#^26f6ce" href="about:blank#^26f6ce" class="internal-link" target="_self" rel="noopener nofollow">on</a> 触发后无需任何条件即可开启
+<br>"have.cardid":1 卡池中有对应 card
+变体 1："have.cardid.tagName":1 卡池中此 card 有此 tag ，需要先查找到 card<br>
+变体 2："have.cardid&gt;":number 带比大小的，运算符包括[&gt;,&lt;,&gt;=,&lt;=]，满足数量条件才可<br>
+变体 3："have.cardid.tagName&lt;=":number 和 tag 比大小，可使用运算符同上  
+<br>"table_have.cardid":1 卡池中有对应 card 且此 card 空闲（不在任何 rite 中），有变体，形式同上  
+<br>"hand_have.cardid":1 玩家手牌中有对应 card，有变体，形式同上上
+<br>"counter.counterid&gt;=":number 和存档内记录的运算符比大小  
+<br>"rite":rite_id "!rite":rite_id 场上存在/不存在对应 rite
+<br>"f:counter.counterid+counter.counterid&lt;":number 使用计算时用 f: 开头，计算符号包括[+,-]，比较符号包括[&gt;,&lt;,&gt;=,&lt;=]
+<br><br>
+<br>"type":"sudan" 移除任意一张苏丹卡时 
+<br>
+<br><br>默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试  <br>
+<br>
+id<br>
+本 event 事件 id，需唯一，官方格式为 53xxxxx
+
+
+<br>
+text<br>
+描述，玩家不可见
+
+<br>
+is_replay<br>
+本次 event 被开启后是否可以重复触发
+
+<br>
+auto_start<br>
+似乎已废弃，保持 false 即可，删除此行不影响运行
+
+<br>
+auto_start_init<br>
+只见过:[1]的情况，意思是开局就加载本 event
+
+<br>
+start_trigger<br>
+是否启动就立即开始校验条件
+
+<br>
+on<br>
+启动的时机，可以写多个条件，全部满足后触发
+
+<br>
+condition<br>
+触发条件，满足即触发
+
+<br>
+settlement
+
+<br>触发效果	
+<br>tips_resource<br>
+官方注释说，提示资源配置为空，就不弹提示框，但是这整个苏游就没有不为空的。<br>
+推荐不进行改动
+<br>tips_text<br>
+和上一条管格式一致，也一直为空。推荐不进行改动
+<br>action<br>
+触发后效果，一般无显示  
+
+<br>prompt  
+
+<br>弹窗显示的文本  
+<br>id<br>
+格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ prompt_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
+<br>text<br>
+弹窗显示的文字
+<br>icon<br>
+显示在右侧的图片路径，可以删除此段
+
+
+<br>option
+
+<br>选项弹窗
+<br>id<br>
+格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ option_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
+<br>text<br>
+弹窗显示的文字
+<br>icon<br>
+显示在右侧的图片路径 ，可以删除此段	
+<br>items
+
+<br>text
+选项显示的文字
+<br>tag
+通常为 op1，op2 ……一直编号下去
+
+
+
+
+<br>case: op1<br>
+数字可更换，和上面的 item 对应，括号内写选后的结果
+
+
+
+
+]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 14:56:50 GMT</pubDate></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
+ <br>
+<br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
+个人推荐用代码编辑器改，因为方便找对应括号
+<br>除非是末尾句，每句最末请添加 ,，英文的，半角的
+<br>true 是 true，不是 ture  
+<br>任意非比大小（不是说这类不可以加，但是换个比较符号不是更方便）的 condition 条件都可以在前面加 ! 表示否定，即满足非此条件时可以触发
+<br>有装备槽的装备可以拆卸，如果需要增加，写上增加的 tag 名  
+<br>手牌中添加：  
+
+<br>存档 "tag":["own:1"]  
+<br>仪式：人物 tag 添加追随者，物品 tag 添加已拥有
+
+
+<br>
+]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 13:45:23 GMT</pubDate></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+ <br>  <br><br>你好这里是王清芊，在各平台同名<br>
+本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
+<br>
+包含大量个人理解，制作者的属性是 all 主（即主角嬷），如果创到你请自行点 x ，不接受对制作者 xp 的批评和人身攻击
+
+<br>
+对游戏版本的更新有滞后
+
+<br>
+每天会有一次更新
+
+<br>
+对游戏内容全剧透，不推荐想要找攻略的玩家查看
+
+<br>
+计划包含所有 card 内容、tag 内容、rite 链接、event 链接，其中 card 和 tag 贴了源码是因为它们在一个文件翻找麻烦，因此 rite 和 event 在本页是看不到文本内容只能看到链接的选项的，也不推荐人看本页了解游戏，请去游玩游戏本体
+
+<br>
+由于游戏文本量很大而我学校有熄灯所以目前 card 还没翻完啊啊啊啊啊啊，意思是整理的非常非常慢，急需的话先自己翻一下游戏源码吧！  
+
+<br>
+计划整理顺序：card、tag、rite 和 event，按数字顺序往下
+
+<br>
+制作者很懒没写 css 做任何美化，看不惯的话你忍一下
+
+<br><br>
+<br><a data-href="⭐️需要知道的基础" href="tips\⭐️需要知道的基础.html" class="internal-link" target="_self" rel="noopener nofollow">⭐️需要知道的基础</a>
+<br><a data-href="card" href="tips\card.html" class="internal-link" target="_self" rel="noopener nofollow">card</a>
+<br><a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a>
+<br><a data-href="event" href="tips\event.html" class="internal-link" target="_self" rel="noopener nofollow">event</a>
+<br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
+<br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
+<br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
+<br><br><br><br><br><br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 13:43:52 GMT</pubDate></item><item><title><![CDATA[2000508 税吏]]></title><description><![CDATA[ 
  <br><img alt="2000508.png" src="lib\media\2000508.png"><br><br><br>"2000508": {
         "id": 2000508,
         "name": "税吏",
@@ -432,168 +684,7 @@ post_rite
 <br>action 结果（玩家不可见）
 
 
-]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 04:53:37 GMT</pubDate><enclosure url="lib\media\12.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\12.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
- <br><br><br>
-<br>
-计数器，填入数字或数组 "round_begin_ba":number "round_begin_ba":[number,number]<br>
-单个数字：在填入的数字后的回合开始时触发（注意：如果倒计时结束后 condition 条件不满足，会在下一回合继续检验）<br>
-数组：格式为[n, n]，系统自动随机填入的数字范围内数字，在随机数后的回合开始触发，同样遵循 condition
-
-<br>
-"rite_end": rite_id 也可以填数组，格式为[rite_id, rite_id,……]任意填入 rite 关闭后触发 
-
-<br>
-"rite_end":1 任意 rite 结束后触发 
-
-<br>
-"rite_start": rite_id 也可以填数组，格式为[rite_id, rite_id,……]任意填入 rite 开始运行后触发
-
-<br>
-"card_clean":card_id 也可以填数组，格式为[card_id, card_id,……]任意填入 card 被移除后触发  
-
-<br>
-"card_clean":1 任意卡被移除触发 
-
-<br>
-"open_rite":1 打开任意 rite 触发（来自旧新手引导，未测试，可能已废弃）
-
-<br>
-"open_rite_end":rite_id 打开指定 rite 后 （未测试）
-
-<br>
-"close_prompt":1 关闭任意弹窗文本后触发（来自旧新手引导，未测试，可能已废弃）  
-
-<br>
-"open_card_info":1 打开任意卡牌详情页触发（来自旧新手引导，未测试，可能已废弃）
-
-<br>
-"open_card_info_end":1 任意卡牌详情页打开完毕后
-
-<br>
-"show_wizard_option":1 在抽卡界面开启时 
-
-<br>
-"sudan_redraw_start":1 玩家选择换牌选项
-
-<br>
-"close_wizard":1 关闭女术士的抽卡界面时
-
-<br>
-"rite_can_start":1 任意仪式可以开始时
-
-<br>
-"rite_cancel":rite_id 官方备注为“运行出发时”，看不懂，待测试 
-
-<br>
-"back_to_prev_round_end":1 返回上回合结束后
-
-<br>
-"game_end":number 正数对应 over 内的结局，-1是任意结束，-2是失败，-3是任意胜利，-4是小胜，-5是大胜 
-
-<br>
-"card_born":card_id 指定卡牌生成后
-
-<br>
-"counter":counterid 指定计数器变更后（也可能是增加后，待测试）
-
-<br>
-"close_begin_guide":"begin_guide_type" 指定引导结束后（玩家改动似乎用不上）
-
-<br>
-"rite_can_fill":1 任意仪式可以自动填充（玩家改动似乎用不上）
-
-<br>
-"rite_can_stop":1 任意仪式可以撤回（玩家改动似乎用不上）
-
-<br><br>
-<br>"have.cardid":1 卡池中有对应 card
-变体 1："have.cardid.tagName":1 卡池中此 card 有此 tag ，需要先查找到 card<br>
-变体 2："have.cardid&gt;":number 带比大小的，运算符包括[&gt;,&lt;,&gt;=,&lt;=]，满足数量条件才可<br>
-变体 3："have.cardid.tagName&lt;=":number 和 tag 比大小，可使用运算符同上
-<br>"counter.counterid&gt;=":number 和存档内记录的运算符比大小
-<br><br>默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试  <br>
-<br>
-id<br>
-本 event 事件 id，需唯一，官方格式为 53xxxxx
-
-
-<br>
-text<br>
-描述，玩家不可见
-
-<br>
-is_replay<br>
-本次 event 被开启后是否可以重复触发
-
-<br>
-auto_start<br>
-似乎已废弃，保持 false 即可，删除此行不影响运行
-
-<br>
-auto_start_init<br>
-只见过:[1]的情况，意思是开局就加载本 event
-
-<br>
-start_trigger<br>
-是否启动就立即开始校验条件
-
-<br>
-on<br>
-启动的时机，可以写多个条件，全部满足后触发
-
-<br>
-condition<br>
-触发条件，满足即触发
-
-<br>
-settlement
-
-<br>触发效果	
-<br>tips_resource<br>
-官方注释说，提示资源配置为空，就不弹提示框，但是这整个苏游就没有不为空的。<br>
-推荐不进行改动
-<br>tips_text<br>
-和上一条管格式一致，也一直为空。推荐不进行改动
-<br>action<br>
-触发后效果，一般无显示  
-
-<br>prompt  
-
-<br>弹窗显示的文本  
-<br>id<br>
-格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ prompt_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
-<br>text<br>
-弹窗显示的文字
-<br>icon<br>
-显示在右侧的图片路径，可以删除此段
-
-
-<br>option
-
-<br>选项弹窗
-<br>id<br>
-格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ option_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
-<br>text<br>
-弹窗显示的文字
-<br>icon<br>
-显示在右侧的图片路径 ，可以删除此段	
-<br>items
-
-<br>text
-选项显示的文字
-<br>tag
-通常为 op1，op2 ……一直编号下去
-
-
-
-
-<br>case: op1<br>
-数字可更换，和上面的 item 对应，括号内写选后的结果
-
-
-
-
-]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 04:52:57 GMT</pubDate></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
+]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 04:53:37 GMT</pubDate><enclosure url="lib\media\12.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\12.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
  <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
 <br>
 saveTime<br>
@@ -1127,57 +1218,7 @@ cards_slot
 <br>珠宝商人热娜设计的产品共 12 件全是饰品
 <br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
 （意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
-]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 14:46:52 GMT</pubDate><enclosure url="lib\media\5.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\5.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
- <br>
-## 声明<br>你好这里是王清芊，在各平台同名<br>
-本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
-<br>
-包含大量个人理解，制作者的属性是 all 主（即主角嬷），如果创到你请自行点 x ，不接受对制作者 xp 的批评和人身攻击
-
-<br>
-对游戏版本的更新有滞后
-
-<br>
-每天会有一次更新
-
-<br>
-对游戏内容全剧透，不推荐想要找攻略的玩家查看
-
-<br>
-计划包含所有 card 内容、tag 内容、rite 链接、event 链接，其中 card 和 tag 贴了源码是因为它们在一个文件翻找麻烦，因此 rite 和 event 在本页是看不到文本内容只能看到链接的选项的，也不推荐人看本页了解游戏，请去游玩游戏本体
-
-<br>
-由于游戏文本量很大而我学校有熄灯所以目前 card 还没翻完啊啊啊啊啊啊，意思是整理的非常非常慢，急需的话先自己翻一下游戏源码吧！  
-
-<br>
-计划整理顺序：card、tag、rite 和 event，按数字顺序往下
-
-<br>
-制作者很懒没写 css 做任何美化，看不惯的话你忍一下
-
-<br><br>
-<br><a data-href="⭐️需要知道的基础" href="tips\⭐️需要知道的基础.html" class="internal-link" target="_self" rel="noopener nofollow">⭐️需要知道的基础</a>
-<br><a data-href="card" href="tips\card.html" class="internal-link" target="_self" rel="noopener nofollow">card</a>
-<br><a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a>
-<br><a data-href="event" href="tips\event.html" class="internal-link" target="_self" rel="noopener nofollow">event</a>
-<br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
-<br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
-<br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
-<br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><pubDate>Tue, 01 Apr 2025 13:59:32 GMT</pubDate></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
- <br>
-<br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
-个人推荐用代码编辑器改，因为方便找对应括号
-<br>除非是末尾句，每句最末请添加 ,，英文的，半角的
-<br>true 是 true，不是 ture
-<br>有装备槽的装备可以拆卸，如果需要增加，写上增加的 tag 名  
-<br>手牌中添加：  
-
-<br>存档 "tag":["own:1"]  
-<br>仪式：人物 tag 添加追随者，物品 tag 添加已拥有
-
-
-<br>
-]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><pubDate>Tue, 01 Apr 2025 07:46:33 GMT</pubDate></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
+]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><pubDate>Tue, 01 Apr 2025 14:46:52 GMT</pubDate><enclosure url="lib\media\5.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\5.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
  <br><br><br>    "2000353": {
         "id": 2000353,
         "name": "恩萨",
@@ -7808,40 +7849,7 @@ cards_slot
         "is_only": 1
     },
 
-]]></description><link>cards\人物\已启用\人类\2000014-哈比卜.html</link><guid isPermaLink="false">cards/人物/已启用/人类/2000014 哈比卜.md</guid><pubDate>Sat, 29 Mar 2025 08:42:31 GMT</pubDate><enclosure url="lib\media\2000014.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000014.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000013 流浪剑客]]></title><description><![CDATA[ 
- <br><img alt="2000013.png" src="lib\media\2000013.png"><br><br><br>"2000013": {
-        "id": 2000013,
-        "name": "流浪剑客",
-        "title": "流浪剑客",
-        "text": "作为黑街公认的最厉害的佣兵和剑客，他拒绝告诉任何人自己的姓名。能认出他的除了那把金色的佩剑之外，还有他那副总是喝着酒、拥着女人，直到花光最后一枚金币的浪荡做派。",
-        "pops": [],
-        "card_favour": "",
-        "type": "char",
-        "tips": "",
-        "rare": 4,
-        "resource": "cards/2000013",
-        "tag": {
-            "体魄": 5,
-            "魅力": 4,
-            "智慧": 3,
-            "男性": 1,
-            "战斗": 5,
-            "隐匿": 3,
-            "生存": 3,
-            "社交": 1,
-            "纯色材质": 1
-        },
-        "card_vanishing": 0,
-        "vanish": {},
-        "equips": [
-            "武器",
-            "服装",
-            "饰品"
-        ],
-        "is_only": 1
-    },
-
-]]></description><link>cards\人物\已启用\人类\2000013-流浪剑客.html</link><guid isPermaLink="false">cards/人物/已启用/人类/2000013 流浪剑客.md</guid><pubDate>Sat, 29 Mar 2025 08:43:01 GMT</pubDate><enclosure url="lib\media\2000013.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000013.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000012 赛里曼]]></title><description><![CDATA[ 
+]]></description><link>cards\人物\已启用\人类\2000014-哈比卜.html</link><guid isPermaLink="false">cards/人物/已启用/人类/2000014 哈比卜.md</guid><pubDate>Sat, 29 Mar 2025 08:42:31 GMT</pubDate><enclosure url="lib\media\2000014.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000014.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000012 赛里曼]]></title><description><![CDATA[ 
  <br><img alt="2000012.png" src="lib\media\2000012.png"><br><br><br>"2000012": {
         "id": 2000012,
         "name": "赛里曼",
