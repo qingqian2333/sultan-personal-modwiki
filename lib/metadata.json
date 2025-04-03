@@ -1,6 +1,6 @@
 {
   "vaultName": "Obsidian",
-  "lastExport": 1743685767693,
+  "lastExport": 1743692166446,
   "pluginVersion": "1.8.03",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon h2-underline",
   "useCustomHeadContent": false,
@@ -144,6 +144,13 @@
     "cards/人物/已启用/人类/食客/2000611 力士.md",
     "cards/人物/已启用/人类/食客/2000610 力士.md",
     "cards/人物/已启用/人类/食客/2000609 力士.md",
+    "cards/人物/已启用/人类/挑战者/2000565 挑战者.md",
+    "cards/人物/已启用/人类/挑战者/2000564 挑战者.md",
+    "cards/人物/已启用/人类/挑战者/2000563 挑战者.md",
+    "cards/人物/已启用/人类/挑战者/2000562 挑战者.md",
+    "cards/人物/已启用/人类/挑战者/2000561 挑战者.md",
+    "cards/人物/已启用/人类/挑战者/2000560 挑战者.md",
+    "cards/人物/已启用/人类/挑战者/2000559 挑战者.md",
     "cards/人物/已启用/人类/新手教程人物/2000516 无名的乞丐.md",
     "cards/人物/已启用/人类/新手教程人物/2000508 税吏.md",
     "cards/人物/已启用/人类/新手教程人物/2000507 书记官.md",
@@ -154,18 +161,16 @@
     "cards/人物/已启用/人类/新手教程人物/2000511 女奴.md",
     "cards/人物/已启用/人类/新手教程人物/2000510 妖媚的宠妃.md",
     "cards/人物/已启用/人类/新手教程人物/2000509 年长的宠妃.md",
+    "cards/人物/已启用/人类/2000748 激进的贵族.md",
+    "cards/人物/已启用/人类/2000735 激进的群众.md",
+    "cards/人物/已启用/人类/2000736 激进的贵族.md",
+    "cards/人物/已启用/人类/2000738 自命不凡的贵族.md",
+    "cards/人物/已启用/人类/2000743 离群的贵族.md",
     "cards/人物/已启用/人类/2000684 施虐的男人.md",
     "cards/人物/已启用/人类/2000700 逐渐启智的仆人.md",
     "cards/人物/已启用/人类/2000699 年老的女奴.md",
     "cards/人物/已启用/人类/2000569 女护卫.md",
     "cards/人物/已启用/人类/2000568 青年官吏.md",
-    "cards/人物/已启用/人类/2000565 挑战者.md",
-    "cards/人物/已启用/人类/2000564 挑战者.md",
-    "cards/人物/已启用/人类/2000563 挑战者.md",
-    "cards/人物/已启用/人类/2000562 挑战者.md",
-    "cards/人物/已启用/人类/2000561 挑战者.md",
-    "cards/人物/已启用/人类/2000560 挑战者.md",
-    "cards/人物/已启用/人类/2000559 挑战者.md",
     "cards/人物/已启用/人类/2000546 老赌鬼.md",
     "cards/人物/已启用/人类/2000537 口无遮拦的囚犯.md",
     "cards/人物/已启用/人类/2000536 受虐待的妇人.md",
@@ -186,8 +191,8 @@
     "cards/人物/已启用/人类/2000397 夏玛的父亲.md",
     "cards/人物/已启用/人类/2000457 梅姬.md",
     "cards/人物/已启用/人类/2000458 梅姬.md",
-    "cards/人物/已启用/人类/2000460 哈桑.md",
     "cards/人物/已启用/人类/2000459 马尔基娜.md",
+    "cards/人物/已启用/人类/2000460 哈桑.md",
     "cards/人物/已启用/人类/2000350 法尔达克.md",
     "cards/人物/已启用/人类/2000349 阿卜德.md",
     "cards/人物/已启用/人类/2000176 萨达尔尼的侍女.md",
@@ -204,8 +209,8 @@
     "cards/人物/已启用/人类/2000339 娴熟的骑手.md",
     "cards/人物/已启用/人类/2000338 紧张的骑手.md",
     "cards/人物/已启用/人类/2000341 冷淡的骑手.md",
-    "cards/人物/已启用/人类/2000347 盖斯.md",
     "cards/人物/已启用/人类/2000346 哲瓦德.md",
+    "cards/人物/已启用/人类/2000347 盖斯.md",
     "cards/人物/已启用/人类/2000190 被俘虏的异教徒.md",
     "cards/人物/已启用/人类/2000195 拉伊德.md",
     "cards/人物/已启用/人类/2000196 杰莫尔.md",
@@ -259,11 +264,12 @@
     "cards/物品/未启用/2000449 不引人注意的妆扮.md",
     "cards/物品/未启用/2000451 被保佑的妆扮.md",
     "cards/物品/未启用/2000450 出远门的妆扮.md",
-    "cards/物品/未启用/2000453 智者的妆扮.md",
     "cards/物品/未启用/2000452 受欢迎的妆扮.md",
+    "cards/物品/未启用/2000453 智者的妆扮.md",
     "cards/物品/未启用/2000455 时髦的妆扮.md",
     "cards/物品/未启用/2000454 健康的妆扮.md",
     "cards/物品/未启用/2000175 治理家业.md",
+    "cards/物品/未启用/2000282 守卫的承诺.md",
     "cards/物品/未启用/2000307 盗窃计划.md",
     "cards/物品/未启用/2000308 恐吓计划.md",
     "cards/物品/未启用/2000309 卑贱囚牢.md",
@@ -287,6 +293,17 @@
     "cards/物品/未启用/2000071 被差遣的士兵.md",
     "cards/物品/未启用/2000051 污名.md",
     "cards/物品/未启用/2000050 影响力.md",
+    "cards/物品/已启用/地点/2000364 被找到的绿洲.md",
+    "cards/物品/已启用/地点/2000366 中国.md",
+    "cards/物品/已启用/地点/2000365 繁荣的城市.md",
+    "cards/物品/已启用/地点/2000310 贵族囚牢.md",
+    "cards/物品/已启用/地点/2000317 遥远的绿洲.md",
+    "cards/物品/已启用/敌人/2000599 神秘的怪物.md",
+    "cards/物品/已启用/敌人/2000598 桀骜不驯的部落.md",
+    "cards/物品/已启用/敌人/2000597 商队.md",
+    "cards/物品/已启用/敌人/2000596 穴居土著村落.md",
+    "cards/物品/已启用/敌人/2000595 游牧民绿洲.md",
+    "cards/物品/已启用/敌人/2000574 盗贼团伙.md",
     "cards/物品/已启用/读物/诗歌/特殊效果/2000487 黑暗根源.md",
     "cards/物品/已启用/读物/诗歌/特殊效果/2000469 荒唐的情诗.md",
     "cards/物品/已启用/读物/诗歌/特殊效果/2000471 宽恕的情诗.md",
@@ -309,6 +326,8 @@
     "cards/物品/已启用/读物/诗歌/2000480 精巧的讽刺.md",
     "cards/物品/已启用/读物/诗歌/2000481 挑战歌.md",
     "cards/物品/已启用/读物/诗歌/2000479 谐音谩骂.md",
+    "cards/物品/已启用/读物/书/角色相关书籍/2000671 屠龙之书.md",
+    "cards/物品/已启用/读物/书/角色相关书籍/2000756 《被遗忘的仪式》.md",
     "cards/物品/已启用/读物/书/角色相关书籍/2000704 帝国勇士排行榜.md",
     "cards/物品/已启用/读物/书/角色相关书籍/2000705 帝国勇士排行榜.md",
     "cards/物品/已启用/读物/书/角色相关书籍/2000706 帝国勇士排行榜.md",
@@ -343,10 +362,10 @@
     "cards/物品/已启用/读物/书/无阅读条件/2000217 斥候训练手册.md",
     "cards/物品/已启用/读物/书/无阅读条件/2000223 游牧民的生活.md",
     "cards/物品/已启用/读物/书/无阅读条件/2000222 地图与边疆.md",
-    "cards/物品/已启用/读物/书/无阅读条件/2000228 士兵的训练.md",
     "cards/物品/已启用/读物/书/无阅读条件/2000227 健身手册.md",
-    "cards/物品/已启用/读物/书/有副作用/2000464 怪诞的书.md",
+    "cards/物品/已启用/读物/书/无阅读条件/2000228 士兵的训练.md",
     "cards/物品/已启用/读物/书/有副作用/2000465 禁忌的古书.md",
+    "cards/物品/已启用/读物/书/有副作用/2000464 怪诞的书.md",
     "cards/物品/已启用/读物/书/有副作用/2000235 洞开的思想.md",
     "cards/物品/已启用/读物/书/有副作用/2000242 耳语之书.md",
     "cards/物品/已启用/读物/书/有副作用/2000243 蠕虫密卷.md",
@@ -370,29 +389,43 @@
     "cards/物品/已启用/读物/书/有条件阅读/2000225 西行记.md",
     "cards/物品/已启用/读物/书/有条件阅读/2000226 沙漠之书.md",
     "cards/物品/已启用/读物/书/有条件阅读/2000229 勇武故事集.md",
+    "cards/物品/已启用/读物/仪式图纸/2000758 内宅的仪式图纸.md",
+    "cards/物品/已启用/读物/仪式图纸/2000757 丰产的仪式图纸.md",
+    "cards/物品/已启用/读物/仪式图纸/2000492 黑暗火锅仪式图纸.md",
+    "cards/物品/已启用/读物/仪式图纸/2000491 魔力增长仪式图纸.md",
+    "cards/物品/已启用/读物/仪式图纸/2000490 武器附魔仪式图纸.md",
+    "cards/物品/已启用/读物/仪式图纸/2000489 召唤邪物仪式图纸.md",
+    "cards/物品/已启用/读物/仪式图纸/2000462 献祭仪式图纸.md",
+    "cards/物品/已启用/俘虏/2000535 背叛的朋友.md",
+    "cards/物品/已启用/俘虏/2000534 等死的奴隶.md",
     "cards/物品/已启用/好感和支持/2000678 国民的支持.md",
     "cards/物品/已启用/好感和支持/2000679 官吏的支持.md",
     "cards/物品/已启用/好感和支持/2000674 国民的好感.md",
     "cards/物品/已启用/好感和支持/2000673 军队的好感.md",
     "cards/物品/已启用/好感和支持/2000677 军队的支持.md",
     "cards/物品/已启用/好感和支持/2000675 官吏的好感.md",
-    "cards/物品/已启用/家宅/2000661 空置的宅邸.md",
+    "cards/物品/已启用/家宅/2000661 空置的宅邸 1.md",
     "cards/物品/已启用/家宅/2000662 空置的宅邸.md",
+    "cards/物品/已启用/家宅/2000661 空置的宅邸.md",
     "cards/物品/已启用/家宅/2000683 空置的宅邸.md",
     "cards/物品/已启用/家宅/2000533 空置的房间.md",
     "cards/物品/已启用/家宅/2000532 空置的房间.md",
     "cards/物品/已启用/家宅/2000531 空置的房间.md",
     "cards/物品/已启用/家宅/2000530 空置的房间.md",
     "cards/物品/已启用/家宅/2000321 租赁协议.md",
-    "cards/物品/已启用/家宅/2000323 租赁协议.md",
     "cards/物品/已启用/家宅/2000322 租赁协议.md",
+    "cards/物品/已启用/家宅/2000323 租赁协议.md",
     "cards/物品/已启用/家宅/2000324 租赁协议.md",
     "cards/物品/已启用/家宅/2000178 临时帐篷.md",
     "cards/物品/已启用/家宅/2000179 华丽的居所.md",
-    "cards/物品/已启用/家宅/2000180 稍加整修的居所.md",
     "cards/物品/已启用/家宅/2000181 全面整修的居所.md",
+    "cards/物品/已启用/家宅/2000180 稍加整修的居所.md",
     "cards/物品/已启用/家宅/2000182 扩建的居所.md",
     "cards/物品/已启用/家宅/2000183 奇观.md",
+    "cards/物品/已启用/军队/2000737 激进的军队.md",
+    "cards/物品/已启用/军队/2000745 盲目的军队.md",
+    "cards/物品/已启用/军队/2000744 激进的军队.md",
+    "cards/物品/已启用/军队/2000746 盲目的军队.md",
     "cards/物品/已启用/军队/2000605 受雇的冒险者部队.md",
     "cards/物品/已启用/军队/2000573 蛮人社团.md",
     "cards/物品/已启用/军队/2000567 激进教团.md",
@@ -405,6 +438,7 @@
     "cards/物品/已启用/可装备/焚烧金苏丹卡所得/2000606 恋人之心.md",
     "cards/物品/已启用/可装备/服装/2000666 防火衣.md",
     "cards/物品/已启用/可装备/服装/2000669 焦黑的盔甲.md",
+    "cards/物品/已启用/可装备/服装/2000749 春风斗篷.md",
     "cards/物品/已启用/可装备/服装/2000604 怪物的铠甲.md",
     "cards/物品/已启用/可装备/服装/2000527 家传铠甲.md",
     "cards/物品/已启用/可装备/服装/2000526 家传铠甲.md",
@@ -417,8 +451,8 @@
     "cards/物品/已启用/可装备/服装/2000272 盗贼斗篷.md",
     "cards/物品/已启用/可装备/服装/2000273 隐身衣.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000381 水晶镜片.md",
-    "cards/物品/已启用/可装备/玛希尔的研发产品/2000386 火焰喷射器.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000387 机关马.md",
+    "cards/物品/已启用/可装备/玛希尔的研发产品/2000386 火焰喷射器.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000390 手摇式电锯剑.md",
     "cards/物品/已启用/可装备/玛希尔的研发产品/2000392 不稳定的火箭筒.md",
     "cards/物品/已启用/可装备/饰品/特殊效果/2000521 魅力护符.md",
@@ -435,10 +469,13 @@
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000441 古怪面具.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000442 日月臂环.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000443 精工皮手套.md",
-    "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000444 黑水晶面具.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000446 金刚手套.md",
+    "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000444 黑水晶面具.md",
     "cards/物品/已启用/可装备/饰品/珠宝商人打造/2000445 华丽身体链.md",
+    "cards/物品/已启用/可装备/饰品/2000747 琥珀宝石吊坠.md",
+    "cards/物品/已启用/可装备/饰品/2000734 精致骆驼骨笛.md",
     "cards/物品/已启用/可装备/饰品/2000729 狼头围巾.md",
+    "cards/物品/已启用/可装备/饰品/2000742 古老的戒指.md",
     "cards/物品/已启用/可装备/饰品/2000693 白银吊坠.md",
     "cards/物品/已启用/可装备/饰品/2000701 白银戒指.md",
     "cards/物品/已启用/可装备/饰品/2000696 血滴耳环.md",
@@ -464,20 +501,24 @@
     "cards/物品/已启用/可装备/饰品/2000298 异种雕工戒指.md",
     "cards/物品/已启用/可装备/饰品/2000299 盲眼盾.md",
     "cards/物品/已启用/可装备/饰品/2000300 梦行者项链.md",
+    "cards/物品/已启用/可装备/双头龙/2000694 双截龙.md",
+    "cards/物品/已启用/可装备/双头龙/2000184 奇巧双头龙.md",
     "cards/物品/已启用/可装备/武器/特殊效果/2000320 妖精的提灯.md",
     "cards/物品/已启用/可装备/武器/2000665 淬火的秘银剑.md",
     "cards/物品/已启用/可装备/武器/2000663 精致的匕首.md",
+    "cards/物品/已启用/可装备/武器/2000752 奈布哈尼之剑.md",
+    "cards/物品/已启用/可装备/武器/2000750 仪式军刀.md",
     "cards/物品/已启用/可装备/武器/2000732 石餐盒.md",
     "cards/物品/已启用/可装备/武器/2000733 将军的宝剑.md",
-    "cards/物品/已启用/可装备/武器/2000694 双截龙.md",
+    "cards/物品/已启用/可装备/武器/2000739 蒙尘之剑.md",
     "cards/物品/已启用/可装备/武器/2000577 铁头的拳套.md",
     "cards/物品/已启用/可装备/武器/2000400 大领主的佩剑.md",
     "cards/物品/已启用/可装备/武器/2000246 匕首.md",
     "cards/物品/已启用/可装备/武器/2000247 指虎.md",
     "cards/物品/已启用/可装备/武器/2000249 投石索.md",
     "cards/物品/已启用/可装备/武器/2000252 长剑.md",
-    "cards/物品/已启用/可装备/武器/2000255 长矛.md",
     "cards/物品/已启用/可装备/武器/2000253 弯刀.md",
+    "cards/物品/已启用/可装备/武器/2000255 长矛.md",
     "cards/物品/已启用/可装备/武器/2000254 猎弓.md",
     "cards/物品/已启用/可装备/武器/2000256 重剑.md",
     "cards/物品/已启用/可装备/武器/2000258 流星锤.md",
@@ -489,9 +530,6 @@
     "cards/物品/已启用/可装备/武器/2000331 传奇宝剑.md",
     "cards/物品/已启用/可装备/武器/2000160 复合弓.md",
     "cards/物品/已启用/可装备/2000502 皇家宝剑.md",
-    "cards/物品/已启用/可装备/2000184 奇巧双头龙.md",
-    "cards/物品/已启用/其他/俘虏/2000535 背叛的朋友.md",
-    "cards/物品/已启用/其他/俘虏/2000534 等死的奴隶.md",
     "cards/物品/已启用/其他/玛希尔的研发成果/2000393 错乱学习机.md",
     "cards/物品/已启用/其他/玛希尔的研发成果/2000394 手摇式长明灯.md",
     "cards/物品/已启用/其他/命运商店/2000525 借书证.md",
@@ -510,57 +548,33 @@
     "cards/物品/已启用/其他/纵欲的痕迹/2000192 纵欲的痕迹-浴场.md",
     "cards/物品/已启用/其他/纵欲的痕迹/2000200 纵欲的痕迹-书店.md",
     "cards/物品/已启用/其他/2000680 苏丹的猜忌.md",
-    "cards/物品/已启用/其他/2000681 不举的传言.md",
     "cards/物品/已启用/其他/2000682 病容.md",
-    "cards/物品/已启用/其他/2000664 龙之诅咒的传闻.md",
-    "cards/物品/已启用/其他/2000671 屠龙之书.md",
     "cards/物品/已启用/其他/2000676 财政赤字.md",
     "cards/物品/已启用/其他/2000668 龙眼宝石.md",
     "cards/物品/已启用/其他/2000672 苏丹的猜疑.md",
-    "cards/物品/已启用/其他/2000723 理性.md",
-    "cards/物品/已启用/其他/2000730 熟悉的战斗方式.md",
-    "cards/物品/已启用/其他/2000731 拳斗士的证明.md",
+    "cards/物品/已启用/其他/2000755 解答时限.md",
+    "cards/物品/已启用/其他/2000751 决心.md",
+    "cards/物品/已启用/其他/2000741 盖斯家的世袭头衔.md",
     "cards/物品/已启用/其他/2000690 帝国之花.md",
     "cards/物品/已启用/其他/2000692 与龙对话.md",
     "cards/物品/已启用/其他/2000691 帝国之花残页.md",
     "cards/物品/已启用/其他/2000697 流光溢彩的丝绸.md",
     "cards/物品/已启用/其他/2000702 娜依拉的快乐名单.md",
     "cards/物品/已启用/其他/2000698 娜依拉的不满.md",
-    "cards/物品/已启用/其他/2000599 神秘的怪物.md",
-    "cards/物品/已启用/其他/2000598 桀骜不驯的部落.md",
-    "cards/物品/已启用/其他/2000597 商队.md",
-    "cards/物品/已启用/其他/2000596 穴居土著村落.md",
-    "cards/物品/已启用/其他/2000595 游牧民绿洲.md",
     "cards/物品/已启用/其他/2000575 铁头的优势.md",
-    "cards/物品/已启用/其他/2000574 盗贼团伙.md",
     "cards/物品/已启用/其他/2000570 奈费勒的优势.md",
-    "cards/物品/已启用/其他/2000558 罪证.md",
     "cards/物品/已启用/其他/2000555 税收法律的补丁.md",
     "cards/物品/已启用/其他/2000545 星灵.md",
-    "cards/物品/已启用/其他/2000539 商队的保证.md",
-    "cards/物品/已启用/其他/2000359 廉洁的伪证.md",
-    "cards/物品/已启用/其他/2000363 苏丹的宽恕.md",
-    "cards/物品/已启用/其他/2000364 被找到的绿洲.md",
-    "cards/物品/已启用/其他/2000366 中国.md",
-    "cards/物品/已启用/其他/2000365 繁荣的城市.md",
-    "cards/物品/已启用/其他/2000373 朝觐的承诺.md",
     "cards/物品/已启用/其他/2000375 懦夫的保证书.md",
     "cards/物品/已启用/其他/2000378 贵族的尸体.md",
     "cards/物品/已启用/其他/2000404 勇者之心.md",
     "cards/物品/已启用/其他/2000466 神秘的锅.md",
     "cards/物品/已启用/其他/2000170 苏丹的耐心.md",
-    "cards/物品/已启用/其他/2000174 萨达尔尼的秘密.md",
-    "cards/物品/已启用/其他/2000282 守卫的承诺.md",
     "cards/物品/已启用/其他/2000283 后宫密道.md",
     "cards/物品/已启用/其他/2000280 亡国的珍宝.md",
     "cards/物品/已启用/其他/2000287 哑铃铛.md",
-    "cards/物品/已启用/其他/2000285 修改的证明.md",
     "cards/物品/已启用/其他/2000289 萨达尔尼的信物.md",
-    "cards/物品/已启用/其他/2000293 赛里曼的伪造死讯.md",
-    "cards/物品/已启用/其他/2000310 贵族囚牢.md",
-    "cards/物品/已启用/其他/2000317 遥远的绿洲.md",
     "cards/物品/已启用/其他/2000329 白犀牛皮.md",
-    "cards/物品/已启用/其他/2000185 邪术的痕迹.md",
     "cards/物品/已启用/其他/2000193 雨之子·下卷.md",
     "cards/物品/已启用/其他/2000168 谗言.md",
     "cards/物品/已启用/其他/2000162 未鉴定的赃物.md",
@@ -574,11 +588,11 @@
     "cards/物品/已启用/奇珍/2000402 金猫战士雕像.md",
     "cards/物品/已启用/奇珍/2000302 传承挂毯.md",
     "cards/物品/已启用/奇珍/2000304 小鳄鱼.md",
-    "cards/物品/已启用/思潮/2000724 不洁的思绪.md",
     "cards/物品/已启用/思潮/2000725 纯净的思想.md",
+    "cards/物品/已启用/思潮/2000724 不洁的思绪.md",
     "cards/物品/已启用/思潮/2000727 赎罪祈愿.md",
-    "cards/物品/已启用/思潮/2000726 触碰洁净.md",
     "cards/物品/已启用/思潮/2000728 完美世界.md",
+    "cards/物品/已启用/思潮/2000726 触碰洁净.md",
     "cards/物品/已启用/思潮/2000541 免于恐惧的自由.md",
     "cards/物品/已启用/思潮/2000410 窥视黑暗.md",
     "cards/物品/已启用/思潮/2000411 古老的信仰.md",
@@ -607,6 +621,14 @@
     "cards/物品/已启用/苏丹卡/2010015 征服.md",
     "cards/物品/已启用/苏丹卡/2010016 征服.md",
     "cards/物品/已启用/苏丹卡/2000512 银纵欲.md",
+    "cards/物品/已启用/线索/2000664 龙之诅咒的传闻.md",
+    "cards/物品/已启用/线索/2000754 无用的施舍.md",
+    "cards/物品/已启用/线索/2000753 夹在书中的字条.md",
+    "cards/物品/已启用/线索/2000730 熟悉的战斗方式.md",
+    "cards/物品/已启用/线索/2000731 拳斗士的证明.md",
+    "cards/物品/已启用/线索/2000740 爵位的下落？.md",
+    "cards/物品/已启用/线索/2000174 萨达尔尼的秘密.md",
+    "cards/物品/已启用/线索/2000185 邪术的痕迹.md",
     "cards/物品/已启用/消耗品/玛希尔的研发产品/2000383 烈焰之酒.md",
     "cards/物品/已启用/消耗品/玛希尔的研发产品/2000382 生命之水.md",
     "cards/物品/已启用/消耗品/玛希尔的研发产品/2000389 螺旋钻地机.md",
@@ -623,6 +645,7 @@
     "cards/物品/已启用/消耗品/天象/2000714 永恒轨迹.md",
     "cards/物品/已启用/消耗品/2000667 屠龙补给.md",
     "cards/物品/已启用/消耗品/2000670 美容药膏.md",
+    "cards/物品/已启用/消耗品/2000723 理性.md",
     "cards/物品/已启用/消耗品/2000695 昂贵的香料.md",
     "cards/物品/已启用/消耗品/2000703 净化宝珠.md",
     "cards/物品/已启用/消耗品/2000416 内幕.md",
@@ -668,11 +691,14 @@
     "cards/物品/已启用/消耗品/2000033 洞察.md",
     "cards/物品/已启用/消耗品/2000032 秘密.md",
     "cards/物品/已启用/消耗品/2000029 金币.md",
-    "cards/物品/已启用/仪式图纸/2000492 黑暗火锅仪式图纸.md",
-    "cards/物品/已启用/仪式图纸/2000491 魔力增长仪式图纸.md",
-    "cards/物品/已启用/仪式图纸/2000490 武器附魔仪式图纸.md",
-    "cards/物品/已启用/仪式图纸/2000489 召唤邪物仪式图纸.md",
-    "cards/物品/已启用/仪式图纸/2000462 献祭仪式图纸.md",
+    "cards/物品/已启用/证据/2000558 罪证.md",
+    "cards/物品/已启用/证据/2000539 商队的保证.md",
+    "cards/物品/已启用/证据/2000359 廉洁的伪证.md",
+    "cards/物品/已启用/证据/2000363 苏丹的宽恕.md",
+    "cards/物品/已启用/证据/2000373 朝觐的承诺.md",
+    "cards/物品/已启用/证据/2000285 修改的证明.md",
+    "cards/物品/已启用/证据/2000293 赛里曼的伪造死讯.md",
+    "cards/物品/已启用/状态/2000681 不举的传言.md",
     "cards/物品/已启用/状态/2000689 幸福感.md",
     "cards/物品/已启用/状态/2000566 暗中蓄谋.md",
     "cards/物品/已启用/状态/2000557 幻痛.md",
@@ -682,15 +708,14 @@
     "cards/物品/已启用/状态/2000194 疾病.md",
     "cards/物品/已启用/状态/2000163 诅咒.md",
     "cards/物品/已启用/状态/2000098 受伤.md",
-    "cards/2000661 空置的宅邸.md",
     "cards/2000847 纯净之神.md",
     "cards/2000848 毁灭之神.md",
-    "cards/2000844 腐败之神.md",
     "cards/2000845 善的本质？.md",
+    "cards/2000844 腐败之神.md",
     "cards/2000846 神圣的声音.md",
     "cards/2000815 咒文发梳.md",
-    "cards/2000816 银质香炉.md",
     "cards/2000817 古老的丝质披风.md",
+    "cards/2000816 银质香炉.md",
     "cards/2000819 征战护身符.md",
     "cards/2000820 玉石臂环.md",
     "cards/2000818 黄金角杯.md",
@@ -698,8 +723,8 @@
     "cards/2000825 金羊耳环.md",
     "cards/2000823 鸳鸯戒指.md",
     "cards/2000821 石榴园.md",
-    "cards/2000826 战车项链.md",
     "cards/2000824 精致的金耳环.md",
+    "cards/2000826 战车项链.md",
     "cards/2000804 白鼬的宫廷.md",
     "cards/2000800 不朽者之吻.md",
     "cards/2000799 等待太久.md",
@@ -723,9 +748,9 @@
     "cards/2000852 有手艺的女奴.md",
     "cards/2000856 石中火.md",
     "cards/2000855 黄沙之战.md",
-    "cards/2000861 ？.md",
-    "cards/2000860 神秘人.md",
     "cards/2000858 朝露之冠.md",
+    "cards/2000860 神秘人.md",
+    "cards/2000861 ？.md",
     "cards/2000863 权势的遮掩.md",
     "cards/2000854 坎佩尔末刃.md",
     "cards/2000864 侠名的遮掩.md",
@@ -739,31 +764,19 @@
     "cards/2000781 哲瓦德的打手.md",
     "cards/2000787 小召唤兽.md",
     "cards/2000785 武馆高手.md",
-    "cards/2000790 宠溺项链.md",
     "cards/2000784 黑街勇士.md",
-    "cards/2000797 老花园.md",
+    "cards/2000790 宠溺项链.md",
     "cards/2000794 阿木剌·图斯.md",
+    "cards/2000797 老花园.md",
     "cards/2000795 快脚的老婆.md",
     "cards/2000796 苏丹的怒火.md",
     "cards/2000791 蒙面风流客.md",
     "cards/2000789 美艳的妓女.md",
     "cards/2000793 镶嵌宝石的匕首.md",
     "cards/2000792 布缇娜.md",
-    "cards/2000748 激进的贵族.md",
-    "cards/2000749 春风斗篷.md",
-    "cards/2000752 奈布哈尼之剑.md",
-    "cards/2000750 仪式军刀.md",
-    "cards/2000747 琥珀宝石吊坠.md",
     "cards/2000759 剑盾的仪式图纸.md",
-    "cards/2000755 解答时限.md",
-    "cards/2000754 无用的施舍.md",
     "cards/2000760 丰产的祝福.md",
-    "cards/2000758 内宅的仪式图纸.md",
-    "cards/2000756 《被遗忘的仪式》.md",
-    "cards/2000753 夹在书中的字条.md",
-    "cards/2000751 决心.md",
     "cards/2000762 火焰大王.md",
-    "cards/2000757 丰产的仪式图纸.md",
     "cards/2000764 年轻的贵族.md",
     "cards/2000763 火焰大王军.md",
     "cards/2000769 一截斩断的绳索.md",
@@ -778,24 +791,11 @@
     "cards/2000765 宽裕的贵族.md",
     "cards/2000778 精美的蓝纱.md",
     "cards/2000773 哈布娜.md",
-    "cards/2000779 湛蓝丝巾.md",
     "cards/2000776 昂贵的金面纱.md",
+    "cards/2000779 湛蓝丝巾.md",
     "cards/2000775 小药瓶.md",
     "cards/2000774 阿鲁米娜.md",
-    "cards/2000735 激进的群众.md",
-    "cards/2000736 激进的贵族.md",
-    "cards/2000734 精致骆驼骨笛.md",
-    "cards/2000738 自命不凡的贵族.md",
-    "cards/2000737 激进的军队.md",
-    "cards/2000743 离群的贵族.md",
-    "cards/2000740 爵位的下落？.md",
-    "cards/2000742 古老的戒指.md",
-    "cards/2000741 盖斯家的世袭头衔.md",
-    "cards/2000739 蒙尘之剑.md",
-    "cards/2000745 盲目的军队.md",
-    "cards/2000744 激进的军队.md",
     "cards/2000811 酸莓甜米饭.md",
-    "cards/2000746 盲目的军队.md",
     "cards/2000867 贫民区的孤儿.md",
     "cards/2000872 领袖.md",
     "cards/2000870 自我.md",
@@ -803,11 +803,11 @@
     "cards/2000873 知识.md",
     "cards/2000866 被打包的财物.md",
     "cards/2000869 对等.md",
-    "cards/2000875 得利.md",
     "cards/2000871 理想.md",
+    "cards/2000875 得利.md",
     "cards/2000874 体验.md",
-    "cards/2000919 伊喀尔与胡塞.md",
     "cards/2000918 杀生者.md",
+    "cards/2000919 伊喀尔与胡塞.md",
     "cards/2000925 近卫.md",
     "cards/2000929 高贵精魂骑士.md",
     "cards/2000917 黄金甲.md",
@@ -822,12 +822,12 @@
     "cards/2000909 狮子骑士.md",
     "cards/2000907 金刃军团.md",
     "cards/2000916 斩王剑.md",
-    "cards/2000915 霸气.md",
     "cards/2000911 君权神授.md",
-    "cards/2000913 誓言之证.md",
+    "cards/2000915 霸气.md",
     "cards/2000914 最后的时间.md",
-    "cards/2000906 鳄鱼卫士.md",
+    "cards/2000913 誓言之证.md",
     "cards/2000908 羽骑兵.md",
+    "cards/2000906 鳄鱼卫士.md",
     "cards/2000934 嫉妒的大臣.md",
     "cards/2000912 昼夜契约.md",
     "cards/2000910 革命的计划.md",
@@ -857,8 +857,8 @@
     "cards/2000883 苗圃的守卫者.md",
     "cards/2000882 胜利.md",
     "cards/2000886 白肚皮.md",
-    "cards/2000885 赫米尔.md",
     "cards/2000884 革命的构思.md",
+    "cards/2000885 赫米尔.md",
     "cards/2000888 阿里木的手下.md",
     "cards/2000889 流浪儿们.md",
     "cards/2000887 乞儿们.md",
@@ -869,27 +869,27 @@
     "cards/2000895 黑街面疙瘩.md",
     "cards/2000894 空置的宅邸.md",
     "cards/2000896 被覆者.md",
-    "cards/2000897 阿卜德的盾卫.md",
     "cards/2000898 阿卜德的剑卫.md",
+    "cards/2000897 阿卜德的盾卫.md",
     "cards/2000899 小萨法.md",
-    "cards/2000900 羚羊.md",
     "cards/2000901 铁盔军团.md",
+    "cards/2000900 羚羊.md",
     "cards/2000903 净钢武士团.md",
     "cards/2000902 铜盾军团.md",
     "cards/2000905 蝮蛇武士团.md",
     "cards/2000904 沙暴骑士.md",
     "cards/2000936 流浪儿们.md",
     "cards/2000935 流民乞丐.md",
-    "cards/2000921 琉璃锋.md",
     "cards/2000920 斩首斧.md",
+    "cards/2000921 琉璃锋.md",
     "cards/2000923 近卫.md",
     "cards/2000922 骑兵之刃.md",
     "cards/2000924 近卫.md",
     "cards/2000937 西雅玛.md",
     "cards/2000941 一罐蜜饯.md",
     "cards/2000940 妙妙糊糊.md",
-    "cards/2000939 特制佳肴.md",
     "cards/2000938 恶臭与隐疾的女神.md",
+    "cards/2000939 特制佳肴.md",
     "cards/2000942 稀有的肉干.md",
     "cards/2000943 贪腐之徒的名单.md",
     "cards/2000944 罗织罪名的名单.md",
@@ -903,8 +903,8 @@
     "cards/2000951 龙鳞盔.md",
     "cards/2000954 火龙头颅.md",
     "cards/2000953 龙鳞刃.md",
-    "cards/2000955 苏丹的尸体.md",
     "cards/2000956 被囚禁的苏丹.md",
+    "cards/2000955 苏丹的尸体.md",
     "cards/2000957 被流放的苏丹.md",
     "cards/2000959 承阳剑.md",
     "cards/2000958 被侮辱的苏丹.md",
@@ -954,6 +954,123 @@
     "tips/本地存档（保存永久属性）.md",
     "tips/自动存档.md",
     "Home.md",
+    "lib/media/2000499.webp",
+    "lib/media/2000497.webp",
+    "lib/media/2000496.webp",
+    "lib/media/2000495.webp",
+    "lib/media/2000494.webp",
+    "lib/media/2000493.webp",
+    "lib/media/2000427.webp",
+    "lib/media/2000433.webp",
+    "lib/media/2000434.webp",
+    "lib/media/2000581.webp",
+    "lib/media/2000582.webp",
+    "lib/media/2000579.webp",
+    "lib/media/2000625.webp",
+    "lib/media/2000645.webp",
+    "lib/media/2000633.webp",
+    "lib/media/2000342.webp",
+    "lib/media/2000583.webp",
+    "lib/media/2000609.webp",
+    "lib/media/2000364.webp",
+    "lib/media/2000366.webp",
+    "lib/media/2000310.webp",
+    "lib/media/2000317.webp",
+    "lib/media/2000599.webp",
+    "lib/media/2000598.webp",
+    "lib/media/2000597.webp",
+    "lib/media/2000596.webp",
+    "lib/media/2000574.webp",
+    "lib/media/2000473.webp",
+    "lib/media/2000211.webp",
+    "lib/media/2000203.webp",
+    "lib/media/2000206.webp",
+    "lib/media/2000209.webp",
+    "lib/media/2000230.webp",
+    "lib/media/2000231.webp",
+    "lib/media/2000240.webp",
+    "lib/media/2000207.webp",
+    "lib/media/2000208.webp",
+    "lib/media/2000215.webp",
+    "lib/media/2000216.webp",
+    "lib/media/2000219.webp",
+    "lib/media/2000220.webp",
+    "lib/media/2000221.webp",
+    "lib/media/2000224.webp",
+    "lib/media/2000226.webp",
+    "lib/media/2000229.webp",
+    "lib/media/2000491.webp",
+    "lib/media/2000490.webp",
+    "lib/media/2000489.webp",
+    "lib/media/2000462.webp",
+    "lib/media/2000516.webp",
+    "lib/media/2000180.webp",
+    "lib/media/2000376.webp",
+    "lib/media/2000749.webp",
+    "lib/media/2000747.webp",
+    "lib/media/2000734.webp",
+    "lib/media/2000742.webp",
+    "lib/media/2000184.webp",
+    "lib/media/2000750.webp",
+    "lib/media/2000739.webp",
+    "lib/media/2000755.webp",
+    "lib/media/2000751.webp",
+    "lib/media/2010008.webp",
+    "lib/media/2010009.webp",
+    "lib/media/2010013.webp",
+    "lib/media/2010014.webp",
+    "lib/media/2010011.webp",
+    "lib/media/2010010.webp",
+    "lib/media/2010012.webp",
+    "lib/media/2010015.webp",
+    "lib/media/2010016.webp",
+    "lib/media/2000754.webp",
+    "lib/media/2000676.webp",
+    "lib/media/2000373.webp",
+    "lib/media/2000185.webp",
+    "lib/media/2000419.webp",
+    "lib/media/2000402.webp",
+    "lib/media/2000428.webp",
+    "lib/media/2000032.webp",
+    "lib/media/2000035.webp",
+    "lib/media/2000558.webp",
+    "lib/media/2000321.webp",
+    "lib/media/2000234.webp",
+    "lib/media/2000285.webp",
+    "lib/media/2000179.webp",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/media/2308ab1944a6bfa5c5b8.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/easy-notice.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/scripts/img-zoom.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
     "lib/media/2000712.webp",
     "lib/media/2000201.webp",
     "lib/media/2000424.webp",
@@ -970,40 +1087,22 @@
     "lib/media/2000554.webp",
     "lib/media/2000501.webp",
     "lib/media/2000500.webp",
-    "lib/media/2000499.webp",
     "lib/media/2000498.webp",
-    "lib/media/2000497.webp",
-    "lib/media/2000496.webp",
-    "lib/media/2000495.webp",
-    "lib/media/2000494.webp",
-    "lib/media/2000493.webp",
-    "lib/media/2000427.webp",
     "lib/media/2000432.webp",
-    "lib/media/2000433.webp",
-    "lib/media/2000434.webp",
     "lib/media/2000188.webp",
-    "lib/media/2000581.webp",
     "lib/media/2000584.webp",
-    "lib/media/2000583.webp",
     "lib/media/2000580.webp",
-    "lib/media/2000516.webp",
     "lib/media/2000585.webp",
-    "lib/media/2000582.webp",
-    "lib/media/2000579.webp",
     "lib/media/2000578.webp",
     "lib/media/2000657.webp",
     "lib/media/2000653.webp",
     "lib/media/2000649.webp",
-    "lib/media/2000645.webp",
     "lib/media/2000641.webp",
     "lib/media/2000637.webp",
-    "lib/media/2000633.webp",
     "lib/media/2000629.webp",
-    "lib/media/2000625.webp",
     "lib/media/2000621.webp",
     "lib/media/2000617.webp",
     "lib/media/2000613.webp",
-    "lib/media/2000609.webp",
     "lib/media/2000508.webp",
     "lib/media/2000507.webp",
     "lib/media/2000506.webp",
@@ -1016,7 +1115,6 @@
     "lib/media/2000700.webp",
     "lib/media/2000699.webp",
     "lib/media/2000569.webp",
-    "lib/media/2000342.webp",
     "lib/media/2000536.webp",
     "lib/media/2000523.webp",
     "lib/media/2000522.webp",
@@ -1029,8 +1127,8 @@
     "lib/media/2000370.webp",
     "lib/media/2000425.webp",
     "lib/media/2000006.webp",
-    "lib/media/2000460.webp",
     "lib/media/2000459.webp",
+    "lib/media/2000460.webp",
     "lib/media/2000350.webp",
     "lib/media/2000349.webp",
     "lib/media/2000176.webp",
@@ -1039,8 +1137,8 @@
     "lib/media/2000312.webp",
     "lib/media/2000325.webp",
     "lib/media/2000173.webp",
-    "lib/media/2000347.webp",
     "lib/media/2000346.webp",
+    "lib/media/2000347.webp",
     "lib/media/2000195.webp",
     "lib/media/2000196.webp",
     "lib/media/2000197.webp",
@@ -1082,23 +1180,18 @@
     "lib/media/2000470.webp",
     "lib/media/2000472.webp",
     "lib/media/2000474.webp",
-    "lib/media/2000473.webp",
     "lib/media/2000476.webp",
     "lib/media/2000478.webp",
     "lib/media/2000480.webp",
     "lib/media/2000481.webp",
     "lib/media/2000479.webp",
     "lib/media/2000576.webp",
-    "lib/media/2000230.webp",
-    "lib/media/2000229.webp",
     "lib/media/2000236.webp",
-    "lib/media/2000285.webp",
     "lib/media/2000232.webp",
     "lib/media/2000237.webp",
     "lib/media/2000238.webp",
     "lib/media/2000239.webp",
     "lib/media/2000205.webp",
-    "lib/media/2000211.webp",
     "lib/media/2000210.webp",
     "lib/media/2000212.webp",
     "lib/media/2000213.webp",
@@ -1107,41 +1200,25 @@
     "lib/media/2000217.webp",
     "lib/media/2000223.webp",
     "lib/media/2000222.webp",
-    "lib/media/2000228.webp",
     "lib/media/2000227.webp",
-    "lib/media/2000464.webp",
+    "lib/media/2000228.webp",
     "lib/media/2000465.webp",
+    "lib/media/2000464.webp",
     "lib/media/2000235.webp",
     "lib/media/2000242.webp",
     "lib/media/2000243.webp",
     "lib/media/2000244.webp",
-    "lib/media/2000231.webp",
-    "lib/media/2000234.webp",
     "lib/media/2000233.webp",
-    "lib/media/2000240.webp",
     "lib/media/2000241.webp",
     "lib/media/2000245.webp",
     "lib/media/2000204.webp",
-    "lib/media/2000207.webp",
-    "lib/media/2000208.webp",
-    "lib/media/2000215.webp",
-    "lib/media/2000216.webp",
-    "lib/media/2000219.webp",
-    "lib/media/2000220.webp",
-    "lib/media/2000221.webp",
-    "lib/media/2000224.webp",
     "lib/media/2000225.webp",
-    "lib/media/2000226.webp",
-    "lib/media/2000180.webp",
-    "lib/media/2000321.webp",
     "lib/media/2000178.webp",
-    "lib/media/2000179.webp",
     "lib/media/2000181.webp",
     "lib/media/2000183.webp",
     "lib/media/2000605.webp",
     "lib/media/2000573.webp",
     "lib/media/2000567.webp",
-    "lib/media/2000376.webp",
     "lib/media/2000608.webp",
     "lib/media/2000607.webp",
     "lib/media/2000606.webp",
@@ -1154,8 +1231,8 @@
     "lib/media/2000272.webp",
     "lib/media/2000273.webp",
     "lib/media/2000381.webp",
-    "lib/media/2000386.webp",
     "lib/media/2000387.webp",
+    "lib/media/2000386.webp",
     "lib/media/2000390.webp",
     "lib/media/2000392.webp",
     "lib/media/2000521.webp",
@@ -1172,8 +1249,8 @@
     "lib/media/2000441.webp",
     "lib/media/2000442.webp",
     "lib/media/2000443.webp",
-    "lib/media/2000444.webp",
     "lib/media/2000446.webp",
+    "lib/media/2000444.webp",
     "lib/media/2000445.webp",
     "lib/media/2000602.webp",
     "lib/media/2000594.webp",
@@ -1204,8 +1281,8 @@
     "lib/media/2000247.webp",
     "lib/media/2000249.webp",
     "lib/media/2000252.webp",
-    "lib/media/2000255.webp",
     "lib/media/2000253.webp",
+    "lib/media/2000255.webp",
     "lib/media/2000254.webp",
     "lib/media/2000256.webp",
     "lib/media/2000258.webp",
@@ -1216,7 +1293,6 @@
     "lib/media/2000330.webp",
     "lib/media/2000160.webp",
     "lib/media/2000502.webp",
-    "lib/media/2000184.webp",
     "lib/media/2000393.webp",
     "lib/media/2000394.webp",
     "lib/media/2000525.webp",
@@ -1227,30 +1303,17 @@
     "lib/media/2000281.webp",
     "lib/media/2000518.webp",
     "lib/media/2000689.webp",
-    "lib/media/2000599.webp",
-    "lib/media/2000598.webp",
-    "lib/media/2000597.webp",
-    "lib/media/2000596.webp",
-    "lib/media/2000364.webp",
     "lib/media/2000575.webp",
-    "lib/media/2000574.webp",
     "lib/media/2000570.webp",
-    "lib/media/2000558.webp",
     "lib/media/2000545.webp",
-    "lib/media/2000676.webp",
-    "lib/media/2000366.webp",
     "lib/media/2000404.webp",
     "lib/media/2000466.webp",
     "lib/media/2000170.webp",
-    "lib/media/2000373.webp",
     "lib/media/2000283.webp",
     "lib/media/2000280.webp",
     "lib/media/2000287.webp",
     "lib/media/2000289.webp",
-    "lib/media/2000310.webp",
-    "lib/media/2000317.webp",
     "lib/media/2000329.webp",
-    "lib/media/2000185.webp",
     "lib/media/2000168.webp",
     "lib/media/2000137.webp",
     "lib/media/2000083.webp",
@@ -1259,7 +1322,6 @@
     "lib/media/2000540.webp",
     "lib/media/2000380.webp",
     "lib/media/2000388.webp",
-    "lib/media/2000402.webp",
     "lib/media/2000302.webp",
     "lib/media/2000100.webp",
     "lib/media/2000724.webp",
@@ -1275,19 +1337,13 @@
     "lib/media/2010005.webp",
     "lib/media/2010006.webp",
     "lib/media/2010007.webp",
-    "lib/media/2010008.webp",
-    "lib/media/2010009.webp",
-    "lib/media/2010010.webp",
-    "lib/media/2010012.webp",
     "lib/media/2000512.webp",
     "lib/media/2000383.webp",
     "lib/media/2000382.webp",
     "lib/media/2000389.webp",
     "lib/media/2000385.webp",
     "lib/media/1_item_10.webp",
-    "lib/media/2000419.webp",
     "lib/media/1_item_12.webp",
-    "lib/media/2000428.webp",
     "lib/media/2000396.webp",
     "lib/media/2000274.webp",
     "lib/media/2000275.webp",
@@ -1295,47 +1351,10 @@
     "lib/media/2000306.webp",
     "lib/media/2000316.webp",
     "lib/media/2000187.webp",
-    "lib/media/2000491.webp",
-    "lib/media/2000490.webp",
-    "lib/media/2000489.webp",
-    "lib/media/2000462.webp",
     "lib/media/2000566.webp",
     "lib/media/2000326.webp",
     "lib/media/2000163.webp",
     "lib/media/2000098.webp",
-    "lib/scripts/graph-wasm.wasm",
-    "lib/fonts/94f2f163d4b698242fef.otf",
-    "lib/fonts/72505e6a122c6acd5471.woff2",
-    "lib/fonts/2d5198822ab091ce4305.woff2",
-    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
-    "lib/fonts/cb10ffd7684cd9836a05.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/535a6cf662596b3bd6a6.woff2",
-    "lib/fonts/70cc7ff27245e82ad414.ttf",
-    "lib/fonts/454577c22304619db035.ttf",
-    "lib/fonts/52ac8f3034507f1d9e53.ttf",
-    "lib/fonts/05b618077343fbbd92b7.ttf",
-    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/6155340132a851f6089e.svg",
-    "lib/media/2308ab1944a6bfa5c5b8.svg",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/scripts/easy-notice.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/scripts/img-zoom.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/other-plugins.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css",
     "lib/media/12.png",
     "lib/media/14.png",
     "lib/media/15.png",
@@ -1396,104 +1415,104 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/media/2308ab1944a6bfa5c5b8.svg": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 278,
       "exportedPath": "lib/media/2308ab1944a6bfa5c5b8.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 390006,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 394683,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
@@ -1504,85 +1523,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/scripts/easy-notice.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 2716,
       "exportedPath": "lib/scripts/easy-notice.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 52097,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 52862,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/scripts/img-zoom.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 4157,
       "exportedPath": "lib/scripts/img-zoom.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 161749,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 31712,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 41426,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -1594,7 +1613,7 @@
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 23492,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -1984,8 +2003,8 @@
       ]
     },
     "cards/人物/已启用/怪物/2000499 扭曲残骸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 969,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 968,
       "exportedPath": "cards/人物/已启用/怪物/2000499-扭曲残骸.html",
       "dependencies": [
         "lib/media/2000499.webp"
@@ -2000,48 +2019,48 @@
       ]
     },
     "cards/人物/已启用/怪物/2000497 盲犬.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1028,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1027,
       "exportedPath": "cards/人物/已启用/怪物/2000497-盲犬.html",
       "dependencies": [
         "lib/media/2000497.webp"
       ]
     },
     "cards/人物/已启用/怪物/2000496 空壳骑士.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1044,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1043,
       "exportedPath": "cards/人物/已启用/怪物/2000496-空壳骑士.html",
       "dependencies": [
         "lib/media/2000496.webp"
       ]
     },
     "cards/人物/已启用/怪物/2000495 蛇女.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1050,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1049,
       "exportedPath": "cards/人物/已启用/怪物/2000495-蛇女.html",
       "dependencies": [
         "lib/media/2000495.webp"
       ]
     },
     "cards/人物/已启用/怪物/2000494 暗影黑手.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1080,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1079,
       "exportedPath": "cards/人物/已启用/怪物/2000494-暗影黑手.html",
       "dependencies": [
         "lib/media/2000494.webp"
       ]
     },
     "cards/人物/已启用/怪物/2000493 多眼智者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1093,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1092,
       "exportedPath": "cards/人物/已启用/怪物/2000493-多眼智者.html",
       "dependencies": [
         "lib/media/2000493.webp"
       ]
     },
     "cards/人物/已启用/怪物/2000427 巨人.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 873,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 872,
       "exportedPath": "cards/人物/已启用/怪物/2000427-巨人.html",
       "dependencies": [
         "lib/media/2000427.webp"
@@ -2056,16 +2075,16 @@
       ]
     },
     "cards/人物/已启用/怪物/2000433 小安.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 997,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 996,
       "exportedPath": "cards/人物/已启用/怪物/2000433-小安.html",
       "dependencies": [
         "lib/media/2000433.webp"
       ]
     },
     "cards/人物/已启用/怪物/2000434 小留.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1133,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1132,
       "exportedPath": "cards/人物/已启用/怪物/2000434-小留.html",
       "dependencies": [
         "lib/media/2000434.webp"
@@ -2080,8 +2099,8 @@
       ]
     },
     "cards/人物/已启用/人类/恶名谋杀者/2000593 憎恨你的人.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1198,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1295,
       "exportedPath": "cards/人物/已启用/人类/恶名谋杀者/2000593-憎恨你的人.html",
       "dependencies": [
         "lib/media/2000581.webp"
@@ -2166,16 +2185,16 @@
       ]
     },
     "cards/人物/已启用/人类/恶名谋杀者/2000582 男人.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1106,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1226,
       "exportedPath": "cards/人物/已启用/人类/恶名谋杀者/2000582-男人.html",
       "dependencies": [
         "lib/media/2000582.webp"
       ]
     },
     "cards/人物/已启用/人类/恶名谋杀者/2000581 清官.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1149,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1246,
       "exportedPath": "cards/人物/已启用/人类/恶名谋杀者/2000581-清官.html",
       "dependencies": [
         "lib/media/2000581.webp"
@@ -2190,8 +2209,8 @@
       ]
     },
     "cards/人物/已启用/人类/恶名谋杀者/2000579 父亲.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 942,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1042,
       "exportedPath": "cards/人物/已启用/人类/恶名谋杀者/2000579-父亲.html",
       "dependencies": [
         "lib/media/2000579.webp"
@@ -2486,8 +2505,8 @@
       ]
     },
     "cards/人物/已启用/人类/食客/2000625 剑客.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 2053,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 2153,
       "exportedPath": "cards/人物/已启用/人类/食客/2000625-剑客.html",
       "dependencies": [
         "lib/media/2000625.webp"
@@ -2741,62 +2760,6 @@
         "lib/media/2000505.webp"
       ]
     },
-    "cards/人物/已启用/人类/2000565 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1032,
-      "exportedPath": "cards/人物/已启用/人类/2000565-挑战者.html",
-      "dependencies": [
-        "lib/media/2000645.webp"
-      ]
-    },
-    "cards/人物/已启用/人类/2000564 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1032,
-      "exportedPath": "cards/人物/已启用/人类/2000564-挑战者.html",
-      "dependencies": [
-        "lib/media/2000633.webp"
-      ]
-    },
-    "cards/人物/已启用/人类/2000563 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1032,
-      "exportedPath": "cards/人物/已启用/人类/2000563-挑战者.html",
-      "dependencies": [
-        "lib/media/2000625.webp"
-      ]
-    },
-    "cards/人物/已启用/人类/2000562 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1032,
-      "exportedPath": "cards/人物/已启用/人类/2000562-挑战者.html",
-      "dependencies": [
-        "lib/media/2000342.webp"
-      ]
-    },
-    "cards/人物/已启用/人类/2000561 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1440,
-      "exportedPath": "cards/人物/已启用/人类/2000561-挑战者.html",
-      "dependencies": [
-        "lib/media/2000583.webp"
-      ]
-    },
-    "cards/人物/已启用/人类/2000560 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1031,
-      "exportedPath": "cards/人物/已启用/人类/2000560-挑战者.html",
-      "dependencies": [
-        "lib/media/2000609.webp"
-      ]
-    },
-    "cards/人物/已启用/人类/2000559 挑战者.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1226,
-      "exportedPath": "cards/人物/已启用/人类/2000559-挑战者.html",
-      "dependencies": [
-        "lib/media/2000582.webp"
-      ]
-    },
     "cards/人物/已启用/人类/2000546 老赌鬼.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 1208,
@@ -2854,8 +2817,8 @@
       ]
     },
     "cards/人物/已启用/人类/2000356 穆尔台兹.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1522,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1619,
       "exportedPath": "cards/人物/已启用/人类/2000356-穆尔台兹.html",
       "dependencies": [
         "lib/media/2000581.webp"
@@ -2914,8 +2877,8 @@
       ]
     },
     "cards/人物/已启用/人类/2000379 家族武士.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1174,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1291,
       "exportedPath": "cards/人物/已启用/人类/2000379-家族武士.html",
       "dependencies": [
         "lib/media/2000582.webp"
@@ -2930,8 +2893,8 @@
       ]
     },
     "cards/人物/已启用/人类/2000397 夏玛的父亲.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1349,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1466,
       "exportedPath": "cards/人物/已启用/人类/2000397-夏玛的父亲.html",
       "dependencies": [
         "lib/media/2000582.webp"
@@ -3042,8 +3005,8 @@
       ]
     },
     "cards/人物/已启用/人类/2000327 娜依拉的丈夫.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1259,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1356,
       "exportedPath": "cards/人物/已启用/人类/2000327-娜依拉的丈夫.html",
       "dependencies": [
         "lib/media/2000581.webp"
@@ -3778,8 +3741,8 @@
       ]
     },
     "cards/物品/已启用/读物/诗歌/2000473 有趣的史诗.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1034,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1196,
       "exportedPath": "cards/物品/已启用/读物/诗歌/2000473-有趣的史诗.html",
       "dependencies": [
         "lib/media/2000473.webp"
@@ -3980,10 +3943,12 @@
       ]
     },
     "cards/物品/已启用/读物/书/无阅读条件/2000203 匕首与弯刀.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 899,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 900,
       "exportedPath": "cards/物品/已启用/读物/书/无阅读条件/2000203-匕首与弯刀.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2000203.webp"
+      ]
     },
     "cards/物品/已启用/读物/书/无阅读条件/2000205 军用长矛指南.md": {
       "modifiedTime": 1743685767693,
@@ -3994,20 +3959,24 @@
       ]
     },
     "cards/物品/已启用/读物/书/无阅读条件/2000206 马上竞技.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 1336,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1337,
       "exportedPath": "cards/物品/已启用/读物/书/无阅读条件/2000206-马上竞技.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2000206.webp"
+      ]
     },
     "cards/物品/已启用/读物/书/无阅读条件/2000209 体面.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 890,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 891,
       "exportedPath": "cards/物品/已启用/读物/书/无阅读条件/2000209-体面.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2000209.webp"
+      ]
     },
     "cards/物品/已启用/读物/书/无阅读条件/2000211 宫廷礼仪指南.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 903,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1139,
       "exportedPath": "cards/物品/已启用/读物/书/无阅读条件/2000211-宫廷礼仪指南.html",
       "dependencies": [
         "lib/media/2000211.webp"
@@ -4142,16 +4111,16 @@
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000230 古代人的呼吸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 946,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 947,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000230-古代人的呼吸.html",
       "dependencies": [
         "lib/media/2000230.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000231 水银之血.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 940,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 941,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000231-水银之血.html",
       "dependencies": [
         "lib/media/2000231.webp"
@@ -4174,8 +4143,8 @@
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000240 密教的修行.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 995,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 996,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000240-密教的修行.html",
       "dependencies": [
         "lib/media/2000240.webp"
@@ -4206,64 +4175,64 @@
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000207 夜间的战斗.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1411,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1412,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000207-夜间的战斗.html",
       "dependencies": [
         "lib/media/2000207.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000208 以弱胜强.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 940,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 941,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000208-以弱胜强.html",
       "dependencies": [
         "lib/media/2000208.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000215 猎人故事集.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 989,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 990,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000215-猎人故事集.html",
       "dependencies": [
         "lib/media/2000215.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000216 大盗传奇.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 940,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 941,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000216-大盗传奇.html",
       "dependencies": [
         "lib/media/2000216.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000219 狗皮.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 934,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 935,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000219-狗皮.html",
       "dependencies": [
         "lib/media/2000219.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000220 歌声与寂静.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 943,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 944,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000220-歌声与寂静.html",
       "dependencies": [
         "lib/media/2000220.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000221 草药学入门.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 943,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1173,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000221-草药学入门.html",
       "dependencies": [
         "lib/media/2000221.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000224 动物与植物图鉴.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 949,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 950,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000224-动物与植物图鉴.html",
       "dependencies": [
         "lib/media/2000224.webp"
@@ -4278,16 +4247,16 @@
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000226 沙漠之书.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 940,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 941,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000226-沙漠之书.html",
       "dependencies": [
         "lib/media/2000226.webp"
       ]
     },
     "cards/物品/已启用/读物/书/有条件阅读/2000229 勇武故事集.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1473,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1474,
       "exportedPath": "cards/物品/已启用/读物/书/有条件阅读/2000229-勇武故事集.html",
       "dependencies": [
         "lib/media/2000229.webp"
@@ -4492,8 +4461,8 @@
       ]
     },
     "cards/物品/已启用/军队/2000376 追随者部队.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1010,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1228,
       "exportedPath": "cards/物品/已启用/军队/2000376-追随者部队.html",
       "dependencies": [
         "lib/media/2000376.webp"
@@ -5047,12 +5016,6 @@
       "exportedPath": "cards/物品/已启用/可装备/武器/2000733-将军的宝剑.html",
       "dependencies": []
     },
-    "cards/物品/已启用/可装备/武器/2000694 双截龙.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 966,
-      "exportedPath": "cards/物品/已启用/可装备/武器/2000694-双截龙.html",
-      "dependencies": []
-    },
     "cards/物品/已启用/可装备/武器/2000577 铁头的拳套.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 915,
@@ -5205,30 +5168,6 @@
         "lib/media/2000502.webp"
       ]
     },
-    "cards/物品/已启用/可装备/2000184 奇巧双头龙.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1217,
-      "exportedPath": "cards/物品/已启用/可装备/2000184-奇巧双头龙.html",
-      "dependencies": [
-        "lib/media/2000184.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/俘虏/2000535 背叛的朋友.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1404,
-      "exportedPath": "cards/物品/已启用/其他/俘虏/2000535-背叛的朋友.html",
-      "dependencies": [
-        "lib/media/2000583.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/俘虏/2000534 等死的奴隶.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1178,
-      "exportedPath": "cards/物品/已启用/其他/俘虏/2000534-等死的奴隶.html",
-      "dependencies": [
-        "lib/media/2000516.webp"
-      ]
-    },
     "cards/物品/已启用/其他/玛希尔的研发成果/2000393 错乱学习机.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 848,
@@ -5367,33 +5306,15 @@
       "exportedPath": "cards/物品/已启用/其他/2000680-苏丹的猜忌.html",
       "dependencies": []
     },
-    "cards/物品/已启用/其他/2000681 不举的传言.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 786,
-      "exportedPath": "cards/物品/已启用/其他/2000681-不举的传言.html",
-      "dependencies": []
-    },
     "cards/物品/已启用/其他/2000682 病容.md": {
       "modifiedTime": 1743684781130,
       "sourceSize": 967,
       "exportedPath": "cards/物品/已启用/其他/2000682-病容.html",
       "dependencies": []
     },
-    "cards/物品/已启用/其他/2000664 龙之诅咒的传闻.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 840,
-      "exportedPath": "cards/物品/已启用/其他/2000664-龙之诅咒的传闻.html",
-      "dependencies": []
-    },
-    "cards/物品/已启用/其他/2000671 屠龙之书.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 789,
-      "exportedPath": "cards/物品/已启用/其他/2000671-屠龙之书.html",
-      "dependencies": []
-    },
     "cards/物品/已启用/其他/2000676 财政赤字.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 910,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1012,
       "exportedPath": "cards/物品/已启用/其他/2000676-财政赤字.html",
       "dependencies": []
     },
@@ -5407,24 +5328,6 @@
       "modifiedTime": 1743684781130,
       "sourceSize": 784,
       "exportedPath": "cards/物品/已启用/其他/2000672-苏丹的猜疑.html",
-      "dependencies": []
-    },
-    "cards/物品/已启用/其他/2000723 理性.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 982,
-      "exportedPath": "cards/物品/已启用/其他/2000723-理性.html",
-      "dependencies": []
-    },
-    "cards/物品/已启用/其他/2000730 熟悉的战斗方式.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 878,
-      "exportedPath": "cards/物品/已启用/其他/2000730-熟悉的战斗方式.html",
-      "dependencies": []
-    },
-    "cards/物品/已启用/其他/2000731 拳斗士的证明.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 862,
-      "exportedPath": "cards/物品/已启用/其他/2000731-拳斗士的证明.html",
       "dependencies": []
     },
     "cards/物品/已启用/其他/2000690 帝国之花.md": {
@@ -5463,46 +5366,6 @@
       "exportedPath": "cards/物品/已启用/其他/2000698-娜依拉的不满.html",
       "dependencies": []
     },
-    "cards/物品/已启用/其他/2000599 神秘的怪物.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 783,
-      "exportedPath": "cards/物品/已启用/其他/2000599-神秘的怪物.html",
-      "dependencies": [
-        "lib/media/2000599.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000598 桀骜不驯的部落.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 789,
-      "exportedPath": "cards/物品/已启用/其他/2000598-桀骜不驯的部落.html",
-      "dependencies": [
-        "lib/media/2000598.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000597 商队.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 773,
-      "exportedPath": "cards/物品/已启用/其他/2000597-商队.html",
-      "dependencies": [
-        "lib/media/2000597.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000596 穴居土著村落.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 785,
-      "exportedPath": "cards/物品/已启用/其他/2000596-穴居土著村落.html",
-      "dependencies": [
-        "lib/media/2000596.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000595 游牧民绿洲.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1047,
-      "exportedPath": "cards/物品/已启用/其他/2000595-游牧民绿洲.html",
-      "dependencies": [
-        "lib/media/2000364.webp"
-      ]
-    },
     "cards/物品/已启用/其他/2000575 铁头的优势.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 866,
@@ -5511,28 +5374,12 @@
         "lib/media/2000575.webp"
       ]
     },
-    "cards/物品/已启用/其他/2000574 盗贼团伙.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 829,
-      "exportedPath": "cards/物品/已启用/其他/2000574-盗贼团伙.html",
-      "dependencies": [
-        "lib/media/2000574.webp"
-      ]
-    },
     "cards/物品/已启用/其他/2000570 奈费勒的优势.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 872,
       "exportedPath": "cards/物品/已启用/其他/2000570-奈费勒的优势.html",
       "dependencies": [
         "lib/media/2000570.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000558 罪证.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 899,
-      "exportedPath": "cards/物品/已启用/其他/2000558-罪证.html",
-      "dependencies": [
-        "lib/media/2000558.webp"
       ]
     },
     "cards/物品/已启用/其他/2000555 税收法律的补丁.md": {
@@ -5551,62 +5398,6 @@
         "lib/media/2000545.webp"
       ]
     },
-    "cards/物品/已启用/其他/2000539 商队的保证.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1040,
-      "exportedPath": "cards/物品/已启用/其他/2000539-商队的保证.html",
-      "dependencies": [
-        "lib/media/2000321.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000359 廉洁的伪证.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1015,
-      "exportedPath": "cards/物品/已启用/其他/2000359-廉洁的伪证.html",
-      "dependencies": [
-        "lib/media/2000676.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000363 苏丹的宽恕.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 938,
-      "exportedPath": "cards/物品/已启用/其他/2000363-苏丹的宽恕.html",
-      "dependencies": [
-        "lib/media/2000473.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000364 被找到的绿洲.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1217,
-      "exportedPath": "cards/物品/已启用/其他/2000364-被找到的绿洲.html",
-      "dependencies": [
-        "lib/media/2000364.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000366 中国.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1075,
-      "exportedPath": "cards/物品/已启用/其他/2000366-中国.html",
-      "dependencies": [
-        "lib/media/2000366.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000365 繁荣的城市.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1200,
-      "exportedPath": "cards/物品/已启用/其他/2000365-繁荣的城市.html",
-      "dependencies": [
-        "lib/media/2000364.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000373 朝觐的承诺.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1295,
-      "exportedPath": "cards/物品/已启用/其他/2000373-朝觐的承诺.html",
-      "dependencies": [
-        "lib/media/2000234.webp"
-      ]
-    },
     "cards/物品/已启用/其他/2000375 懦夫的保证书.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 1150,
@@ -5616,8 +5407,8 @@
       ]
     },
     "cards/物品/已启用/其他/2000378 贵族的尸体.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 933,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1030,
       "exportedPath": "cards/物品/已启用/其他/2000378-贵族的尸体.html",
       "dependencies": [
         "lib/media/2000579.webp"
@@ -5647,20 +5438,6 @@
         "lib/media/2000170.webp"
       ]
     },
-    "cards/物品/已启用/其他/2000174 萨达尔尼的秘密.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 821,
-      "exportedPath": "cards/物品/已启用/其他/2000174-萨达尔尼的秘密.html",
-      "dependencies": [
-        "lib/media/2000373.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000282 守卫的承诺.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 570,
-      "exportedPath": "cards/物品/已启用/其他/2000282-守卫的承诺.html",
-      "dependencies": []
-    },
     "cards/物品/已启用/其他/2000283 后宫密道.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 813,
@@ -5685,14 +5462,6 @@
         "lib/media/2000287.webp"
       ]
     },
-    "cards/物品/已启用/其他/2000285 修改的证明.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 960,
-      "exportedPath": "cards/物品/已启用/其他/2000285-修改的证明.html",
-      "dependencies": [
-        "lib/media/2000285.webp"
-      ]
-    },
     "cards/物品/已启用/其他/2000289 萨达尔尼的信物.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 852,
@@ -5701,44 +5470,12 @@
         "lib/media/2000289.webp"
       ]
     },
-    "cards/物品/已启用/其他/2000293 赛里曼的伪造死讯.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1111,
-      "exportedPath": "cards/物品/已启用/其他/2000293-赛里曼的伪造死讯.html",
-      "dependencies": [
-        "lib/media/2000179.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000310 贵族囚牢.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 816,
-      "exportedPath": "cards/物品/已启用/其他/2000310-贵族囚牢.html",
-      "dependencies": [
-        "lib/media/2000310.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000317 遥远的绿洲.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 918,
-      "exportedPath": "cards/物品/已启用/其他/2000317-遥远的绿洲.html",
-      "dependencies": [
-        "lib/media/2000317.webp"
-      ]
-    },
     "cards/物品/已启用/其他/2000329 白犀牛皮.md": {
       "modifiedTime": 1743685767693,
       "sourceSize": 818,
       "exportedPath": "cards/物品/已启用/其他/2000329-白犀牛皮.html",
       "dependencies": [
         "lib/media/2000329.webp"
-      ]
-    },
-    "cards/物品/已启用/其他/2000185 邪术的痕迹.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 864,
-      "exportedPath": "cards/物品/已启用/其他/2000185-邪术的痕迹.html",
-      "dependencies": [
-        "lib/media/2000185.webp"
       ]
     },
     "cards/物品/已启用/其他/2000193 雨之子·下卷.md": {
@@ -6016,66 +5753,76 @@
       ]
     },
     "cards/物品/已启用/苏丹卡/2010008 纵欲.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1475,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1476,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010008-纵欲.html",
       "dependencies": [
         "lib/media/2010008.webp"
       ]
     },
     "cards/物品/已启用/苏丹卡/2010009 奢靡.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1361,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1362,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010009-奢靡.html",
       "dependencies": [
         "lib/media/2010009.webp"
       ]
     },
     "cards/物品/已启用/苏丹卡/2010013 征服.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 1358,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1359,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010013-征服.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2010013.webp"
+      ]
     },
     "cards/物品/已启用/苏丹卡/2010014 征服.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 1355,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1356,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010014-征服.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2010014.webp"
+      ]
     },
     "cards/物品/已启用/苏丹卡/2010011 奢靡.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 1358,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1359,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010011-奢靡.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2010011.webp"
+      ]
     },
     "cards/物品/已启用/苏丹卡/2010010 奢靡.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1358,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1359,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010010-奢靡.html",
       "dependencies": [
         "lib/media/2010010.webp"
       ]
     },
     "cards/物品/已启用/苏丹卡/2010012 奢靡.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1361,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1362,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010012-奢靡.html",
       "dependencies": [
         "lib/media/2010012.webp"
       ]
     },
     "cards/物品/已启用/苏丹卡/2010015 征服.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 1355,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1356,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010015-征服.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2010015.webp"
+      ]
     },
     "cards/物品/已启用/苏丹卡/2010016 征服.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 1358,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1359,
       "exportedPath": "cards/物品/已启用/苏丹卡/2010016-征服.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2010016.webp"
+      ]
     },
     "cards/物品/已启用/苏丹卡/2000512 银纵欲.md": {
       "modifiedTime": 1743685767693,
@@ -6240,32 +5987,32 @@
       ]
     },
     "cards/物品/已启用/消耗品/2000422 秘氛.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1051,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1052,
       "exportedPath": "cards/物品/已启用/消耗品/2000422-秘氛.html",
       "dependencies": [
         "lib/media/2000419.webp"
       ]
     },
     "cards/物品/已启用/消耗品/2000421 秘氛.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1052,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1053,
       "exportedPath": "cards/物品/已启用/消耗品/2000421-秘氛.html",
       "dependencies": [
         "lib/media/2000419.webp"
       ]
     },
     "cards/物品/已启用/消耗品/2000423 金猫战士.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1446,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1447,
       "exportedPath": "cards/物品/已启用/消耗品/2000423-金猫战士.html",
       "dependencies": [
         "lib/media/2000402.webp"
       ]
     },
     "cards/物品/已启用/消耗品/2000428 小龙卷风.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1012,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1013,
       "exportedPath": "cards/物品/已启用/消耗品/2000428-小龙卷风.html",
       "dependencies": [
         "lib/media/2000428.webp"
@@ -6454,10 +6201,12 @@
       "dependencies": []
     },
     "cards/物品/已启用/消耗品/2000038 秘密.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 906,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 907,
       "exportedPath": "cards/物品/已启用/消耗品/2000038-秘密.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2000032.webp"
+      ]
     },
     "cards/物品/已启用/消耗品/2000037 战术.md": {
       "modifiedTime": 1743685767693,
@@ -6474,10 +6223,12 @@
       "dependencies": []
     },
     "cards/物品/已启用/消耗品/2000035 内幕.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1096,
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1097,
       "exportedPath": "cards/物品/已启用/消耗品/2000035-内幕.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/2000035.webp"
+      ]
     },
     "cards/物品/已启用/消耗品/2000034 机遇.md": {
       "modifiedTime": 1743685767693,
@@ -6502,44 +6253,6 @@
       "sourceSize": 1184,
       "exportedPath": "cards/物品/已启用/消耗品/2000029-金币.html",
       "dependencies": []
-    },
-    "cards/物品/已启用/仪式图纸/2000492 黑暗火锅仪式图纸.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 630,
-      "exportedPath": "cards/物品/已启用/仪式图纸/2000492-黑暗火锅仪式图纸.html",
-      "dependencies": []
-    },
-    "cards/物品/已启用/仪式图纸/2000491 魔力增长仪式图纸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 864,
-      "exportedPath": "cards/物品/已启用/仪式图纸/2000491-魔力增长仪式图纸.html",
-      "dependencies": [
-        "lib/media/2000491.webp"
-      ]
-    },
-    "cards/物品/已启用/仪式图纸/2000490 武器附魔仪式图纸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 876,
-      "exportedPath": "cards/物品/已启用/仪式图纸/2000490-武器附魔仪式图纸.html",
-      "dependencies": [
-        "lib/media/2000490.webp"
-      ]
-    },
-    "cards/物品/已启用/仪式图纸/2000489 召唤邪物仪式图纸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 864,
-      "exportedPath": "cards/物品/已启用/仪式图纸/2000489-召唤邪物仪式图纸.html",
-      "dependencies": [
-        "lib/media/2000489.webp"
-      ]
-    },
-    "cards/物品/已启用/仪式图纸/2000462 献祭仪式图纸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 879,
-      "exportedPath": "cards/物品/已启用/仪式图纸/2000462-献祭仪式图纸.html",
-      "dependencies": [
-        "lib/media/2000462.webp"
-      ]
     },
     "cards/物品/已启用/状态/2000689 幸福感.md": {
       "modifiedTime": 1743684781130,
@@ -6999,52 +6712,10 @@
       "exportedPath": "cards/2000792-布缇娜.html",
       "dependencies": []
     },
-    "cards/2000748 激进的贵族.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 667,
-      "exportedPath": "cards/2000748-激进的贵族.html",
-      "dependencies": []
-    },
-    "cards/2000749 春风斗篷.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 902,
-      "exportedPath": "cards/2000749-春风斗篷.html",
-      "dependencies": []
-    },
-    "cards/2000752 奈布哈尼之剑.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 912,
-      "exportedPath": "cards/2000752-奈布哈尼之剑.html",
-      "dependencies": []
-    },
-    "cards/2000750 仪式军刀.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 870,
-      "exportedPath": "cards/2000750-仪式军刀.html",
-      "dependencies": []
-    },
-    "cards/2000747 琥珀宝石吊坠.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 980,
-      "exportedPath": "cards/2000747-琥珀宝石吊坠.html",
-      "dependencies": []
-    },
     "cards/2000759 剑盾的仪式图纸.md": {
       "modifiedTime": 1743684781130,
       "sourceSize": 664,
       "exportedPath": "cards/2000759-剑盾的仪式图纸.html",
-      "dependencies": []
-    },
-    "cards/2000755 解答时限.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 916,
-      "exportedPath": "cards/2000755-解答时限.html",
-      "dependencies": []
-    },
-    "cards/2000754 无用的施舍.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 897,
-      "exportedPath": "cards/2000754-无用的施舍.html",
       "dependencies": []
     },
     "cards/2000760 丰产的祝福.md": {
@@ -7053,40 +6724,10 @@
       "exportedPath": "cards/2000760-丰产的祝福.html",
       "dependencies": []
     },
-    "cards/2000758 内宅的仪式图纸.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 664,
-      "exportedPath": "cards/2000758-内宅的仪式图纸.html",
-      "dependencies": []
-    },
-    "cards/2000756 《被遗忘的仪式》.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 697,
-      "exportedPath": "cards/2000756-《被遗忘的仪式》.html",
-      "dependencies": []
-    },
-    "cards/2000753 夹在书中的字条.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 610,
-      "exportedPath": "cards/2000753-夹在书中的字条.html",
-      "dependencies": []
-    },
-    "cards/2000751 决心.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 830,
-      "exportedPath": "cards/2000751-决心.html",
-      "dependencies": []
-    },
     "cards/2000762 火焰大王.md": {
       "modifiedTime": 1743684781130,
       "sourceSize": 1095,
       "exportedPath": "cards/2000762-火焰大王.html",
-      "dependencies": []
-    },
-    "cards/2000757 丰产的仪式图纸.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 664,
-      "exportedPath": "cards/2000757-丰产的仪式图纸.html",
       "dependencies": []
     },
     "cards/2000764 年轻的贵族.md": {
@@ -7197,88 +6838,10 @@
       "exportedPath": "cards/2000774-阿鲁米娜.html",
       "dependencies": []
     },
-    "cards/2000735 激进的群众.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 637,
-      "exportedPath": "cards/2000735-激进的群众.html",
-      "dependencies": []
-    },
-    "cards/2000736 激进的贵族.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 622,
-      "exportedPath": "cards/2000736-激进的贵族.html",
-      "dependencies": []
-    },
-    "cards/2000734 精致骆驼骨笛.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 927,
-      "exportedPath": "cards/2000734-精致骆驼骨笛.html",
-      "dependencies": []
-    },
-    "cards/2000738 自命不凡的贵族.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 667,
-      "exportedPath": "cards/2000738-自命不凡的贵族.html",
-      "dependencies": []
-    },
-    "cards/2000737 激进的军队.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 718,
-      "exportedPath": "cards/2000737-激进的军队.html",
-      "dependencies": []
-    },
-    "cards/2000743 离群的贵族.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 661,
-      "exportedPath": "cards/2000743-离群的贵族.html",
-      "dependencies": []
-    },
-    "cards/2000740 爵位的下落？.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 709,
-      "exportedPath": "cards/2000740-爵位的下落？.html",
-      "dependencies": []
-    },
-    "cards/2000742 古老的戒指.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 893,
-      "exportedPath": "cards/2000742-古老的戒指.html",
-      "dependencies": []
-    },
-    "cards/2000741 盖斯家的世袭头衔.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 631,
-      "exportedPath": "cards/2000741-盖斯家的世袭头衔.html",
-      "dependencies": []
-    },
-    "cards/2000739 蒙尘之剑.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 963,
-      "exportedPath": "cards/2000739-蒙尘之剑.html",
-      "dependencies": []
-    },
-    "cards/2000745 盲目的军队.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 703,
-      "exportedPath": "cards/2000745-盲目的军队.html",
-      "dependencies": []
-    },
-    "cards/2000744 激进的军队.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 718,
-      "exportedPath": "cards/2000744-激进的军队.html",
-      "dependencies": []
-    },
     "cards/2000811 酸莓甜米饭.md": {
       "modifiedTime": 1743684781130,
       "sourceSize": 556,
       "exportedPath": "cards/2000811-酸莓甜米饭.html",
-      "dependencies": []
-    },
-    "cards/2000746 盲目的军队.md": {
-      "modifiedTime": 1743684781130,
-      "sourceSize": 703,
-      "exportedPath": "cards/2000746-盲目的军队.html",
       "dependencies": []
     },
     "cards/2000867 贫民区的孤儿.md": {
@@ -8340,14 +7903,6 @@
       "exportedPath": "lib/media/1.png",
       "dependencies": []
     },
-    "cards/2000661 空置的宅邸.md": {
-      "modifiedTime": 1743685767693,
-      "sourceSize": 1073,
-      "exportedPath": "cards/2000661-空置的宅邸.html",
-      "dependencies": [
-        "lib/media/2000180.webp"
-      ]
-    },
     "lib/media/2000201.webp": {
       "modifiedTime": 1743685767693,
       "sourceSize": 61186,
@@ -8439,7 +7994,7 @@
       "dependencies": []
     },
     "lib/media/2000499.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 51246,
       "exportedPath": "lib/media/2000499.webp",
       "dependencies": []
@@ -8451,37 +8006,37 @@
       "dependencies": []
     },
     "lib/media/2000497.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 74604,
       "exportedPath": "lib/media/2000497.webp",
       "dependencies": []
     },
     "lib/media/2000496.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 62130,
       "exportedPath": "lib/media/2000496.webp",
       "dependencies": []
     },
     "lib/media/2000495.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 72574,
       "exportedPath": "lib/media/2000495.webp",
       "dependencies": []
     },
     "lib/media/2000494.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 67830,
       "exportedPath": "lib/media/2000494.webp",
       "dependencies": []
     },
     "lib/media/2000493.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 52082,
       "exportedPath": "lib/media/2000493.webp",
       "dependencies": []
     },
     "lib/media/2000427.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 59112,
       "exportedPath": "lib/media/2000427.webp",
       "dependencies": []
@@ -8493,13 +8048,13 @@
       "dependencies": []
     },
     "lib/media/2000433.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 152292,
       "exportedPath": "lib/media/2000433.webp",
       "dependencies": []
     },
     "lib/media/2000434.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 158236,
       "exportedPath": "lib/media/2000434.webp",
       "dependencies": []
@@ -8511,7 +8066,7 @@
       "dependencies": []
     },
     "lib/media/2000581.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 83958,
       "exportedPath": "lib/media/2000581.webp",
       "dependencies": []
@@ -8523,7 +8078,7 @@
       "dependencies": []
     },
     "lib/media/2000583.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 89338,
       "exportedPath": "lib/media/2000583.webp",
       "dependencies": []
@@ -8535,7 +8090,7 @@
       "dependencies": []
     },
     "lib/media/2000516.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 74712,
       "exportedPath": "lib/media/2000516.webp",
       "dependencies": []
@@ -8547,13 +8102,13 @@
       "dependencies": []
     },
     "lib/media/2000582.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 103110,
       "exportedPath": "lib/media/2000582.webp",
       "dependencies": []
     },
     "lib/media/2000579.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 97516,
       "exportedPath": "lib/media/2000579.webp",
       "dependencies": []
@@ -8583,7 +8138,7 @@
       "dependencies": []
     },
     "lib/media/2000645.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 101092,
       "exportedPath": "lib/media/2000645.webp",
       "dependencies": []
@@ -8601,7 +8156,7 @@
       "dependencies": []
     },
     "lib/media/2000633.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 98880,
       "exportedPath": "lib/media/2000633.webp",
       "dependencies": []
@@ -8613,7 +8168,7 @@
       "dependencies": []
     },
     "lib/media/2000625.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 73696,
       "exportedPath": "lib/media/2000625.webp",
       "dependencies": []
@@ -8637,7 +8192,7 @@
       "dependencies": []
     },
     "lib/media/2000609.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 72498,
       "exportedPath": "lib/media/2000609.webp",
       "dependencies": []
@@ -8703,7 +8258,7 @@
       "dependencies": []
     },
     "lib/media/2000342.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 89482,
       "exportedPath": "lib/media/2000342.webp",
       "dependencies": []
@@ -8985,7 +8540,7 @@
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 50167,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
@@ -9123,7 +8678,7 @@
       "dependencies": []
     },
     "lib/media/2000473.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 21812,
       "exportedPath": "lib/media/2000473.webp",
       "dependencies": []
@@ -9165,13 +8720,13 @@
       "dependencies": []
     },
     "lib/media/2000230.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 25394,
       "exportedPath": "lib/media/2000230.webp",
       "dependencies": []
     },
     "lib/media/2000229.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 24028,
       "exportedPath": "lib/media/2000229.webp",
       "dependencies": []
@@ -9183,7 +8738,7 @@
       "dependencies": []
     },
     "lib/media/2000285.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 25600,
       "exportedPath": "lib/media/2000285.webp",
       "dependencies": []
@@ -9219,7 +8774,7 @@
       "dependencies": []
     },
     "lib/media/2000211.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 29694,
       "exportedPath": "lib/media/2000211.webp",
       "dependencies": []
@@ -9321,13 +8876,13 @@
       "dependencies": []
     },
     "lib/media/2000231.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 23316,
       "exportedPath": "lib/media/2000231.webp",
       "dependencies": []
     },
     "lib/media/2000234.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 30770,
       "exportedPath": "lib/media/2000234.webp",
       "dependencies": []
@@ -9339,7 +8894,7 @@
       "dependencies": []
     },
     "lib/media/2000240.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 25676,
       "exportedPath": "lib/media/2000240.webp",
       "dependencies": []
@@ -9363,49 +8918,49 @@
       "dependencies": []
     },
     "lib/media/2000207.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 27496,
       "exportedPath": "lib/media/2000207.webp",
       "dependencies": []
     },
     "lib/media/2000208.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 23976,
       "exportedPath": "lib/media/2000208.webp",
       "dependencies": []
     },
     "lib/media/2000215.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 34898,
       "exportedPath": "lib/media/2000215.webp",
       "dependencies": []
     },
     "lib/media/2000216.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 34130,
       "exportedPath": "lib/media/2000216.webp",
       "dependencies": []
     },
     "lib/media/2000219.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 26044,
       "exportedPath": "lib/media/2000219.webp",
       "dependencies": []
     },
     "lib/media/2000220.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 23976,
       "exportedPath": "lib/media/2000220.webp",
       "dependencies": []
     },
     "lib/media/2000221.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 26714,
       "exportedPath": "lib/media/2000221.webp",
       "dependencies": []
     },
     "lib/media/2000224.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 28792,
       "exportedPath": "lib/media/2000224.webp",
       "dependencies": []
@@ -9417,19 +8972,19 @@
       "dependencies": []
     },
     "lib/media/2000226.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 27042,
       "exportedPath": "lib/media/2000226.webp",
       "dependencies": []
     },
     "lib/media/2000180.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 43780,
       "exportedPath": "lib/media/2000180.webp",
       "dependencies": []
     },
     "lib/media/2000321.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 24622,
       "exportedPath": "lib/media/2000321.webp",
       "dependencies": []
@@ -9441,7 +8996,7 @@
       "dependencies": []
     },
     "lib/media/2000179.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 179386,
       "exportedPath": "lib/media/2000179.webp",
       "dependencies": []
@@ -9477,7 +9032,7 @@
       "dependencies": []
     },
     "lib/media/2000376.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 27052,
       "exportedPath": "lib/media/2000376.webp",
       "dependencies": []
@@ -9927,7 +9482,7 @@
       "dependencies": []
     },
     "lib/media/2000184.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 34342,
       "exportedPath": "lib/media/2000184.webp",
       "dependencies": []
@@ -9993,31 +9548,31 @@
       "dependencies": []
     },
     "lib/media/2000599.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 18222,
       "exportedPath": "lib/media/2000599.webp",
       "dependencies": []
     },
     "lib/media/2000598.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 18172,
       "exportedPath": "lib/media/2000598.webp",
       "dependencies": []
     },
     "lib/media/2000597.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 29902,
       "exportedPath": "lib/media/2000597.webp",
       "dependencies": []
     },
     "lib/media/2000596.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 34078,
       "exportedPath": "lib/media/2000596.webp",
       "dependencies": []
     },
     "lib/media/2000364.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 73096,
       "exportedPath": "lib/media/2000364.webp",
       "dependencies": []
@@ -10029,7 +9584,7 @@
       "dependencies": []
     },
     "lib/media/2000574.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 30768,
       "exportedPath": "lib/media/2000574.webp",
       "dependencies": []
@@ -10041,7 +9596,7 @@
       "dependencies": []
     },
     "lib/media/2000558.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 15838,
       "exportedPath": "lib/media/2000558.webp",
       "dependencies": []
@@ -10053,13 +9608,13 @@
       "dependencies": []
     },
     "lib/media/2000676.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 21040,
       "exportedPath": "lib/media/2000676.webp",
       "dependencies": []
     },
     "lib/media/2000366.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 89618,
       "exportedPath": "lib/media/2000366.webp",
       "dependencies": []
@@ -10083,7 +9638,7 @@
       "dependencies": []
     },
     "lib/media/2000373.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 25600,
       "exportedPath": "lib/media/2000373.webp",
       "dependencies": []
@@ -10113,13 +9668,13 @@
       "dependencies": []
     },
     "lib/media/2000310.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 81132,
       "exportedPath": "lib/media/2000310.webp",
       "dependencies": []
     },
     "lib/media/2000317.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 48436,
       "exportedPath": "lib/media/2000317.webp",
       "dependencies": []
@@ -10131,7 +9686,7 @@
       "dependencies": []
     },
     "lib/media/2000185.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 37282,
       "exportedPath": "lib/media/2000185.webp",
       "dependencies": []
@@ -10185,7 +9740,7 @@
       "dependencies": []
     },
     "lib/media/2000402.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 61476,
       "exportedPath": "lib/media/2000402.webp",
       "dependencies": []
@@ -10281,25 +9836,25 @@
       "dependencies": []
     },
     "lib/media/2010008.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 222280,
       "exportedPath": "lib/media/2010008.webp",
       "dependencies": []
     },
     "lib/media/2010009.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 206922,
       "exportedPath": "lib/media/2010009.webp",
       "dependencies": []
     },
     "lib/media/2010010.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 206922,
       "exportedPath": "lib/media/2010010.webp",
       "dependencies": []
     },
     "lib/media/2010012.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 206922,
       "exportedPath": "lib/media/2010012.webp",
       "dependencies": []
@@ -10341,7 +9896,7 @@
       "dependencies": []
     },
     "lib/media/2000419.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 31476,
       "exportedPath": "lib/media/2000419.webp",
       "dependencies": []
@@ -10353,7 +9908,7 @@
       "dependencies": []
     },
     "lib/media/2000428.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 20888,
       "exportedPath": "lib/media/2000428.webp",
       "dependencies": []
@@ -10401,25 +9956,25 @@
       "dependencies": []
     },
     "lib/media/2000491.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 36834,
       "exportedPath": "lib/media/2000491.webp",
       "dependencies": []
     },
     "lib/media/2000490.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 38594,
       "exportedPath": "lib/media/2000490.webp",
       "dependencies": []
     },
     "lib/media/2000489.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 44300,
       "exportedPath": "lib/media/2000489.webp",
       "dependencies": []
     },
     "lib/media/2000462.webp": {
-      "modifiedTime": 1743685767693,
+      "modifiedTime": 1743692166446,
       "sourceSize": 25364,
       "exportedPath": "lib/media/2000462.webp",
       "dependencies": []
@@ -10446,6 +10001,650 @@
       "modifiedTime": 1743685767693,
       "sourceSize": 131110,
       "exportedPath": "lib/media/2000098.webp",
+      "dependencies": []
+    },
+    "cards/人物/已启用/人类/挑战者/2000565 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1032,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000565-挑战者.html",
+      "dependencies": [
+        "lib/media/2000645.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/挑战者/2000564 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1032,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000564-挑战者.html",
+      "dependencies": [
+        "lib/media/2000633.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/挑战者/2000563 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1132,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000563-挑战者.html",
+      "dependencies": [
+        "lib/media/2000625.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/挑战者/2000562 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1032,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000562-挑战者.html",
+      "dependencies": [
+        "lib/media/2000342.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/挑战者/2000561 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1440,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000561-挑战者.html",
+      "dependencies": [
+        "lib/media/2000583.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/挑战者/2000560 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1031,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000560-挑战者.html",
+      "dependencies": [
+        "lib/media/2000609.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/挑战者/2000559 挑战者.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1343,
+      "exportedPath": "cards/人物/已启用/人类/挑战者/2000559-挑战者.html",
+      "dependencies": [
+        "lib/media/2000582.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/2000748 激进的贵族.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1302,
+      "exportedPath": "cards/人物/已启用/人类/2000748-激进的贵族.html",
+      "dependencies": [
+        "lib/media/2000581.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/2000735 激进的群众.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 999,
+      "exportedPath": "cards/人物/已启用/人类/2000735-激进的群众.html",
+      "dependencies": [
+        "lib/media/2000625.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/2000736 激进的贵族.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1238,
+      "exportedPath": "cards/人物/已启用/人类/2000736-激进的贵族.html",
+      "dependencies": [
+        "lib/media/2000581.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/2000738 自命不凡的贵族.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1356,
+      "exportedPath": "cards/人物/已启用/人类/2000738-自命不凡的贵族.html",
+      "dependencies": [
+        "lib/media/2000582.webp"
+      ]
+    },
+    "cards/人物/已启用/人类/2000743 离群的贵族.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1056,
+      "exportedPath": "cards/人物/已启用/人类/2000743-离群的贵族.html",
+      "dependencies": [
+        "lib/media/2000579.webp"
+      ]
+    },
+    "cards/物品/未启用/2000282 守卫的承诺.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 570,
+      "exportedPath": "cards/物品/未启用/2000282-守卫的承诺.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/地点/2000364 被找到的绿洲.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1217,
+      "exportedPath": "cards/物品/已启用/地点/2000364-被找到的绿洲.html",
+      "dependencies": [
+        "lib/media/2000364.webp"
+      ]
+    },
+    "cards/物品/已启用/地点/2000366 中国.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1075,
+      "exportedPath": "cards/物品/已启用/地点/2000366-中国.html",
+      "dependencies": [
+        "lib/media/2000366.webp"
+      ]
+    },
+    "cards/物品/已启用/地点/2000365 繁荣的城市.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1200,
+      "exportedPath": "cards/物品/已启用/地点/2000365-繁荣的城市.html",
+      "dependencies": [
+        "lib/media/2000364.webp"
+      ]
+    },
+    "cards/物品/已启用/地点/2000310 贵族囚牢.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 816,
+      "exportedPath": "cards/物品/已启用/地点/2000310-贵族囚牢.html",
+      "dependencies": [
+        "lib/media/2000310.webp"
+      ]
+    },
+    "cards/物品/已启用/地点/2000317 遥远的绿洲.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 918,
+      "exportedPath": "cards/物品/已启用/地点/2000317-遥远的绿洲.html",
+      "dependencies": [
+        "lib/media/2000317.webp"
+      ]
+    },
+    "cards/物品/已启用/敌人/2000599 神秘的怪物.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 783,
+      "exportedPath": "cards/物品/已启用/敌人/2000599-神秘的怪物.html",
+      "dependencies": [
+        "lib/media/2000599.webp"
+      ]
+    },
+    "cards/物品/已启用/敌人/2000598 桀骜不驯的部落.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 789,
+      "exportedPath": "cards/物品/已启用/敌人/2000598-桀骜不驯的部落.html",
+      "dependencies": [
+        "lib/media/2000598.webp"
+      ]
+    },
+    "cards/物品/已启用/敌人/2000597 商队.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 773,
+      "exportedPath": "cards/物品/已启用/敌人/2000597-商队.html",
+      "dependencies": [
+        "lib/media/2000597.webp"
+      ]
+    },
+    "cards/物品/已启用/敌人/2000596 穴居土著村落.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 785,
+      "exportedPath": "cards/物品/已启用/敌人/2000596-穴居土著村落.html",
+      "dependencies": [
+        "lib/media/2000596.webp"
+      ]
+    },
+    "cards/物品/已启用/敌人/2000595 游牧民绿洲.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1047,
+      "exportedPath": "cards/物品/已启用/敌人/2000595-游牧民绿洲.html",
+      "dependencies": [
+        "lib/media/2000364.webp"
+      ]
+    },
+    "cards/物品/已启用/敌人/2000574 盗贼团伙.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 829,
+      "exportedPath": "cards/物品/已启用/敌人/2000574-盗贼团伙.html",
+      "dependencies": [
+        "lib/media/2000574.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/书/角色相关书籍/2000671 屠龙之书.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 789,
+      "exportedPath": "cards/物品/已启用/读物/书/角色相关书籍/2000671-屠龙之书.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/读物/书/角色相关书籍/2000756 《被遗忘的仪式》.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1101,
+      "exportedPath": "cards/物品/已启用/读物/书/角色相关书籍/2000756-《被遗忘的仪式》.html",
+      "dependencies": [
+        "lib/media/2000211.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000758 内宅的仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 995,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000758-内宅的仪式图纸.html",
+      "dependencies": [
+        "lib/media/2000211.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000757 丰产的仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 995,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000757-丰产的仪式图纸.html",
+      "dependencies": [
+        "lib/media/2000211.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000492 黑暗火锅仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 630,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000492-黑暗火锅仪式图纸.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000491 魔力增长仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 864,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000491-魔力增长仪式图纸.html",
+      "dependencies": [
+        "lib/media/2000491.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000490 武器附魔仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 876,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000490-武器附魔仪式图纸.html",
+      "dependencies": [
+        "lib/media/2000490.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000489 召唤邪物仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 864,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000489-召唤邪物仪式图纸.html",
+      "dependencies": [
+        "lib/media/2000489.webp"
+      ]
+    },
+    "cards/物品/已启用/读物/仪式图纸/2000462 献祭仪式图纸.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 879,
+      "exportedPath": "cards/物品/已启用/读物/仪式图纸/2000462-献祭仪式图纸.html",
+      "dependencies": [
+        "lib/media/2000462.webp"
+      ]
+    },
+    "cards/物品/已启用/俘虏/2000535 背叛的朋友.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1404,
+      "exportedPath": "cards/物品/已启用/俘虏/2000535-背叛的朋友.html",
+      "dependencies": [
+        "lib/media/2000583.webp"
+      ]
+    },
+    "cards/物品/已启用/俘虏/2000534 等死的奴隶.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1178,
+      "exportedPath": "cards/物品/已启用/俘虏/2000534-等死的奴隶.html",
+      "dependencies": [
+        "lib/media/2000516.webp"
+      ]
+    },
+    "cards/物品/已启用/家宅/2000661 空置的宅邸 1.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1073,
+      "exportedPath": "cards/物品/已启用/家宅/2000661-空置的宅邸-1.html",
+      "dependencies": [
+        "lib/media/2000180.webp"
+      ]
+    },
+    "cards/物品/已启用/军队/2000737 激进的军队.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1245,
+      "exportedPath": "cards/物品/已启用/军队/2000737-激进的军队.html",
+      "dependencies": [
+        "lib/media/2000376.webp"
+      ]
+    },
+    "cards/物品/已启用/军队/2000745 盲目的军队.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1248,
+      "exportedPath": "cards/物品/已启用/军队/2000745-盲目的军队.html",
+      "dependencies": [
+        "lib/media/2000376.webp"
+      ]
+    },
+    "cards/物品/已启用/军队/2000744 激进的军队.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1164,
+      "exportedPath": "cards/物品/已启用/军队/2000744-激进的军队.html",
+      "dependencies": [
+        "lib/media/2000376.webp"
+      ]
+    },
+    "cards/物品/已启用/军队/2000746 盲目的军队.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1250,
+      "exportedPath": "cards/物品/已启用/军队/2000746-盲目的军队.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/可装备/服装/2000749 春风斗篷.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1081,
+      "exportedPath": "cards/物品/已启用/可装备/服装/2000749-春风斗篷.html",
+      "dependencies": [
+        "lib/media/2000749.webp"
+      ]
+    },
+    "cards/物品/已启用/可装备/饰品/2000747 琥珀宝石吊坠.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1118,
+      "exportedPath": "cards/物品/已启用/可装备/饰品/2000747-琥珀宝石吊坠.html",
+      "dependencies": [
+        "lib/media/2000747.webp"
+      ]
+    },
+    "cards/物品/已启用/可装备/饰品/2000734 精致骆驼骨笛.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 932,
+      "exportedPath": "cards/物品/已启用/可装备/饰品/2000734-精致骆驼骨笛.html",
+      "dependencies": [
+        "lib/media/2000734.webp"
+      ]
+    },
+    "cards/物品/已启用/可装备/饰品/2000742 古老的戒指.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 898,
+      "exportedPath": "cards/物品/已启用/可装备/饰品/2000742-古老的戒指.html",
+      "dependencies": [
+        "lib/media/2000742.webp"
+      ]
+    },
+    "cards/物品/已启用/可装备/双头龙/2000694 双截龙.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 966,
+      "exportedPath": "cards/物品/已启用/可装备/双头龙/2000694-双截龙.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/可装备/双头龙/2000184 奇巧双头龙.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1217,
+      "exportedPath": "cards/物品/已启用/可装备/双头龙/2000184-奇巧双头龙.html",
+      "dependencies": [
+        "lib/media/2000184.webp"
+      ]
+    },
+    "cards/物品/已启用/可装备/武器/2000752 奈布哈尼之剑.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 918,
+      "exportedPath": "cards/物品/已启用/可装备/武器/2000752-奈布哈尼之剑.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/可装备/武器/2000750 仪式军刀.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 875,
+      "exportedPath": "cards/物品/已启用/可装备/武器/2000750-仪式军刀.html",
+      "dependencies": [
+        "lib/media/2000750.webp"
+      ]
+    },
+    "cards/物品/已启用/可装备/武器/2000739 蒙尘之剑.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 968,
+      "exportedPath": "cards/物品/已启用/可装备/武器/2000739-蒙尘之剑.html",
+      "dependencies": [
+        "lib/media/2000739.webp"
+      ]
+    },
+    "cards/物品/已启用/其他/2000755 解答时限.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 933,
+      "exportedPath": "cards/物品/已启用/其他/2000755-解答时限.html",
+      "dependencies": [
+        "lib/media/2000755.webp"
+      ]
+    },
+    "cards/物品/已启用/其他/2000751 决心.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 829,
+      "exportedPath": "cards/物品/已启用/其他/2000751-决心.html",
+      "dependencies": [
+        "lib/media/2000751.webp"
+      ]
+    },
+    "cards/物品/已启用/其他/2000741 盖斯家的世袭头衔.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1043,
+      "exportedPath": "cards/物品/已启用/其他/2000741-盖斯家的世袭头衔.html",
+      "dependencies": [
+        "lib/media/2000473.webp"
+      ]
+    },
+    "cards/物品/已启用/线索/2000664 龙之诅咒的传闻.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 840,
+      "exportedPath": "cards/物品/已启用/线索/2000664-龙之诅咒的传闻.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/线索/2000754 无用的施舍.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 896,
+      "exportedPath": "cards/物品/已启用/线索/2000754-无用的施舍.html",
+      "dependencies": [
+        "lib/media/2000754.webp"
+      ]
+    },
+    "cards/物品/已启用/线索/2000753 夹在书中的字条.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 992,
+      "exportedPath": "cards/物品/已启用/线索/2000753-夹在书中的字条.html",
+      "dependencies": [
+        "lib/media/2000221.webp"
+      ]
+    },
+    "cards/物品/已启用/线索/2000730 熟悉的战斗方式.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 878,
+      "exportedPath": "cards/物品/已启用/线索/2000730-熟悉的战斗方式.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/线索/2000731 拳斗士的证明.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 862,
+      "exportedPath": "cards/物品/已启用/线索/2000731-拳斗士的证明.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/线索/2000740 爵位的下落？.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1110,
+      "exportedPath": "cards/物品/已启用/线索/2000740-爵位的下落？.html",
+      "dependencies": [
+        "lib/media/2000676.webp"
+      ]
+    },
+    "cards/物品/已启用/线索/2000174 萨达尔尼的秘密.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 821,
+      "exportedPath": "cards/物品/已启用/线索/2000174-萨达尔尼的秘密.html",
+      "dependencies": [
+        "lib/media/2000373.webp"
+      ]
+    },
+    "cards/物品/已启用/线索/2000185 邪术的痕迹.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 864,
+      "exportedPath": "cards/物品/已启用/线索/2000185-邪术的痕迹.html",
+      "dependencies": [
+        "lib/media/2000185.webp"
+      ]
+    },
+    "cards/物品/已启用/消耗品/2000723 理性.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 982,
+      "exportedPath": "cards/物品/已启用/消耗品/2000723-理性.html",
+      "dependencies": []
+    },
+    "cards/物品/已启用/证据/2000558 罪证.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 899,
+      "exportedPath": "cards/物品/已启用/证据/2000558-罪证.html",
+      "dependencies": [
+        "lib/media/2000558.webp"
+      ]
+    },
+    "cards/物品/已启用/证据/2000539 商队的保证.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1040,
+      "exportedPath": "cards/物品/已启用/证据/2000539-商队的保证.html",
+      "dependencies": [
+        "lib/media/2000321.webp"
+      ]
+    },
+    "cards/物品/已启用/证据/2000359 廉洁的伪证.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1120,
+      "exportedPath": "cards/物品/已启用/证据/2000359-廉洁的伪证.html",
+      "dependencies": [
+        "lib/media/2000676.webp"
+      ]
+    },
+    "cards/物品/已启用/证据/2000363 苏丹的宽恕.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 938,
+      "exportedPath": "cards/物品/已启用/证据/2000363-苏丹的宽恕.html",
+      "dependencies": [
+        "lib/media/2000473.webp"
+      ]
+    },
+    "cards/物品/已启用/证据/2000373 朝觐的承诺.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1295,
+      "exportedPath": "cards/物品/已启用/证据/2000373-朝觐的承诺.html",
+      "dependencies": [
+        "lib/media/2000234.webp"
+      ]
+    },
+    "cards/物品/已启用/证据/2000285 修改的证明.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 960,
+      "exportedPath": "cards/物品/已启用/证据/2000285-修改的证明.html",
+      "dependencies": [
+        "lib/media/2000285.webp"
+      ]
+    },
+    "cards/物品/已启用/证据/2000293 赛里曼的伪造死讯.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 1111,
+      "exportedPath": "cards/物品/已启用/证据/2000293-赛里曼的伪造死讯.html",
+      "dependencies": [
+        "lib/media/2000179.webp"
+      ]
+    },
+    "cards/物品/已启用/状态/2000681 不举的传言.md": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 786,
+      "exportedPath": "cards/物品/已启用/状态/2000681-不举的传言.html",
+      "dependencies": []
+    },
+    "lib/media/2000203.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 31028,
+      "exportedPath": "lib/media/2000203.webp",
+      "dependencies": []
+    },
+    "lib/media/2000206.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 27496,
+      "exportedPath": "lib/media/2000206.webp",
+      "dependencies": []
+    },
+    "lib/media/2000209.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 34806,
+      "exportedPath": "lib/media/2000209.webp",
+      "dependencies": []
+    },
+    "lib/media/2000749.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 58342,
+      "exportedPath": "lib/media/2000749.webp",
+      "dependencies": []
+    },
+    "lib/media/2000747.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 31364,
+      "exportedPath": "lib/media/2000747.webp",
+      "dependencies": []
+    },
+    "lib/media/2000734.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 34396,
+      "exportedPath": "lib/media/2000734.webp",
+      "dependencies": []
+    },
+    "lib/media/2000742.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 49782,
+      "exportedPath": "lib/media/2000742.webp",
+      "dependencies": []
+    },
+    "lib/media/2000750.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 27488,
+      "exportedPath": "lib/media/2000750.webp",
+      "dependencies": []
+    },
+    "lib/media/2000739.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 72786,
+      "exportedPath": "lib/media/2000739.webp",
+      "dependencies": []
+    },
+    "lib/media/2000755.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 30606,
+      "exportedPath": "lib/media/2000755.webp",
+      "dependencies": []
+    },
+    "lib/media/2000751.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 52154,
+      "exportedPath": "lib/media/2000751.webp",
+      "dependencies": []
+    },
+    "lib/media/2010013.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 225122,
+      "exportedPath": "lib/media/2010013.webp",
+      "dependencies": []
+    },
+    "lib/media/2010014.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 225122,
+      "exportedPath": "lib/media/2010014.webp",
+      "dependencies": []
+    },
+    "lib/media/2010011.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 206922,
+      "exportedPath": "lib/media/2010011.webp",
+      "dependencies": []
+    },
+    "lib/media/2010015.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 225122,
+      "exportedPath": "lib/media/2010015.webp",
+      "dependencies": []
+    },
+    "lib/media/2010016.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 225122,
+      "exportedPath": "lib/media/2010016.webp",
+      "dependencies": []
+    },
+    "lib/media/2000754.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 27742,
+      "exportedPath": "lib/media/2000754.webp",
+      "dependencies": []
+    },
+    "lib/media/2000032.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 38044,
+      "exportedPath": "lib/media/2000032.webp",
+      "dependencies": []
+    },
+    "lib/media/2000035.webp": {
+      "modifiedTime": 1743692166446,
+      "sourceSize": 22644,
+      "exportedPath": "lib/media/2000035.webp",
       "dependencies": []
     }
   }
