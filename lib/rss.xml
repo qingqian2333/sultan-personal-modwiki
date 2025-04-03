@@ -1,4 +1,40 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 14:56:29 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 14:56:06 GMT</pubDate><copyright><![CDATA[王清芊]]></copyright><ttl>60</ttl><dc:creator>王清芊</dc:creator><item><title><![CDATA[2000499 扭曲残骸]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 03 Apr 2025 14:58:47 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 03 Apr 2025 14:58:45 GMT</pubDate><copyright><![CDATA[王清芊]]></copyright><ttl>60</ttl><dc:creator>王清芊</dc:creator><item><title><![CDATA[Home]]></title><description><![CDATA[ 
+ <br>  <br> <br><br>你好这里是王清芊，在各平台同名<br>
+本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
+<br>
+包含大量个人理解，制作者的属性是 all 主（即主角嬷），如果创到你请自行点 x ，不接受对制作者 xp 的批评和人身攻击
+
+<br>
+对游戏版本的更新有滞后
+
+<br>
+每天会有一次更新
+
+<br>
+对游戏内容全剧透，不推荐想要找攻略的玩家查看
+
+<br>
+计划包含所有 card 内容、tag 内容、rite 链接、event 链接，其中 card 和 tag 贴了源码是因为它们在一个文件翻找麻烦，因此 rite 和 event 在本页是看不到文本内容只能看到链接的选项的，也不推荐人看本页了解游戏，请去游玩游戏本体
+
+<br>
+由于游戏文本量很大而我学校有熄灯所以目前 card 还没翻完啊啊啊啊啊啊，意思是整理的非常非常慢，急需的话先自己翻一下游戏源码吧！  
+
+<br>
+计划整理顺序：card、tag、rite 和 event，按数字顺序往下
+
+<br>
+制作者很懒没写 css 做任何美化，看不惯的话你忍一下
+
+<br><br><br>
+<br><a data-href="⭐️需要知道的基础" href="tips\⭐️需要知道的基础.html" class="internal-link" target="_self" rel="noopener nofollow">⭐️需要知道的基础</a>
+<br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
+<br><br>
+<br><a data-href="card" href="tips\card.html" class="internal-link" target="_self" rel="noopener nofollow">card</a>
+<br><a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a>
+<br><a data-href="event" href="tips\event.html" class="internal-link" target="_self" rel="noopener nofollow">event</a>
+<br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
+<br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
+<br><br><br><br><br><br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Thu, 03 Apr 2025 14:58:35 GMT</pubDate></item><item><title><![CDATA[2000499 扭曲残骸]]></title><description><![CDATA[ 
  <br><img alt="2000499.webp" src="lib\media\2000499.webp" style="width: 220px; max-width: 100%;"><br><br><a download="" href="\Sprite\2000499.png" target="_blank" rel="noopener nofollow">下载原图</a><br><br><a download="" href="\Texture2D\2000499.png" target="_blank" rel="noopener nofollow">下载原图</a><br><br><br>    "2000499": {
         "id": 2000499,
         "name": "扭曲残骸",
@@ -15092,43 +15128,7 @@
         "equips": [],
         "is_only": 0
     },
-]]></description><link>cards\物品\已启用\状态\2000098-受伤.html</link><guid isPermaLink="false">cards/物品/已启用/状态/2000098 受伤.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:06:03 GMT</pubDate><enclosure url="lib\media\2000098.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000098.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[ 
- <br>  <br> <br><br>你好这里是王清芊，在各平台同名<br>
-本网页是本人在为苏游制作 obsidian 个人库时，想到可以公开给大家方便 mod 作者查询的产物，以下是使用本页面你需要了解的内容：<br>
-<br>
-包含大量个人理解，制作者的属性是 all 主（即主角嬷），如果创到你请自行点 x ，不接受对制作者 xp 的批评和人身攻击
-
-<br>
-对游戏版本的更新有滞后
-
-<br>
-每天会有一次更新
-
-<br>
-对游戏内容全剧透，不推荐想要找攻略的玩家查看
-
-<br>
-计划包含所有 card 内容、tag 内容、rite 链接、event 链接，其中 card 和 tag 贴了源码是因为它们在一个文件翻找麻烦，因此 rite 和 event 在本页是看不到文本内容只能看到链接的选项的，也不推荐人看本页了解游戏，请去游玩游戏本体
-
-<br>
-由于游戏文本量很大而我学校有熄灯所以目前 card 还没翻完啊啊啊啊啊啊，意思是整理的非常非常慢，急需的话先自己翻一下游戏源码吧！  
-
-<br>
-计划整理顺序：card、tag、rite 和 event，按数字顺序往下
-
-<br>
-制作者很懒没写 css 做任何美化，看不惯的话你忍一下
-
-<br><br><br>
-<br><a data-href="⭐️需要知道的基础" href="tips\⭐️需要知道的基础.html" class="internal-link" target="_self" rel="noopener nofollow">⭐️需要知道的基础</a>
-<br><a data-href="没什么用的tips" href="tips\没什么用的tips.html" class="internal-link" target="_self" rel="noopener nofollow">没什么用的tips</a>
-<br><br>
-<br><a data-href="card" href="tips\card.html" class="internal-link" target="_self" rel="noopener nofollow">card</a>
-<br><a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a>
-<br><a data-href="event" href="tips\event.html" class="internal-link" target="_self" rel="noopener nofollow">event</a>
-<br><a data-href="自动存档" href="tips\自动存档.html" class="internal-link" target="_self" rel="noopener nofollow">自动存档</a>
-<br><a data-href="本地存档（保存永久属性）" href="tips\本地存档（保存永久属性）.html" class="internal-link" target="_self" rel="noopener nofollow">本地存档（保存永久属性）</a>
-<br><br><br><br><br><br><br>本人制作的 mod 包含大量人外内容和 mob 内容，如果想要玩到我制作的 mod 请来主嬷群（审核群群号 672880625 ，目前暂停审核），或者等待官方发布创意工坊]]></description><link>home.html</link><guid isPermaLink="false">Home.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:09:00 GMT</pubDate></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
+]]></description><link>cards\物品\已启用\状态\2000098-受伤.html</link><guid isPermaLink="false">cards/物品/已启用/状态/2000098 受伤.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Thu, 03 Apr 2025 13:06:03 GMT</pubDate><enclosure url="lib\media\2000098.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000098.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000353 恩萨]]></title><description><![CDATA[ 
  <br><br><br>    "2000353": {
         "id": 2000353,
         "name": "恩萨",
