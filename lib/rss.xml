@@ -1,844 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 08 Apr 2025 14:43:36 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 08 Apr 2025 14:43:12 GMT</pubDate><copyright><![CDATA[王清芊]]></copyright><ttl>60</ttl><dc:creator>王清芊</dc:creator><item><title><![CDATA[3020255 吸收王冠]]></title><description><![CDATA[ 
- <br><br><br>"lock_146": {
-        "id": 3020255,
-        "name": "吸收王冠",
-        "code": "lock_146",
-        "type": "attribute",
-        "text": "标识吸收王冠",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    }
-
-]]></description><link>tag\3020255-吸收王冠.html</link><guid isPermaLink="false">tag/3020255 吸收王冠.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:20:34 GMT</pubDate></item><item><title><![CDATA[3020254 吸收信徒]]></title><description><![CDATA[ 
- <br><br><br>"lock_145": {
-        "id": 3020254,
-        "name": "吸收信徒",
-        "code": "lock_145",
-        "type": "attribute",
-        "text": "标识吸收信徒",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020254-吸收信徒.html</link><guid isPermaLink="false">tag/3020254 吸收信徒.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:16:26 GMT</pubDate></item><item><title><![CDATA[3020253 吸收念珠]]></title><description><![CDATA[ 
- <br><br><br>"lock_144": {
-        "id": 3020253,
-        "name": "吸收念珠",
-        "code": "lock_144",
-        "type": "attribute",
-        "text": "标识吸收念珠",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020253-吸收念珠.html</link><guid isPermaLink="false">tag/3020253 吸收念珠.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:14:46 GMT</pubDate></item><item><title><![CDATA[3020252 吸收天使]]></title><description><![CDATA[ 
- <br><br><br>"lock_143": {
-        "id": 3020252,
-        "name": "吸收天使",
-        "code": "lock_143",
-        "type": "attribute",
-        "text": "标识吸收天使",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020252-吸收天使.html</link><guid isPermaLink="false">tag/3020252 吸收天使.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:13:30 GMT</pubDate></item><item><title><![CDATA[3020249 逃跑]]></title><description><![CDATA[ 
- <br><br><br>"run": {
-        "id": 3020249,
-        "name": "逃跑",
-        "code": "run",
-        "type": "attribute",
-        "text": "表明阿里木开始逃跑",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020249-逃跑.html</link><guid isPermaLink="false">tag/3020249 逃跑.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:12:54 GMT</pubDate></item><item><title><![CDATA[3020239 被抓]]></title><description><![CDATA[ 
- <br><br><br>"lock_135": {
-        "id": 3020239,
-        "name": "被抓",
-        "code": "lock_135",
-        "type": "attribute",
-        "text": "标识偷情被抓的伊曼和玩家",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020239-被抓.html</link><guid isPermaLink="false">tag/3020239 被抓.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:12:03 GMT</pubDate></item><item><title><![CDATA[3020223 你的圣主]]></title><description><![CDATA[ 
- <br><br><br>"lock_125": {
-        "id": 3020223,
-        "name": "你的圣主",
-        "code": "lock_125",
-        "type": "attribute",
-        "text": "用来标识圣主对你没有恶意，并且在需要的时候会来帮助你，玩家不可见",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020223-你的圣主.html</link><guid isPermaLink="false">tag/3020223 你的圣主.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:11:23 GMT</pubDate></item><item><title><![CDATA[3020198 芮尔]]></title><description><![CDATA[ 
- <br><br><br>"lock_102": {
-        "id": 3020198,
-        "name": "芮尔",
-        "code": "lock_102",
-        "type": "attribute",
-        "text": "芮尔专属，防吸附",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020198-芮尔.html</link><guid isPermaLink="false">tag/3020198 芮尔.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:10:35 GMT</pubDate></item><item><title><![CDATA[3020186 旗手]]></title><description><![CDATA[ 
- <br><br><br>"lock_91": {
-       "id": 3020186,
-       "name": "旗手",
-       "code": "lock_91",
-       "type": "attribute",
-       "text": "旗手的魅力将为稳定军队的士气提供关键帮助",
-       "tips": "",
-       "resource": "tag_0",
-       "can_add": 0,
-       "can_visible": 1,
-       "can_inherit": 0,
-       "can_nagative_and_zero": 0,
-       "fail_tag": [],
-       "tag_vanishing": 0,
-       "tag_sfx": "",
-       "tag_rank": 10,
-       "attributes": {
-           "吸附指定": 1
-       }
-   },
-
-]]></description><link>tag\3020186-旗手.html</link><guid isPermaLink="false">tag/3020186 旗手.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:09:51 GMT</pubDate></item><item><title><![CDATA[3020186 传令官]]></title><description><![CDATA[ 
- <br><br><br>"lock_90": {
-        "id": 3020186,
-        "name": "传令官",
-        "code": "lock_90",
-        "type": "attribute",
-        "text": "传令官的隐匿和生存将为战局提供关键帮助",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 1,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020186-传令官.html</link><guid isPermaLink="false">tag/3020186 传令官.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:09:11 GMT</pubDate></item><item><title><![CDATA[3020184 苏丹的精兵]]></title><description><![CDATA[ 
- <br><br><br>"lock_88": {
-        "id": 3020184,
-        "name": "苏丹的精兵",
-        "code": "lock_88",
-        "type": "attribute",
-        "text": "玩家不可见，用来标识",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020184-苏丹的精兵.html</link><guid isPermaLink="false">tag/3020184 苏丹的精兵.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:08:12 GMT</pubDate></item><item><title><![CDATA[3020183 正当性]]></title><description><![CDATA[ 
- <br><br><br>"lock_87": {
-        "id": 3020183,
-        "name": "正当性",
-        "code": "lock_87",
-        "type": "attribute",
-        "text": "改朝换代的正当性",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020183-正当性.html</link><guid isPermaLink="false">tag/3020183 正当性.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:07:30 GMT</pubDate></item><item><title><![CDATA[3020179 被覆者]]></title><description><![CDATA[ 
- <br><br><br>"lock_86": {
-        "id": 3020179,
-        "name": "被覆者",
-        "code": "lock_86",
-        "type": "attribute",
-        "text": "玩家不可见，用来标识",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020179-被覆者.html</link><guid isPermaLink="false">tag/3020179 被覆者.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:06:42 GMT</pubDate></item><item><title><![CDATA[3020178 奈布哈尼准备银趴]]></title><description><![CDATA[ 
- <br><br><br>"lock_85": {
-       "id": 3020178,
-       "name": "奈布哈尼准备银趴",
-       "code": "lock_85",
-       "type": "attribute",
-       "text": "玩家不可见，用来标识",
-       "tips": "",
-       "resource": "tag_0",
-       "can_add": 0,
-       "can_visible": 0,
-       "can_inherit": 0,
-       "can_nagative_and_zero": 0,
-       "fail_tag": [],
-       "tag_vanishing": 0,
-       "tag_sfx": "",
-       "tag_rank": 10,
-       "attributes": {
-           "吸附指定": 1
-       }
-   },
-
-]]></description><link>tag\3020178-奈布哈尼准备银趴.html</link><guid isPermaLink="false">tag/3020178 奈布哈尼准备银趴.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:05:48 GMT</pubDate></item><item><title><![CDATA[3020176 安全屋]]></title><description><![CDATA[ 
- <br><br><br>"lock_84": {
-        "id": 3020176,
-        "name": "安全屋",
-        "code": "lock_84",
-        "type": "attribute",
-        "text": "玩家不可见，用来标识",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020176-安全屋.html</link><guid isPermaLink="false">tag/3020176 安全屋.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:04:32 GMT</pubDate></item><item><title><![CDATA[3020162 追随的人]]></title><description><![CDATA[ 
- <br><br><br>"lock_71": {
-        "id": 3020162,
-        "name": "追随的人",
-        "code": "lock_71",
-        "type": "attribute",
-        "text": "玩家不可见，用来标识，吸附指定",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020162-追随的人.html</link><guid isPermaLink="false">tag/3020162 追随的人.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:02:30 GMT</pubDate></item><item><title><![CDATA[3020152 上朝]]></title><description><![CDATA[ 
- <br><br><br>"lock_63": {
-        "id": 3020152,
-        "name": "上朝",
-        "code": "lock_63",
-        "type": "attribute",
-        "text": "玩家不可见，用来锁定苏丹上朝的时候就老实上朝",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020152-上朝.html</link><guid isPermaLink="false">tag/3020152 上朝.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:01:47 GMT</pubDate></item><item><title><![CDATA[3020151 蒙面苏丹]]></title><description><![CDATA[ 
- <br><br><br>"lock_62": {
-        "id": 3020151,
-        "name": "蒙面苏丹",
-        "code": "lock_62",
-        "type": "attribute",
-        "text": "蒙面苏丹，玩家不可见",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020151-蒙面苏丹.html</link><guid isPermaLink="false">tag/3020151 蒙面苏丹.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:00:14 GMT</pubDate></item><item><title><![CDATA[3020144 等死吧阿卜德]]></title><description><![CDATA[ 
- <br><br><br>"lock_56": {
-        "id": 3020144,
-        "name": "等死吧阿卜德",
-        "code": "lock_56",
-        "type": "attribute",
-        "text": "玩家不可见，锁住阿不德用来保证他不会被其他事件吸走",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020144-等死吧阿卜德.html</link><guid isPermaLink="false">tag/3020144 等死吧阿卜德.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:59:22 GMT</pubDate></item><item><title><![CDATA[3020137 金屋藏娇]]></title><description><![CDATA[ 
- <br><br><br>"lock_54": {
-        "id": 3020137,
-        "name": "金屋藏娇",
-        "code": "lock_54",
-        "type": "attribute",
-        "text": "玩家不可见，用来表示给索拉薇儿住的房子",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020137-金屋藏娇.html</link><guid isPermaLink="false">tag/3020137 金屋藏娇.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:58:01 GMT</pubDate></item><item><title><![CDATA[3020136 囚徒奈费勒]]></title><description><![CDATA[ 
- <br><br><br>"lock_53": {
-        "id": 3020136,
-        "name": "囚徒奈费勒",
-        "code": "lock_53",
-        "type": "attribute",
-        "text": "玩家不可见，锁住奈费勒用来保证他不会被其他事件吸走",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020136-囚徒奈费勒.html</link><guid isPermaLink="false">tag/3020136 囚徒奈费勒.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:56:56 GMT</pubDate></item><item><title><![CDATA[3020134 火焰大王]]></title><description><![CDATA[ 
- <br><br><br>"lock_51": {
-        "id": 3020134,
-        "name": "火焰大王",
-        "code": "lock_51",
-        "type": "attribute",
-        "text": "玩家不可见",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020134-火焰大王.html</link><guid isPermaLink="false">tag/3020134 火焰大王.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:55:27 GMT</pubDate></item><item><title><![CDATA[3020105 锁定穆尔台兹]]></title><description><![CDATA[ 
- <br><br><br>"lock_31": {
-        "id": 3020105,
-        "name": "锁定穆尔台兹",
-        "code": "lock_31",
-        "type": "attribute",
-        "text": "玩家不可见，用于锁定仪式。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020105-锁定穆尔台兹.html</link><guid isPermaLink="false">tag/3020105 锁定穆尔台兹.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:54:25 GMT</pubDate></item><item><title><![CDATA[3020104 罪犯投奔]]></title><description><![CDATA[ 
- <br><br><br>"lock_30": {
-        "id": 3020104,
-        "name": "罪犯投奔",
-        "code": "lock_30",
-        "type": "attribute",
-        "text": "玩家不可见，用于锁定仪式。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020104-罪犯投奔.html</link><guid isPermaLink="false">tag/3020104 罪犯投奔.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:53:32 GMT</pubDate></item><item><title><![CDATA[3020091 恶名谋杀者]]></title><description><![CDATA[ 
- <br><br><br>"lock_18": {
-        "id": 3020091,
-        "name": "恶名谋杀者",
-        "code": "lock_18",
-        "type": "attribute",
-        "text": "因为恶名找你杀人的人",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020091-恶名谋杀者.html</link><guid isPermaLink="false">tag/3020091 恶名谋杀者.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:52:13 GMT</pubDate></item><item><title><![CDATA[3020085 恶名挑战者]]></title><description><![CDATA[ 
- <br><br><br>"lock_15": {
-        "id": 3020085,
-        "name": "恶名挑战者",
-        "code": "lock_15",
-        "type": "attribute",
-        "text": "因为恶名来挑战你的人",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020085-恶名挑战者.html</link><guid isPermaLink="false">tag/3020085 恶名挑战者.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:51:27 GMT</pubDate></item><item><title><![CDATA[3020076 书店老板]]></title><description><![CDATA[ 
- <br><br><br>"lock_13": {
-        "id": 3020076,
-        "name": "书店老板",
-        "code": "lock_13",
-        "type": "attribute",
-        "text": "玩家不可见。用来锁定书店老板只能在书店出现。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020076-书店老板.html</link><guid isPermaLink="false">tag/3020076 书店老板.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:49:42 GMT</pubDate></item><item><title><![CDATA[3020074 主角专属5]]></title><description><![CDATA[ 
- <br><br><br>"lock_11": {
-        "id": 3020074,
-        "name": "主角专属5",
-        "code": "lock_11",
-        "type": "attribute",
-        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000371",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020074-主角专属5.html</link><guid isPermaLink="false">tag/3020074 主角专属5.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:49:02 GMT</pubDate></item><item><title><![CDATA[3020073 主角专属4]]></title><description><![CDATA[ 
- <br><br><br>"lock_10": {
-        "id": 3020073,
-        "name": "主角专属4",
-        "code": "lock_10",
-        "type": "attribute",
-        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000370",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020073-主角专属4.html</link><guid isPermaLink="false">tag/3020073 主角专属4.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:46:21 GMT</pubDate></item><item><title><![CDATA[3020072 主角专属3]]></title><description><![CDATA[ 
- <br><br><br>"lock_9": {
-        "id": 3020072,
-        "name": "主角专属3",
-        "code": "lock_9",
-        "type": "attribute",
-        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000369",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020072-主角专属3.html</link><guid isPermaLink="false">tag/3020072 主角专属3.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:44:59 GMT</pubDate></item><item><title><![CDATA[3020071 主角专属2]]></title><description><![CDATA[ 
- <br><br><br>"lock_8": {
-        "id": 3020071,
-        "name": "主角专属2",
-        "code": "lock_8",
-        "type": "attribute",
-        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000368",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020071-主角专属2.html</link><guid isPermaLink="false">tag/3020071 主角专属2.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:44:05 GMT</pubDate></item><item><title><![CDATA[3020070 主角专属1]]></title><description><![CDATA[ 
- <br><br><br>"lock_7": {
-        "id": 3020070,
-        "name": "主角专属1",
-        "code": "lock_7",
-        "type": "attribute",
-        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000372",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020070-主角专属1.html</link><guid isPermaLink="false">tag/3020070 主角专属1.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:43:00 GMT</pubDate></item><item><title><![CDATA[3020068 装备商人]]></title><description><![CDATA[ 
- <br><br><br>"lock_5": {
-        "id": 3020068,
-        "name": "装备商人",
-        "code": "lock_5",
-        "type": "attribute",
-        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5002010和5002011使用（装备商人）",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {}
-    },
-
-]]></description><link>tag\3020068-装备商人.html</link><guid isPermaLink="false">tag/3020068 装备商人.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:42:11 GMT</pubDate></item><item><title><![CDATA[3020061 侍奉苏丹2]]></title><description><![CDATA[ 
- <br><br><br>"lock_4": {
-        "id": 3020061,
-        "name": "侍奉苏丹2",
-        "code": "lock_4",
-        "type": "attribute",
-        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5001018使用。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 1,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020061-侍奉苏丹2.html</link><guid isPermaLink="false">tag/3020061 侍奉苏丹2.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:40:16 GMT</pubDate></item><item><title><![CDATA[3020060 侍奉苏丹]]></title><description><![CDATA[ 
- <br><br><br>"lock_3": {
-    "id": 3020060,
-    "name": "侍奉苏丹",
-    "code": "lock_3",
-    "type": "attribute",
-    "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5001016使用。",
-    "tips": "",
-    "resource": "tag_0",
-    "can_add": 0,
-    "can_visible": 0,
-    "can_inherit": 1,
-    "can_nagative_and_zero": 0,
-    "fail_tag": [],
-    "tag_vanishing": 0,
-    "tag_sfx": "",
-    "tag_rank": 10,
-    "attributes": {
-        "吸附指定": 1
-    }
-},
-]]></description><link>tag\3020060-侍奉苏丹.html</link><guid isPermaLink="false">tag/3020060 侍奉苏丹.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:39:09 GMT</pubDate></item><item><title><![CDATA[3020059 锁定妓女2]]></title><description><![CDATA[ 
- <br><br><br>"lock_2": {
-        "id": 3020059,
-        "name": "锁定妓女2",
-        "code": "lock_2",
-        "type": "attribute",
-        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5002024使用。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 1,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020059-锁定妓女2.html</link><guid isPermaLink="false">tag/3020059 锁定妓女2.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:38:05 GMT</pubDate></item><item><title><![CDATA[3020058 锁定妓女1]]></title><description><![CDATA[ 
- <br><br><br>"lock_1": {
-        "id": 3020058,
-        "name": "锁定妓女1",
-        "code": "lock_1",
-        "type": "attribute",
-        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5002028使用。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 1,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-
-]]></description><link>tag\3020058-锁定妓女1.html</link><guid isPermaLink="false">tag/3020058 锁定妓女1.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:37:01 GMT</pubDate></item><item><title><![CDATA[3020050 质子]]></title><description><![CDATA[ 
- <br><br><br>"hostage": {
-        "id": 3020050,
-        "name": "质子",
-        "code": "hostage",
-        "type": "attribute",
-        "text": "只能被带有质子标签的仪式吸引。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 0,
-        "can_inherit": 1,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3020050-质子.html</link><guid isPermaLink="false">tag/3020050 质子.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:32:29 GMT</pubDate></item><item><title><![CDATA[3010045 囚徒]]></title><description><![CDATA[ 
- <br><br><br>"prisoner": {
-        "id": 3010045,
-        "name": "囚徒",
-        "code": "prisoner",
-        "type": "attribute",
-        "text": "按照苏丹的法律，需要被关在监狱里的人。花费一些代价可能可以释放他们。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 1,
-        "can_inherit": 1,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 50,
-        "attributes": {
-            "吸附指定": 1
-        }
-    },
-]]></description><link>tag\3010045-囚徒.html</link><guid isPermaLink="false">tag/3010045 囚徒.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:25:17 GMT</pubDate></item><item><title><![CDATA[3020251 诞生]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Obsidian</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 08 Apr 2025 14:58:07 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 08 Apr 2025 14:57:46 GMT</pubDate><copyright><![CDATA[王清芊]]></copyright><ttl>60</ttl><dc:creator>王清芊</dc:creator><item><title><![CDATA[3020251 诞生]]></title><description><![CDATA[ 
  <br><br><br>"lock_142": {
         "id": 3020251,
         "name": "诞生",
@@ -3536,26 +2696,7 @@
         "tag_rank": 10,
         "attributes": {}
     },
-]]></description><link>tag\3020092-免疫.html</link><guid isPermaLink="false">tag/3020092 免疫.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:43:24 GMT</pubDate></item><item><title><![CDATA[3020051 黑暗知识]]></title><description><![CDATA[ 
- <br><br><br>"dark_ knowledge": {
-        "id": 3020051,
-        "name": "黑暗知识",
-        "code": "dark_ knowledge",
-        "type": "attribute",
-        "text": "禁忌的知识，用于阅读带有黑暗知识的书籍，或者举行邪恶的仪式。",
-        "tips": "",
-        "resource": "tag_0",
-        "can_add": 0,
-        "can_visible": 1,
-        "can_inherit": 0,
-        "can_nagative_and_zero": 0,
-        "fail_tag": [],
-        "tag_vanishing": 0,
-        "tag_sfx": "",
-        "tag_rank": 10,
-        "attributes": {}
-    },
-]]></description><link>tag\3020051-黑暗知识.html</link><guid isPermaLink="false">tag/3020051 黑暗知识.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:19:57 GMT</pubDate></item><item><title><![CDATA[3020090 罪证]]></title><description><![CDATA[ 
+]]></description><link>tag\3020092-免疫.html</link><guid isPermaLink="false">tag/3020092 免疫.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:43:24 GMT</pubDate></item><item><title><![CDATA[3020090 罪证]]></title><description><![CDATA[ 
  <br><br><br>"evidence": {
         "id": 3020090,
         "name": "罪证",
@@ -6044,7 +5185,1674 @@
         "tag_rank": 94,
         "attributes": {}
     },
-]]></description><link>tag\3000006-社交.html</link><guid isPermaLink="false">tag/3000006 社交.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:43:32 GMT</pubDate></item><item><title><![CDATA[3000005 战斗]]></title><description><![CDATA[ 
+]]></description><link>tag\3000006-社交.html</link><guid isPermaLink="false">tag/3000006 社交.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:43:32 GMT</pubDate></item><item><title><![CDATA[card]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>"over":结局id 开启结局   
+<br>"event_on":event_id 开启 event  
+<br>官方没使用过但推测可用的指令 "rite":rite_id （已测试可用）
+<br><br>condition：<br>
+<br>tag_tips.tagName:1 检测 rite 的 tag_tips 里有无对应属性判定   
+<br>"parent.tagName":1 检测父对象是否有某 tag  
+<br>官方没使用过但推测可用的指令 "self.tagName":1 （已测试可用） 
+<br>任何你在 <a data-href="rite" href="tips\rite.html" class="internal-link" target="_self" rel="noopener nofollow">rite</a> 的 condition 里可以使用的指令  
+<br>result ：<br>
+<br>"clean.self": 1 把自己从卡池中清除  
+<br>"parent-equip": card_id 让父对象减去装备对应 card  
+<br>官方没使用过但可以推测的指令 "self-equip": card_id  
+<br>action：<br>
+<br>"over":结局id  
+<br>官方没使用过但推测可用的指令 "event_on":event_id  
+<br>官方没使用过但推测可用的指令 "rite":rite_id 
+<br><br>默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
+<br>
+id<br>
+卡的 id 需要唯一，官方格式是普通卡 20xxxxx，苏丹卡 21xxxxx（<a data-href="2000512 银纵欲" href="cards\物品\已启用\苏丹卡\2000512-银纵欲.html" class="internal-link" target="_self" rel="noopener nofollow">2000512 银纵欲</a>到 <a data-href="2000515 铜征服" href="cards\物品\已启用\苏丹卡\2000515-铜征服.html" class="internal-link" target="_self" rel="noopener nofollow">2000515 铜征服</a>是新手教程特用苏丹卡，不随苏丹卡编号 ）
+
+<br>
+name<br>
+卡牌的名字，显示位置如图 <img alt="12.png" src="lib\media\12.png">  
+
+<br>
+title<br>
+卡牌副标题，显示位置如图 <img alt="14.png" src="lib\media\14.png">  
+
+<br>
+text<br>
+卡牌介绍，显示位置如图 <img alt="15.png" src="lib\media\15.png">  
+
+<br>
+pops<br>
+角色冒出气泡，官方没在这里写过
+
+<br>
+card_favour<br>
+原意是喜欢什么，但现在没有这个设定，似乎变成了玩家不可见的备注，未找到显示位置
+
+<br>
+type<br>
+卡牌分类，目前只有角色 char 、物品 item 和苏丹卡 sultan 三个大类，体现在如图位置
+<img alt="16.png" src="lib\media\16.png"><br>
+不推荐新创建分类，因为会导致卡牌无法打开详情页，但如果你要的就是这个效果……除了无法打开详情页，它的运行一切正常
+
+<br>
+tips<br>
+似乎是玩家不可见的备注，未找到显示位置
+
+<br>
+rare<br>
+卡牌等级， 1 到 4 分别对应石到金
+
+<br>
+resource<br>
+卡牌对应图片资源位置
+
+<br>
+tag<br>
+卡牌携带的 tag，显示在如图位置 <img alt="18.png" src="lib\media\18.png">  
+
+<br>
+card_vanishing<br>
+卡牌自毁的时间，最长是 7 天
+
+<br>
+vanish<br>
+损毁的效果
+
+<br>
+equips<br>
+可装备的东西
+
+<br>
+is_only<br>
+是否唯一
+
+<br>
+post_rite  
+
+<br>在 rite 事件中满足条件达成结果
+<br>condition 条件
+<br>result_text 额外展示的文本内容
+<br>result 结果（玩家可见）
+<br>action 结果（玩家不可见）
+
+
+]]></description><link>tips\card.html</link><guid isPermaLink="false">tips/card.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 04:53:37 GMT</pubDate><enclosure url="lib\media\12.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\12.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[event]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>
+计数器，填入数字或数组 "round_begin_ba":number "round_begin_ba":[number,number]<br>
+单个数字：在填入的数字后的回合开始时触发（注意：如果倒计时结束后 condition 条件不满足，会在下一回合继续检验）<br>
+数组：格式为[n, n]，系统自动随机填入的数字范围内数字，在随机数后的回合开始触发，同样遵循 condition
+
+<br>
+"rite_end": rite_id 也可以填数组，格式为[rite_id, rite_id,……]任意填入 rite 关闭后触发 
+
+<br>
+"rite_end":1 任意 rite 结束后触发 
+
+<br>
+"rite_start": rite_id 也可以填数组，格式为[rite_id, rite_id,……]任意填入 rite 开始运行后触发
+
+<br>
+"card_clean":card_id 也可以填数组，格式为[card_id, card_id,……]任意填入 card 被移除后触发  
+
+<br>
+"card_clean":1 任意卡被移除触发 
+
+<br>
+"open_rite":1 打开任意 rite 触发（来自旧新手引导，未测试，可能已废弃）
+
+<br>
+"open_rite_end":rite_id 打开指定 rite 后 （未测试）
+
+<br>
+"close_prompt":1 关闭任意弹窗文本后触发（来自旧新手引导，未测试，可能已废弃）  
+
+<br>
+"open_card_info":1 打开任意卡牌详情页触发（来自旧新手引导，未测试，可能已废弃）
+
+<br>
+"open_card_info_end":1 任意卡牌详情页打开完毕后
+
+<br>
+"show_wizard_option":1 在抽卡界面开启时 
+
+<br>
+"sudan_redraw_start":1 玩家选择换牌选项
+
+<br>
+"close_wizard":1 关闭女术士的抽卡界面时
+
+<br>
+"rite_can_start":1 任意仪式可以开始时
+
+<br>
+"rite_cancel":rite_id 官方备注为“运行出发时”，看不懂，待测试 
+
+<br>
+"back_to_prev_round_end":1 返回上回合结束后
+
+<br>
+"game_end":number 正数对应 over 内的结局，-1是任意结束，-2是失败，-3是任意胜利，-4是小胜，-5是大胜 
+
+<br>
+"card_born":card_id 指定卡牌生成后
+
+<br>
+"counter":counterid 指定计数器变更后（也可能是增加后，待测试）
+
+<br>
+"close_begin_guide":"begin_guide_type" 指定引导结束后（玩家改动似乎用不上）
+
+<br>
+"rite_can_fill":1 任意仪式可以自动填充（玩家改动似乎用不上）
+
+<br>
+"rite_can_stop":1 任意仪式可以撤回（玩家改动似乎用不上）
+
+<br><br>
+<br>为空，由 on 触发后无需任何条件即可开启
+<br>"have.cardid":1 卡池中有对应 card
+变体 1："have.cardid.tagName":1 卡池中此 card 有此 tag ，需要先查找到 card<br>
+变体 2："have.cardid&gt;":number 带比大小的，运算符包括[&gt;,&lt;,&gt;=,&lt;=]，满足数量条件才可<br>
+变体 3："have.cardid.tagName&lt;=":number 和 tag 比大小，可使用运算符同上  
+<br>"table_have.cardid":1 卡池中有对应 card 且此 card 空闲（不在任何 rite 中），有变体，形式同上条  
+<br>"hand_have.cardid":1 玩家手牌中有对应 card，有变体，形式同上上条
+<br>"counter.counterid&gt;=":number 和存档内记录的计数器比大小  
+<br>"rite":rite_id "!rite":rite_id 场上存在/不存在对应 rite
+<br>"f:counter.counterid+counter.counterid&lt;":number 使用计算时用 f: 开头，计算符号包括[+,-]，比较符号包括[&gt;,&lt;,&gt;=,&lt;=]
+<br><br>
+<br>"type":"sudan" 移除任意一张苏丹卡时
+<br><br>默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试  <br>
+<br>
+id<br>
+本 event 事件 id，需唯一，官方格式为 53xxxxx
+
+
+<br>
+text<br>
+描述，玩家不可见
+
+<br>
+is_replay<br>
+本次 event 被开启后是否可以重复触发
+
+<br>
+auto_start<br>
+似乎已废弃，保持 false 即可，删除此行不影响运行
+
+<br>
+auto_start_init<br>
+只见过:[1]的情况，意思是开局就加载本 event
+
+<br>
+start_trigger<br>
+是否启动就立即开始校验条件
+
+<br>
+on<br>
+启动的时机，可以写多个条件，全部满足后触发
+
+<br>
+condition<br>
+触发条件，满足即触发
+
+<br>
+settlement
+
+<br>触发效果	
+<br>tips_resource<br>
+官方注释说，提示资源配置为空，就不弹提示框，但是这整个苏游就没有不为空的。<br>
+推荐不进行改动
+<br>tips_text<br>
+和上一条情况一致，也一直为空。推荐不进行改动
+<br>action<br>
+触发后效果，一般无显示  
+
+<br>prompt  
+
+<br>弹窗显示的文本  
+<br>id<br>
+格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ prompt_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
+<br>text<br>
+弹窗显示的文字
+<br>icon<br>
+显示在右侧的图片路径，可以删除此段
+
+
+<br>option
+
+<br>选项弹窗
+<br>id<br>
+格式通常为：<a data-tooltip-position="top" aria-label="^1b7b2c" data-href="#^1b7b2c" href="about:blank#^1b7b2c" class="internal-link" target="_self" rel="noopener nofollow">eventId</a> _ option_1 (请删除空格，此处是为了看的更清楚，最后的数字可换可增加，只是为了此处 id 不重复和方便辨认)
+<br>text<br>
+弹窗显示的文字
+<br>icon<br>
+显示在右侧的图片路径 ，可以删除此段	
+<br>items
+
+<br>text
+选项显示的文字
+<br>tag
+通常为 op1，op2 ……一直编号下去
+
+
+
+
+<br>case: op1<br>
+数字可更换，和上面的 item 对应，括号内写选后的结果
+
+
+
+
+]]></description><link>tips\event.html</link><guid isPermaLink="false">tips/event.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Fri, 04 Apr 2025 07:00:42 GMT</pubDate></item><item><title><![CDATA[rite]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>
+id<br>
+本 rite 事件 id，需唯一，官方格式为 50xxxxx
+
+<br>
+name
+本 rite 的名字，显示位置如图<br>
+<img alt="7.png" src="lib\media\7.png">
+
+<br>
+text<br>
+本 rite 描述，显示位置如图<br>
+<img alt="8.png" src="lib\media\8.png">
+
+<br>
+tips<br>
+本 rite 的提示语，显示位置如图<br>
+<img alt="9.png" src="lib\media\9.png"><br>
+格式为"some words",“next line words”
+
+<br>
+mapping_id<br>
+使用非默认事件背景显示的对应文件
+
+<br>
+once_new<br>
+是否新出现，0 为否显示 <img alt="4.png" src="lib\media\4.png">，1 为是仅显示前面的图标
+
+<br>
+round_number<br>
+本 rite 开启后的持续回合<br>
+为 0 时，点击 <img alt="11.png" src="lib\media\11.png"> 后直接结算<br>
+设置大于等于 1 时则 <img alt="10.png" src="lib\media\10.png"> 倒计时结束后结算  
+
+<br>
+waiting_round<br>
+本 rite 被触发后在地图上显示的回合数，0 常驻显示
+
+<br>
+waiting_round_end_action<br>
+本 rite 被触发后未手动操作运行，等待回合走到 0 后进行的操作
+
+<br>
+method_settlement<br>
+官方备注：没用
+
+<br>
+auto_begin<br>
+是否不进行操作也会自动开始
+
+<br>
+auto_result<br>
+是否自动显示结果
+
+<br>
+location<br>
+本 rite 在地图上的地址
+
+<br>
+icon<br>
+本 rite 采用的 <img alt="6.png" src="lib\media\6.png"> 图标资源路径  
+
+<br>
+tag_tips<br>
+本 rite 内参与判断的属性，此项玩家不可见
+
+<br>
+tag_tips_up<br>
+显示给玩家的本 rite 判断属性
+
+<br>
+tips_text<br>
+判断属性的文字提示
+
+<br>
+open_conditions<br>
+本 rite 的开启条件，未达成时 rite 右下角的√不可点击触发
+
+<br>
+random_text<br>
+骰子的文字提示，此项玩家不可见
+
+<br>
+random_text_up<br>
+显示给玩家的骰子提示
+
+<br>
+settlement_prior<br>
+优先判断的内容，自上而下判定，满足任意 condition 条件后结束判断<br>
+会覆盖settlement，不可以触发settlement_extre
+
+<br>
+settlement  
+
+<br>正常内容显示处，自上而下判定，满足任意 condition 条件后结束判断  
+<br>condition<br>
+判断条件
+<br>result_title<br>
+满足条件后显示的结果标题
+<br>result_text<br>
+满足条件后显示的结果文本
+<br>result<br>
+显示给玩家的结果
+<br>action<br>
+不显示给玩家的结果
+
+
+<br>
+settlement_extre<br>
+额外判定，自上而下判定，所有满足条件的都会按顺序显示结果
+
+<br>
+cards_slot
+
+<br>卡槽，必须有一个
+<br>s1<br>
+每个 rite 独立，由 1 开始编号
+<br>condition<br>
+可放入的卡的条件
+<br>open_adsorb<br>
+是否自动吸入，1 为是
+<br>is_key<br>
+是否被锁住（被锁住不可再调整状态，如取出 rite，安装装备）
+<br>is_empty<br>
+是否可以为空，1 为是
+<br>is_enemy<br>
+是否被判定为敌方单位
+<br>text<br>
+鼠标悬停在卡槽上看见的提示
+<br>pops  
+
+<br>可不写，放入卡槽中出现的语言气泡  
+<br>condition<br>
+气泡出现条件
+<br>action  
+
+<br>气泡出现内容，此处直接写入会按顺序显示  
+<br>choose<br>
+选取一个内容显示
+
+
+
+
+
+
+]]></description><link>tips\rite.html</link><guid isPermaLink="false">tips/rite.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 12:22:17 GMT</pubDate><enclosure url="lib\media\7.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\7.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[没什么用的tips]]></title><description><![CDATA[ 
+ <br>
+<br>你对手牌区进行更改后点击手牌区右上角的 x 和手牌区右下角的√的改动结果：
+<br><br>
+<br>当前版本拉满命运商店需要花 504 点命运点（并未统计测试版）  
+<br>在下图这个时候新抽到的苏丹卡并没有被保存进存档 <img alt="5.png" src="lib\media\5.png">  如果疯狂到底的时候抽到不满意的苏丹卡，可以直接在窗口模式点×退出游戏，回来是没抽的状态  
+<br>珠宝商人热娜设计的产品共 12 件全是饰品
+<br>双头龙设计了一共 13 种食客，每个都有石到黄金四个等级<br>
+（意思是一千多 card 里面有约二十分之一是食客，小玩具你有什么头绪吗）
+]]></description><link>tips\没什么用的tips.html</link><guid isPermaLink="false">tips/没什么用的tips.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 01 Apr 2025 14:46:52 GMT</pubDate><enclosure url="lib\media\5.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\5.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[⭐️需要知道的基础]]></title><description><![CDATA[ 
+ <br>
+<br>用记事本也能改，用 IDE 如 vs 可以，或者 vscode 或者 notepad 随便什么代码编辑器都可以，可以打开并编辑 json 文件的软件就可以<br>
+个人推荐用代码编辑器改，因为方便找对应括号
+<br>除非是末尾句，每句最末请添加 ,，英文的，半角的
+<br>true 是 true，不是 ture  
+<br>任意非比大小（不是说这类不可以加，但是换个比较符号不是更方便）的 condition 条件都可以在前面加 ! 表示否定，即满足非此条件时可以触发
+<br>有装备槽的装备可以拆卸，如果需要增加，写上增加的 tag 名  
+<br>手牌中添加：  
+
+<br>存档 "tag":["own:1"]  
+<br>仪式：人物 tag 添加追随者，物品 tag 添加已拥有
+
+
+<br>
+]]></description><link>tips\⭐️需要知道的基础.html</link><guid isPermaLink="false">tips/⭐️需要知道的基础.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 13:45:23 GMT</pubDate></item><item><title><![CDATA[本地存档（保存永久属性）]]></title><description><![CDATA[ 
+ <br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
+<br>
+saveTime<br>
+保存时间
+
+<br>
+finishTutorial<br>
+是否完成新手教程
+
+<br>
+inGame<br>
+是否在游戏中
+
+<br>
+totalRound<br>
+总共打过的天数（游戏时间）
+
+<br>
+totalPoint<br>
+拥有的命运点（不算被使用的部分）  
+
+<br>
+usedPoint<br>
+被使用的命运点  
+
+<br>
+upgradeState<br>
+升级状态  
+
+<br>
+questState<br>
+成就状态  
+
+<br>
+upgrade<br>
+命运商店升级项  
+
+<br>
+quest<br>
+完成的成就  
+
+<br>
+counter<br>
+本地永久计数器  
+
+<br>
+hasEnterSudanBox<br>
+是否已经打开过苏丹的盒子（指右上角苏丹盒子的红点）
+
+<br>
+hasEnterQuest<br>
+是否已经点开成就卷轴（也是红点）
+
+<br>
+backToPrevRound<br>
+总归可以返回回合开始的次数 
+
+<br>
+roundRollback
+
+<br>
+overRecord  
+
+<br>Id 死亡结局的 id，可在 over 中观看
+<br>Char_cards 存储格式和自动存档内的 card 一致
+<br>After_storys 后日谈状态
+<br>Time 保存时间
+
+
+<br>
+gameStatistics
+
+<br>0/1 0 是新手教程，1 是正常开局
+
+<br>startTimes 开始的次数
+<br>overTimes 结束的次数
+
+
+
+
+<br>
+doneRite<br>
+（整个游戏）已完成的 rite
+
+<br>
+doneEvent<br>
+（整个游戏）已完成的 event
+
+<br>
+showedPrompt<br>
+（整个游戏）已展示过的文字提示（包含 event 的文字弹窗和角色的语言气泡）  
+
+<br>
+choosedOption<br>
+（整个游戏）已选过的选项
+
+]]></description><link>tips\本地存档（保存永久属性）.html</link><guid isPermaLink="false">tips/本地存档（保存永久属性）.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 05:08:23 GMT</pubDate></item><item><title><![CDATA[自动存档]]></title><description><![CDATA[ 
+ <br><br>存档文件夹中的 auto_save. json，仅在一局游戏中存在此存档，如果当前没有正在进行中的游戏，文件夹内没有该文件  <br><br>退出时手动点击保存游戏<br>
+每日抽取苏丹卡且触发完当天的 event 后，此时生成新 round 文件<br>
+<img alt="2.png" src="lib\media\2.png"><br>
+调整手牌位置和改变仪式状态（包括点开和关闭，但仅开关不会写入内容）<br>
+进入下一天点击后生成新 round 文件<br>
+<img alt="3.png" src="lib\media\3.png"><br>
+疯狂到底再抽一张苏丹卡，在卡进入牌池之后保存（也就是说抽到不满意，你可以急流勇退退出游戏 x）<br><br>  默认填入数字，填入 true 和 false 用斜体，填入复杂数据加粗，填入字符串用下划线表示，标黄内容不确定，需要更多测试<br>
+<br>
+configId<br>
+config 的 id，目前新手教程是 0，正常开局是 1  
+
+<br>
+configVersion<br>
+config 文件的版本  
+
+<br>
+name<br>
+主角姓名  
+
+<br>
+difficulty<br>
+难度等级（新手教程 0，梅姬 1，哈桑 2，女术士 3）  
+
+<br>
+round<br>
+回合数量（从 0 开始计数，round 0 为游戏开始，未抽取苏丹卡时）
+
+<br>
+saveTime<br>
+自动存档保存时间
+
+<br>
+card_uid_index<br>
+卡的 uid 索引，数字为场上存在总共卡的数量-1
+
+<br>
+rite_uid_index<br>
+仪式的 uid 索引，数字为场上存在总共仪式的数量-1
+
+<br>
+sudan_box_show<br>
+当前回合是否已抽取苏丹卡
+
+<br>
+after_round_auto_sort<br>
+看名字是 rite 自动填充上一次内容，但是多个回合都是 false？
+
+<br>
+sudan_card_init_life<br>
+苏丹卡默认销毁天数  
+
+<br>
+sudan_redraw_count<br>
+苏丹卡可重抽次数 
+
+<br>
+sudan_redraw_times_per_round<br>
+每 n 回合可以重抽苏丹卡  
+
+<br>
+sudan_redraw_times<br>
+不是，怎么还有 redraw???  
+
+<br>
+sudan_redraw_times_recovery_round  
+
+<br>
+wizard_first_show<br>
+是否已经见过女术士
+
+<br>
+success<br>
+是否达成胜利？
+
+<br>
+over_reason<br>
+本回合/存档结束理由
+
+<br>
+ithink_card<br>
+头上有俺寻思的卡  
+
+<br>
+card   
+
+<br>所有预加载卡的卡池
+
+<br>uid<br>
+系统默认分配  
+<br>id<br>
+卡的 id  
+<br>count<br>
+卡数量   
+<br>life<br>
+存活时长
+<br>rareup<br>
+品质升级情况（默认为 0）  
+<br>tag  卡携带的 tag  
+
+<br>equip_slots  装备槽  
+
+<br>weapon 武器  
+<br>Cloth 衣服  
+<br>Accessory 首饰  
+
+
+
+
+<br>equips<br>
+卡的装备情况，数组，其中可以嵌套卡的结构，未试验最多可嵌套几层  
+<br>Bag<br>
+手牌区（从上至下分别是 0 到 3）
+<img alt="1.png" src="lib\media\1.png">  
+<br>Bagpos<br>
+在手牌区中的顺位（0不显示在手牌区，从1开始数字越大显示越靠右）  
+<br>Custom_name  
+<br>Custom_text  
+
+
+
+
+<br>
+rites  
+
+<br>
+当前场上事件 
+
+<br>
+uid<br>
+系统自动生成
+
+<br>
+id<br>
+rite 的 id
+
+<br>
+new_born<br>
+默认显示为是，点开后显示否
+
+<br>
+is_show<br>
+是显示仪式文字 <img alt="4.png" src="lib\media\4.png"> 否仅显示图标 
+
+<br>
+start<br>
+是否已经开始仪式
+
+<br>
+start_round<br>
+rite 开始的回合数
+
+<br>
+start_life  
+
+<br>
+life<br>
+rite存在时长
+
+<br>
+cards<br>
+仪式中的卡牌，显示顺序不固定，怀疑是美工手动放的框，显示顺序为框的新建顺序，与位置无关，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致
+
+<br>
+custom_name
+
+
+
+
+
+<br>
+pins
+
+<br>
+sudan_pool_cards<br>
+苏丹卡卡池总览
+
+<br>
+sudan_pool<br>
+卡池，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致，似乎已被下一项替代（此处在 test 0.5 版及以前被使用，3 月 28 日更新的新存档格式中为空，原本相似的内容存在 sudan_card_pool 项中）  
+
+<br>
+sudan_card_pool
+卡池，存取 card 格式与<a data-tooltip-position="top" aria-label="^a7c896" data-href="#^a7c896" href="about:blank#^a7c896" class="internal-link" target="_self" rel="noopener nofollow">上文</a>一致
+
+<br>
+sudan_pool_pos  
+
+<br>
+sudan_pool_init_count<br>
+初始化苏丹卡总数
+
+<br>
+sudan_card_show_times  
+
+<br>
+sudan_remove_count<br>
+折断苏丹卡的次数
+
+<br>
+counter<br>
+计数器，仅限单局内
+
+<br>
+global_counter_cacher<br>
+全局计数器
+
+<br>
+random_cache  
+
+<br>
+only_cards<br>
+有唯一属性的卡
+
+<br>
+only_rites<br>
+有唯一属性的仪式
+
+<br>
+event_status<br>
+已触发成功的 event 是否可以重复触发（is_replay 显示为 0 和成功后关闭 event 都显示为 false）
+
+<br>
+delay_ops<br>
+怀疑是延迟触发的弹窗记录，待测试
+
+<br>
+end_rites<br>
+已结束的仪式
+
+<br>
+gen_cards<br>
+当前场上所有的卡的计数
+
+<br>
+gen_tags<br>
+当前所有的 tag 计数
+
+<br>
+timing_rounds<br>
+event 在第 n 回合检验条件（冒号后的数字即检验条件是否符合的回合，不满足条件仍然不能触发）
+
+<br>
+notes
+
+<br>type 分类（10001 是人物，10002 是物品和未定义分类东西，1 和 3 是仪式（还没确认分类方法，似乎 1 是新仪式，3 是触发过的仪式））
+<br>id 具有唯一性，识别是什么
+<br>uid 系统自动分配
+<br>count 数量，仪式显示为 0
+
+
+<br>
+once_new_rites_is_show<br>
+曾经触发过且需要被重复触发的 rite，保存他们的<a data-tooltip-position="top" aria-label="^878bec" data-href="#^878bec" href="about:blank#^878bec" class="internal-link" target="_self" rel="noopener nofollow">图标显示信息</a>
+
+<br>
+cached_event  
+
+<br>
+BagIndex<br>
+当前显示的手牌区
+
+<br>
+last_round_rite_data  
+
+<br>之前天的仪式内放置数据
+<br>格式："rite_id":{"s1":{"id": "card_id","count": num},……"sn":{}}
+
+
+<br>
+rite_auto_result  
+
+<br>
+disable_auto_gen_sudan_card  
+
+<br>
+custom_rite_name  
+
+<br>
+end_open  
+
+]]></description><link>tips\自动存档.html</link><guid isPermaLink="false">tips/自动存档.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Wed, 02 Apr 2025 04:54:11 GMT</pubDate><enclosure url="lib\media\2.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[3020255 吸收王冠]]></title><description><![CDATA[ 
+ <br><br><br>"lock_146": {
+        "id": 3020255,
+        "name": "吸收王冠",
+        "code": "lock_146",
+        "type": "attribute",
+        "text": "标识吸收王冠",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    }
+
+]]></description><link>tag\3020255-吸收王冠.html</link><guid isPermaLink="false">tag/3020255 吸收王冠.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:20:34 GMT</pubDate></item><item><title><![CDATA[3020254 吸收信徒]]></title><description><![CDATA[ 
+ <br><br><br>"lock_145": {
+        "id": 3020254,
+        "name": "吸收信徒",
+        "code": "lock_145",
+        "type": "attribute",
+        "text": "标识吸收信徒",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020254-吸收信徒.html</link><guid isPermaLink="false">tag/3020254 吸收信徒.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:16:26 GMT</pubDate></item><item><title><![CDATA[3020253 吸收念珠]]></title><description><![CDATA[ 
+ <br><br><br>"lock_144": {
+        "id": 3020253,
+        "name": "吸收念珠",
+        "code": "lock_144",
+        "type": "attribute",
+        "text": "标识吸收念珠",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020253-吸收念珠.html</link><guid isPermaLink="false">tag/3020253 吸收念珠.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:14:46 GMT</pubDate></item><item><title><![CDATA[3020252 吸收天使]]></title><description><![CDATA[ 
+ <br><br><br>"lock_143": {
+        "id": 3020252,
+        "name": "吸收天使",
+        "code": "lock_143",
+        "type": "attribute",
+        "text": "标识吸收天使",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020252-吸收天使.html</link><guid isPermaLink="false">tag/3020252 吸收天使.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:13:30 GMT</pubDate></item><item><title><![CDATA[3020249 逃跑]]></title><description><![CDATA[ 
+ <br><br><br>"run": {
+        "id": 3020249,
+        "name": "逃跑",
+        "code": "run",
+        "type": "attribute",
+        "text": "表明阿里木开始逃跑",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020249-逃跑.html</link><guid isPermaLink="false">tag/3020249 逃跑.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:12:54 GMT</pubDate></item><item><title><![CDATA[3020239 被抓]]></title><description><![CDATA[ 
+ <br><br><br>"lock_135": {
+        "id": 3020239,
+        "name": "被抓",
+        "code": "lock_135",
+        "type": "attribute",
+        "text": "标识偷情被抓的伊曼和玩家",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020239-被抓.html</link><guid isPermaLink="false">tag/3020239 被抓.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:12:03 GMT</pubDate></item><item><title><![CDATA[3020223 你的圣主]]></title><description><![CDATA[ 
+ <br><br><br>"lock_125": {
+        "id": 3020223,
+        "name": "你的圣主",
+        "code": "lock_125",
+        "type": "attribute",
+        "text": "用来标识圣主对你没有恶意，并且在需要的时候会来帮助你，玩家不可见",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020223-你的圣主.html</link><guid isPermaLink="false">tag/3020223 你的圣主.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:11:23 GMT</pubDate></item><item><title><![CDATA[3020198 芮尔]]></title><description><![CDATA[ 
+ <br><br><br>"lock_102": {
+        "id": 3020198,
+        "name": "芮尔",
+        "code": "lock_102",
+        "type": "attribute",
+        "text": "芮尔专属，防吸附",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020198-芮尔.html</link><guid isPermaLink="false">tag/3020198 芮尔.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:10:35 GMT</pubDate></item><item><title><![CDATA[3020186 旗手]]></title><description><![CDATA[ 
+ <br><br><br>"lock_91": {
+       "id": 3020186,
+       "name": "旗手",
+       "code": "lock_91",
+       "type": "attribute",
+       "text": "旗手的魅力将为稳定军队的士气提供关键帮助",
+       "tips": "",
+       "resource": "tag_0",
+       "can_add": 0,
+       "can_visible": 1,
+       "can_inherit": 0,
+       "can_nagative_and_zero": 0,
+       "fail_tag": [],
+       "tag_vanishing": 0,
+       "tag_sfx": "",
+       "tag_rank": 10,
+       "attributes": {
+           "吸附指定": 1
+       }
+   },
+
+]]></description><link>tag\3020186-旗手.html</link><guid isPermaLink="false">tag/3020186 旗手.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:09:51 GMT</pubDate></item><item><title><![CDATA[3020186 传令官]]></title><description><![CDATA[ 
+ <br><br><br>"lock_90": {
+        "id": 3020186,
+        "name": "传令官",
+        "code": "lock_90",
+        "type": "attribute",
+        "text": "传令官的隐匿和生存将为战局提供关键帮助",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 1,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020186-传令官.html</link><guid isPermaLink="false">tag/3020186 传令官.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:09:11 GMT</pubDate></item><item><title><![CDATA[3020184 苏丹的精兵]]></title><description><![CDATA[ 
+ <br><br><br>"lock_88": {
+        "id": 3020184,
+        "name": "苏丹的精兵",
+        "code": "lock_88",
+        "type": "attribute",
+        "text": "玩家不可见，用来标识",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020184-苏丹的精兵.html</link><guid isPermaLink="false">tag/3020184 苏丹的精兵.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:08:12 GMT</pubDate></item><item><title><![CDATA[3020183 正当性]]></title><description><![CDATA[ 
+ <br><br><br>"lock_87": {
+        "id": 3020183,
+        "name": "正当性",
+        "code": "lock_87",
+        "type": "attribute",
+        "text": "改朝换代的正当性",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020183-正当性.html</link><guid isPermaLink="false">tag/3020183 正当性.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:07:30 GMT</pubDate></item><item><title><![CDATA[3020179 被覆者]]></title><description><![CDATA[ 
+ <br><br><br>"lock_86": {
+        "id": 3020179,
+        "name": "被覆者",
+        "code": "lock_86",
+        "type": "attribute",
+        "text": "玩家不可见，用来标识",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020179-被覆者.html</link><guid isPermaLink="false">tag/3020179 被覆者.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:06:42 GMT</pubDate></item><item><title><![CDATA[3020178 奈布哈尼准备银趴]]></title><description><![CDATA[ 
+ <br><br><br>"lock_85": {
+       "id": 3020178,
+       "name": "奈布哈尼准备银趴",
+       "code": "lock_85",
+       "type": "attribute",
+       "text": "玩家不可见，用来标识",
+       "tips": "",
+       "resource": "tag_0",
+       "can_add": 0,
+       "can_visible": 0,
+       "can_inherit": 0,
+       "can_nagative_and_zero": 0,
+       "fail_tag": [],
+       "tag_vanishing": 0,
+       "tag_sfx": "",
+       "tag_rank": 10,
+       "attributes": {
+           "吸附指定": 1
+       }
+   },
+
+]]></description><link>tag\3020178-奈布哈尼准备银趴.html</link><guid isPermaLink="false">tag/3020178 奈布哈尼准备银趴.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:05:48 GMT</pubDate></item><item><title><![CDATA[3020176 安全屋]]></title><description><![CDATA[ 
+ <br><br><br>"lock_84": {
+        "id": 3020176,
+        "name": "安全屋",
+        "code": "lock_84",
+        "type": "attribute",
+        "text": "玩家不可见，用来标识",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020176-安全屋.html</link><guid isPermaLink="false">tag/3020176 安全屋.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:04:32 GMT</pubDate></item><item><title><![CDATA[3020162 追随的人]]></title><description><![CDATA[ 
+ <br><br><br>"lock_71": {
+        "id": 3020162,
+        "name": "追随的人",
+        "code": "lock_71",
+        "type": "attribute",
+        "text": "玩家不可见，用来标识，吸附指定",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020162-追随的人.html</link><guid isPermaLink="false">tag/3020162 追随的人.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:02:30 GMT</pubDate></item><item><title><![CDATA[3020152 上朝]]></title><description><![CDATA[ 
+ <br><br><br>"lock_63": {
+        "id": 3020152,
+        "name": "上朝",
+        "code": "lock_63",
+        "type": "attribute",
+        "text": "玩家不可见，用来锁定苏丹上朝的时候就老实上朝",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020152-上朝.html</link><guid isPermaLink="false">tag/3020152 上朝.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:01:47 GMT</pubDate></item><item><title><![CDATA[3020151 蒙面苏丹]]></title><description><![CDATA[ 
+ <br><br><br>"lock_62": {
+        "id": 3020151,
+        "name": "蒙面苏丹",
+        "code": "lock_62",
+        "type": "attribute",
+        "text": "蒙面苏丹，玩家不可见",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020151-蒙面苏丹.html</link><guid isPermaLink="false">tag/3020151 蒙面苏丹.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 14:00:14 GMT</pubDate></item><item><title><![CDATA[3020144 等死吧阿卜德]]></title><description><![CDATA[ 
+ <br><br><br>"lock_56": {
+        "id": 3020144,
+        "name": "等死吧阿卜德",
+        "code": "lock_56",
+        "type": "attribute",
+        "text": "玩家不可见，锁住阿不德用来保证他不会被其他事件吸走",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020144-等死吧阿卜德.html</link><guid isPermaLink="false">tag/3020144 等死吧阿卜德.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:59:22 GMT</pubDate></item><item><title><![CDATA[3020137 金屋藏娇]]></title><description><![CDATA[ 
+ <br><br><br>"lock_54": {
+        "id": 3020137,
+        "name": "金屋藏娇",
+        "code": "lock_54",
+        "type": "attribute",
+        "text": "玩家不可见，用来表示给索拉薇儿住的房子",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020137-金屋藏娇.html</link><guid isPermaLink="false">tag/3020137 金屋藏娇.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:58:01 GMT</pubDate></item><item><title><![CDATA[3020136 囚徒奈费勒]]></title><description><![CDATA[ 
+ <br><br><br>"lock_53": {
+        "id": 3020136,
+        "name": "囚徒奈费勒",
+        "code": "lock_53",
+        "type": "attribute",
+        "text": "玩家不可见，锁住奈费勒用来保证他不会被其他事件吸走",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020136-囚徒奈费勒.html</link><guid isPermaLink="false">tag/3020136 囚徒奈费勒.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:56:56 GMT</pubDate></item><item><title><![CDATA[3020134 火焰大王]]></title><description><![CDATA[ 
+ <br><br><br>"lock_51": {
+        "id": 3020134,
+        "name": "火焰大王",
+        "code": "lock_51",
+        "type": "attribute",
+        "text": "玩家不可见",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020134-火焰大王.html</link><guid isPermaLink="false">tag/3020134 火焰大王.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:55:27 GMT</pubDate></item><item><title><![CDATA[3020105 锁定穆尔台兹]]></title><description><![CDATA[ 
+ <br><br><br>"lock_31": {
+        "id": 3020105,
+        "name": "锁定穆尔台兹",
+        "code": "lock_31",
+        "type": "attribute",
+        "text": "玩家不可见，用于锁定仪式。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020105-锁定穆尔台兹.html</link><guid isPermaLink="false">tag/3020105 锁定穆尔台兹.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:54:25 GMT</pubDate></item><item><title><![CDATA[3020104 罪犯投奔]]></title><description><![CDATA[ 
+ <br><br><br>"lock_30": {
+        "id": 3020104,
+        "name": "罪犯投奔",
+        "code": "lock_30",
+        "type": "attribute",
+        "text": "玩家不可见，用于锁定仪式。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020104-罪犯投奔.html</link><guid isPermaLink="false">tag/3020104 罪犯投奔.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:53:32 GMT</pubDate></item><item><title><![CDATA[3020091 恶名谋杀者]]></title><description><![CDATA[ 
+ <br><br><br>"lock_18": {
+        "id": 3020091,
+        "name": "恶名谋杀者",
+        "code": "lock_18",
+        "type": "attribute",
+        "text": "因为恶名找你杀人的人",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020091-恶名谋杀者.html</link><guid isPermaLink="false">tag/3020091 恶名谋杀者.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:52:13 GMT</pubDate></item><item><title><![CDATA[3020085 恶名挑战者]]></title><description><![CDATA[ 
+ <br><br><br>"lock_15": {
+        "id": 3020085,
+        "name": "恶名挑战者",
+        "code": "lock_15",
+        "type": "attribute",
+        "text": "因为恶名来挑战你的人",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020085-恶名挑战者.html</link><guid isPermaLink="false">tag/3020085 恶名挑战者.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:51:27 GMT</pubDate></item><item><title><![CDATA[3020076 书店老板]]></title><description><![CDATA[ 
+ <br><br><br>"lock_13": {
+        "id": 3020076,
+        "name": "书店老板",
+        "code": "lock_13",
+        "type": "attribute",
+        "text": "玩家不可见。用来锁定书店老板只能在书店出现。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020076-书店老板.html</link><guid isPermaLink="false">tag/3020076 书店老板.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:49:42 GMT</pubDate></item><item><title><![CDATA[3020074 主角专属5]]></title><description><![CDATA[ 
+ <br><br><br>"lock_11": {
+        "id": 3020074,
+        "name": "主角专属5",
+        "code": "lock_11",
+        "type": "attribute",
+        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000371",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020074-主角专属5.html</link><guid isPermaLink="false">tag/3020074 主角专属5.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:49:02 GMT</pubDate></item><item><title><![CDATA[3020073 主角专属4]]></title><description><![CDATA[ 
+ <br><br><br>"lock_10": {
+        "id": 3020073,
+        "name": "主角专属4",
+        "code": "lock_10",
+        "type": "attribute",
+        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000370",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020073-主角专属4.html</link><guid isPermaLink="false">tag/3020073 主角专属4.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:46:21 GMT</pubDate></item><item><title><![CDATA[3020072 主角专属3]]></title><description><![CDATA[ 
+ <br><br><br>"lock_9": {
+        "id": 3020072,
+        "name": "主角专属3",
+        "code": "lock_9",
+        "type": "attribute",
+        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000369",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020072-主角专属3.html</link><guid isPermaLink="false">tag/3020072 主角专属3.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:44:59 GMT</pubDate></item><item><title><![CDATA[3020071 主角专属2]]></title><description><![CDATA[ 
+ <br><br><br>"lock_8": {
+        "id": 3020071,
+        "name": "主角专属2",
+        "code": "lock_8",
+        "type": "attribute",
+        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000368",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020071-主角专属2.html</link><guid isPermaLink="false">tag/3020071 主角专属2.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:44:05 GMT</pubDate></item><item><title><![CDATA[3020070 主角专属1]]></title><description><![CDATA[ 
+ <br><br><br>"lock_7": {
+        "id": 3020070,
+        "name": "主角专属1",
+        "code": "lock_7",
+        "type": "attribute",
+        "text": "玩家不可见。用来锁定专属于玩家的卡在到玩家手上之前不被其他仪式吸走。2000372",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020070-主角专属1.html</link><guid isPermaLink="false">tag/3020070 主角专属1.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:43:00 GMT</pubDate></item><item><title><![CDATA[3020068 装备商人]]></title><description><![CDATA[ 
+ <br><br><br>"lock_5": {
+        "id": 3020068,
+        "name": "装备商人",
+        "code": "lock_5",
+        "type": "attribute",
+        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5002010和5002011使用（装备商人）",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {}
+    },
+
+]]></description><link>tag\3020068-装备商人.html</link><guid isPermaLink="false">tag/3020068 装备商人.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:42:11 GMT</pubDate></item><item><title><![CDATA[3020061 侍奉苏丹2]]></title><description><![CDATA[ 
+ <br><br><br>"lock_4": {
+        "id": 3020061,
+        "name": "侍奉苏丹2",
+        "code": "lock_4",
+        "type": "attribute",
+        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5001018使用。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020061-侍奉苏丹2.html</link><guid isPermaLink="false">tag/3020061 侍奉苏丹2.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:40:16 GMT</pubDate></item><item><title><![CDATA[3020060 侍奉苏丹]]></title><description><![CDATA[ 
+ <br><br><br>"lock_3": {
+    "id": 3020060,
+    "name": "侍奉苏丹",
+    "code": "lock_3",
+    "type": "attribute",
+    "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5001016使用。",
+    "tips": "",
+    "resource": "tag_0",
+    "can_add": 0,
+    "can_visible": 0,
+    "can_inherit": 1,
+    "can_nagative_and_zero": 0,
+    "fail_tag": [],
+    "tag_vanishing": 0,
+    "tag_sfx": "",
+    "tag_rank": 10,
+    "attributes": {
+        "吸附指定": 1
+    }
+},
+]]></description><link>tag\3020060-侍奉苏丹.html</link><guid isPermaLink="false">tag/3020060 侍奉苏丹.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:39:09 GMT</pubDate></item><item><title><![CDATA[3020059 锁定妓女2]]></title><description><![CDATA[ 
+ <br><br><br>"lock_2": {
+        "id": 3020059,
+        "name": "锁定妓女2",
+        "code": "lock_2",
+        "type": "attribute",
+        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5002024使用。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020059-锁定妓女2.html</link><guid isPermaLink="false">tag/3020059 锁定妓女2.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:38:05 GMT</pubDate></item><item><title><![CDATA[3020058 锁定妓女1]]></title><description><![CDATA[ 
+ <br><br><br>"lock_1": {
+        "id": 3020058,
+        "name": "锁定妓女1",
+        "code": "lock_1",
+        "type": "attribute",
+        "text": "玩家不可见。标识这张卡被锁定，不能被其他无关仪式吸走。仪式5002028使用。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+
+]]></description><link>tag\3020058-锁定妓女1.html</link><guid isPermaLink="false">tag/3020058 锁定妓女1.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:37:01 GMT</pubDate></item><item><title><![CDATA[3020050 质子]]></title><description><![CDATA[ 
+ <br><br><br>"hostage": {
+        "id": 3020050,
+        "name": "质子",
+        "code": "hostage",
+        "type": "attribute",
+        "text": "只能被带有质子标签的仪式吸引。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 0,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3020050-质子.html</link><guid isPermaLink="false">tag/3020050 质子.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:32:29 GMT</pubDate></item><item><title><![CDATA[3010045 囚徒]]></title><description><![CDATA[ 
+ <br><br><br>"prisoner": {
+        "id": 3010045,
+        "name": "囚徒",
+        "code": "prisoner",
+        "type": "attribute",
+        "text": "按照苏丹的法律，需要被关在监狱里的人。花费一些代价可能可以释放他们。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 1,
+        "can_inherit": 1,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 50,
+        "attributes": {
+            "吸附指定": 1
+        }
+    },
+]]></description><link>tag\3010045-囚徒.html</link><guid isPermaLink="false">tag/3010045 囚徒.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:25:17 GMT</pubDate></item><item><title><![CDATA[3020051 黑暗知识]]></title><description><![CDATA[ 
+ <br><br><br>"dark_ knowledge": {
+        "id": 3020051,
+        "name": "黑暗知识",
+        "code": "dark_ knowledge",
+        "type": "attribute",
+        "text": "禁忌的知识，用于阅读带有黑暗知识的书籍，或者举行邪恶的仪式。",
+        "tips": "",
+        "resource": "tag_0",
+        "can_add": 0,
+        "can_visible": 1,
+        "can_inherit": 0,
+        "can_nagative_and_zero": 0,
+        "fail_tag": [],
+        "tag_vanishing": 0,
+        "tag_sfx": "",
+        "tag_rank": 10,
+        "attributes": {}
+    },
+]]></description><link>tag\3020051-黑暗知识.html</link><guid isPermaLink="false">tag/3020051 黑暗知识.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Tue, 08 Apr 2025 13:19:57 GMT</pubDate></item><item><title><![CDATA[3000005 战斗]]></title><description><![CDATA[ 
  <br><br><br>"battle": {
         "id": 3000005,
         "name": "战斗",
@@ -9834,10 +10642,7 @@
         "is_only": 0
     },
 
-]]></description><link>cards\物品\已启用\状态\2000689-幸福感.html</link><guid isPermaLink="false">cards/物品/已启用/状态/2000689 幸福感.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Mon, 07 Apr 2025 12:00:29 GMT</pubDate><enclosure url="lib\media\2000689.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000689.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[头顶五大属性]]></title><description><![CDATA[ 
- <br><br><img alt="7100001.webp" src="picture\7100001.webp"> <img alt="7100002.webp" src="picture\7100002.webp"> <img alt="7100003.webp" src="picture\7100003.webp"> <img alt="7100004.webp" src="picture\7100004.webp"> <img alt="7100005.webp" src="picture\7100005.webp"> <img alt="7100006.webp" src="picture\7100006.webp"> <br><br><img alt="7100001.png.webp" src="picture\7100001.png.webp"> <img alt="7100002.png.webp" src="picture\7100002.png.webp"> <img alt="7100003.png.webp" src="picture\7100003.png.webp"> <img alt="7100004.png.webp" src="picture\7100004.png.webp"> <img alt="7100005.png.webp" src="picture\7100005.png.webp"> <img alt="7100006.png.webp" src="picture\7100006.png.webp"> <br><a download="" href="\top.zip" target="_blank" rel="noopener nofollow">下载以上全部内容</a>]]></description><link>picture\头顶五大属性.html</link><guid isPermaLink="false">picture/头顶五大属性.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Mon, 07 Apr 2025 12:28:57 GMT</pubDate><enclosure url="picture\7100001.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="picture\7100001.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[头像汇总]]></title><description><![CDATA[ 
- <br><img alt="2000000.png.webp" src="picture\2000000.png.webp"> <img alt="2000000.webp" src="picture\2000000.webp"> <img alt="2000001.png.webp" src="picture\2000001.png.webp"> <img alt="2000005.png.webp" src="picture\2000005.png.webp"> <img alt="2000006.png.webp" src="picture\2000006.png.webp"> <img alt="2000008.png.webp" src="picture\2000008.png.webp"> <img alt="2000009.png.webp" src="picture\2000009.png.webp"> <img alt="2000010.png.webp" src="picture\2000010.png.webp"> <img alt="2000011.png.webp" src="picture\2000011.png.webp"> <img alt="2000012.png.webp" src="picture\2000012.png.webp"> <img alt="2000013.png.webp" src="picture\2000013.png.webp"> <img alt="2000019.png.webp" src="picture\2000019.png.webp"> <img alt="2000021.png.webp" src="picture\2000021.png.webp"> <img alt="2000022.png.webp" src="picture\2000022.png.webp"> <img alt="2000024.png.webp" src="picture\2000024.png.webp"> <img alt="2000054.png.webp" src="picture\2000054.png.webp"> <img alt="2000055.png.webp" src="picture\2000055.png.webp"> <img alt="2000056.png.webp" src="picture\2000056.png.webp"> <img alt="2000057.png.webp" src="picture\2000057.png.webp"> <img alt="2000059.png.webp" src="picture\2000059.png.webp"> <img alt="2000061.png.webp" src="picture\2000061.png.webp"> <img alt="2000062.png.webp" src="picture\2000062.png.webp"> <img alt="2000063.png.webp" src="picture\2000063.png.webp"> <img alt="2000064.png.webp" src="picture\2000064.png.webp"> <img alt="2000067.png.webp" src="picture\2000067.png.webp"> <img alt="2000069.png.webp" src="picture\2000069.png.webp"> <img alt="2000080.png.webp" src="picture\2000080.png.webp"> <img alt="2000081.png.webp" src="picture\2000081.png.webp"> <img alt="2000082.png.webp" src="picture\2000082.png.webp"> <img alt="2000123.png.webp" src="picture\2000123.png.webp"> <img alt="2000129.png.webp" src="picture\2000129.png.webp"> <img alt="2000161.png.webp" src="picture\2000161.png.webp"> <img alt="2000164.png.webp" src="picture\2000164.png.webp"> <img alt="2000176.png.webp" src="picture\2000176.png.webp"> <img alt="2000288.png.webp" src="picture\2000288.png.webp"> <img alt="2000312.png.webp" src="picture\2000312.png.webp"> <img alt="2000346.png.webp" src="picture\2000346.png.webp"> <img alt="2000347.png.webp" src="picture\2000347.png.webp"> <img alt="2000349.png.webp" src="picture\2000349.png.webp"> <img alt="2000369.png.webp" src="picture\2000369.png.webp"> <img alt="2000370.png.webp" src="picture\2000370.png.webp"> <img alt="2000371.png.webp" src="picture\2000371.png.webp"> <img alt="2000372.png.webp" src="picture\2000372.png.webp"> <img alt="2000459.png.webp" src="picture\2000459.png.webp"> <img alt="2000460.png.webp" src="picture\2000460.png.webp"> <img alt="2000461.png.webp" src="picture\2000461.png.webp"> <img alt="2000503.png.webp" src="picture\2000503.png.webp"> <img alt="2000504.png.webp" src="picture\2000504.png.webp"> <img alt="2000505.png.webp" src="picture\2000505.png.webp"> <img alt="2000506.png.webp" src="picture\2000506.png.webp"> <img alt="2000509.png.webp" src="picture\2000509.png.webp"> <img alt="2000510.png.webp" src="picture\2000510.png.webp"> <img alt="2000522.png.webp" src="picture\2000522.png.webp"> <img alt="2000523.png.webp" src="picture\2000523.png.webp"> <img alt="2000774.png.webp" src="picture\2000774.png.webp"> <img alt="2000792.png.webp" src="picture\2000792.png.webp"> <img alt="2000794.png.webp" src="picture\2000794.png.webp"> <img alt="2000795.png.webp" src="picture\2000795.png.webp"> <img alt="2000861.png.webp" src="picture\2000861.png.webp">
-<a download="" href="\head.zip" target="_blank" rel="noopener nofollow">下载头像资源包</a>]]></description><link>picture\头像汇总.html</link><guid isPermaLink="false">picture/头像汇总.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Mon, 07 Apr 2025 12:22:12 GMT</pubDate><enclosure url="picture\2000000.png.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="picture\2000000.png.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000748 激进的贵族]]></title><description><![CDATA[ 
+]]></description><link>cards\物品\已启用\状态\2000689-幸福感.html</link><guid isPermaLink="false">cards/物品/已启用/状态/2000689 幸福感.md</guid><dc:creator><![CDATA[王清芊]]></dc:creator><pubDate>Mon, 07 Apr 2025 12:00:29 GMT</pubDate><enclosure url="lib\media\2000689.webp" length="0" type="image/webp"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\2000689.webp"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[2000748 激进的贵族]]></title><description><![CDATA[ 
  <br><img alt="2000581.webp" src="lib\media\2000581.webp" style="width: 220px; max-width: 100%;"><br><br><a download="" href="\Sprite\{{VALUE:cardId}}.png" target="_blank" rel="noopener nofollow">下载原图</a><br><br><a download="" href="\Texture2D\{{VALUE:cardId}}.png" target="_blank" rel="noopener nofollow">下载原图</a><br><br><br>    "2000748": {
         "id": 2000748,
         "name": "激进的贵族",
